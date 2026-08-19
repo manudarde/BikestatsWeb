@@ -1,4 +1,4 @@
-# Bike Stats Dashboard v2
+# Bike Stats Dashboard
 
 A static React and TypeScript rebuild of Bike Stats Dashboard for GitHub Pages. MotoGP data is collected at build time, normalized into public JSON, and never requested from a visitor's browser.
 
