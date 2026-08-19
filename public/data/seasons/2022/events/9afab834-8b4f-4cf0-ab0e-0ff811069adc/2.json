@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "9afab834-8b4f-4cf0-ab0e-0ff811069adc",
+    "name": "Catalunya MotoGP™ Official Test",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-06",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

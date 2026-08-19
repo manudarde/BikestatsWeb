@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "0f055ae2-3967-420a-81d0-76143dc97386",
+    "name": "SPAIN MOTO2 & MOTO3 TEST",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2025-02-18",
+    "endDate": "2025-02-20",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": []
+}

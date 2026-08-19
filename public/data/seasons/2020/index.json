@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "seasonId": "fa729c5c-a34a-40b9-8ebf-2578d9433517",
+  "categories": [
+    {
+      "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+      "name": "MotoGP™",
+      "legacyId": 3
+    },
+    {
+      "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+      "name": "Moto2™",
+      "legacyId": 2
+    },
+    {
+      "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+      "name": "Moto3™",
+      "legacyId": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "21c3664c-51f8-41af-ab81-623ea0cb403e",
+      "name": "QNB Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2020-03-06",
+      "endDate": "2020-03-08",
+      "test": false
+    },
+    {
+      "id": "0526086c-4de6-4cf0-9834-af453e996f1f",
+      "name": "Gran Premio Red Bull de España",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2020-07-17",
+      "endDate": "2020-07-19",
+      "test": false
+    },
+    {
+      "id": "c951cffb-e257-403f-96a8-ca9f74c8089f",
+      "name": "Gran Premio Red Bull de Andalucía",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2020-07-24",
+      "endDate": "2020-07-26",
+      "test": false
+    },
+    {
+      "id": "9f32b0cc-d7ac-4056-b1ec-5c556bc37bf7",
+      "name": "Monster Energy Grand Prix České republiky",
+      "circuit": "CREDITAS Autodrom Brno",
+      "country": "Czechia",
+      "startDate": "2020-08-07",
+      "endDate": "2020-08-09",
+      "test": false
+    },
+    {
+      "id": "b4c7b2e0-a518-443f-954e-1642ec85b2be",
+      "name": "myWorld Motorrad Grand Prix von Österreich",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2020-08-14",
+      "endDate": "2020-08-16",
+      "test": false
+    },
+    {
+      "id": "8410c359-4085-4294-9c50-f46422c16b71",
+      "name": "BMW M Grand Prix of Styria",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2020-08-21",
+      "endDate": "2020-08-23",
+      "test": false
+    },
+    {
+      "id": "f49a298b-722c-45ef-a8d6-7961ac4174e6",
+      "name": "Gran Premio Lenovo di San Marino e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2020-09-11",
+      "endDate": "2020-09-13",
+      "test": false
+    },
+    {
+      "id": "10be8de5-dff3-4f24-9311-d60eca6f3a82",
+      "name": "Gran Premio TISSOT dell'Emilia Romagna e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2020-09-20",
+      "endDate": "2020-09-20",
+      "test": false
+    },
+    {
+      "id": "0d0881ae-2f2e-440b-a3de-08801b8d8316",
+      "name": "Gran Premi Monster Energy de Catalunya",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2020-09-25",
+      "endDate": "2020-09-27",
+      "test": false
+    },
+    {
+      "id": "f42bf903-981b-4bc8-bc1c-07dfacc50170",
+      "name": "Shark Helmets Grand Prix de France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2020-10-11",
+      "endDate": "2020-10-11",
+      "test": false
+    },
+    {
+      "id": "ecef246b-2662-4d08-8ee3-4f0fe672f3a5",
+      "name": "Gran Premio Michelin® de Aragón",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2020-10-16",
+      "endDate": "2020-10-18",
+      "test": false
+    },
+    {
+      "id": "bcf1a1c6-e8db-4d62-9822-e50d101c1f4b",
+      "name": "Gran Premio Liqui Moly de Teruel",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2020-10-23",
+      "endDate": "2020-10-25",
+      "test": false
+    },
+    {
+      "id": "5cf046d9-ba83-448b-bdfc-88556ad0ce0d",
+      "name": "Gran Premio de Europa",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "",
+      "startDate": "2020-11-06",
+      "endDate": "2020-11-08",
+      "test": false
+    },
+    {
+      "id": "f60fc3b4-08cc-4f45-987c-3b4e5852429a",
+      "name": "Gran Premio Motul de la Comunitat Valenciana",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2020-11-13",
+      "endDate": "2020-11-15",
+      "test": false
+    },
+    {
+      "id": "9231b7f6-f60b-4edd-b626-6c761c2408b8",
+      "name": "Grande Prémio MEO de Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2020-11-20",
+      "endDate": "2020-11-22",
+      "test": false
+    },
+    {
+      "id": "aa2ad2af-2b34-4e80-aaa8-f19ba7ab5ae3",
+      "name": "Valencia MotoGP™ Official Test",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2019-11-19",
+      "endDate": "2019-11-20",
+      "test": true
+    },
+    {
+      "id": "1a5284a5-e3b5-4c70-b968-2d6a1f0c92ce",
+      "name": "Jerez MotoGP™ Official Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2019-11-25",
+      "endDate": "2019-11-26",
+      "test": true
+    },
+    {
+      "id": "30e3c0ac-d572-425c-b64f-f671fd21e06d",
+      "name": "Sepang MotoGP™ Official Test",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2020-02-07",
+      "endDate": "2020-02-09",
+      "test": true
+    },
+    {
+      "id": "7cd68d29-bf95-4210-a8f0-c8b801ee9090",
+      "name": "Jerez Moto2™-Moto3™ Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2020-02-19",
+      "endDate": "2020-02-21",
+      "test": true
+    },
+    {
+      "id": "2d56b018-50b7-4be6-bd1e-cd17686089e9",
+      "name": "Qatar MotoGP™ Test",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2020-02-22",
+      "endDate": "2020-02-24",
+      "test": true
+    },
+    {
+      "id": "4c6b42b6-a635-4190-af70-97d29128615f",
+      "name": "Qatar Moto2™-Moto3™ Test",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2020-02-28",
+      "endDate": "2020-03-01",
+      "test": true
+    },
+    {
+      "id": "0b56a099-d50a-43bb-b50b-d7882c0d6d7b",
+      "name": "Jerez MotoGP™ 2020 Official Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2020-07-15",
+      "endDate": "2020-07-15",
+      "test": true
+    },
+    {
+      "id": "410320fc-df6d-4c85-bba4-5e455c053ddb",
+      "name": "Misano MotoGP™ 2020 Official Test",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2020-09-15",
+      "endDate": "2020-09-15",
+      "test": true
+    }
+  ]
+}

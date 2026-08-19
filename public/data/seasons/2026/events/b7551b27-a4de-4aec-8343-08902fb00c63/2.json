@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "b7551b27-a4de-4aec-8343-08902fb00c63",
+    "name": "BARCELONA TEST ",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-18",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

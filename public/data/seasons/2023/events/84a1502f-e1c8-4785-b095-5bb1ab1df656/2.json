@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "84a1502f-e1c8-4785-b095-5bb1ab1df656",
+    "name": "Portimao Moto2™ & Moto3™ Official Test ",
+    "circuit": "Estoril Circuit",
+    "country": "Portugal",
+    "startDate": "2023-03-17",
+    "endDate": "2023-03-19",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "7c207b25-54b9-47e8-a302-03d835373210",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-03-17T09:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "0a1bf6ff-cc1a-41e4-8969-c4ee3ce8ac6f",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-03-17T13:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "df3d77f5-e41c-4711-b0e3-7ae893e23edb",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2023-03-17T16:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "17b3a560-0df8-4ef6-8673-27921f25cd6e",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2023-03-18T09:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9826e19a-9ab9-4c59-aeb0-a8dfe4bc8a50",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2023-03-18T12:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "0b76ad65-a1b3-4d83-8fe1-03de8da7cd28",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2023-03-18T14:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "47798d1c-53ac-41d4-b0c2-e73be033a115",
+      "type": "FP",
+      "number": 7,
+      "status": "FINISHED",
+      "date": "2023-03-19T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "114e3c7a-6698-4f94-ae79-79f828dcbf4a",
+      "type": "FP",
+      "number": 8,
+      "status": "FINISHED",
+      "date": "2023-03-19T13:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "7c619310-5d36-46ec-be1e-77266578e21c",
+      "type": "FP",
+      "number": 9,
+      "status": "FINISHED",
+      "date": "2023-03-19T16:15:00+00:00",
+      "classification": []
+    }
+  ]
+}

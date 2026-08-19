@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "0140c3b6-74e6-49f0-a496-0131545deedb",
+    "name": "Misano MotoGP™ Official Test ",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2023-09-11",
+    "endDate": "2023-09-11",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

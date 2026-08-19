@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "3e3dfeb5-1f48-4ab7-8148-345be8d08a63",
+    "name": "BARCELONA MOTOGP TEST",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "startDate": "2024-11-19",
+    "endDate": "2024-11-19",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "18e2f53a-8171-4f0c-ac40-7ddcc434469c",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-11-19T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

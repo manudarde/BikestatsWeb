@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "79e422c6-74f5-421c-b9f4-35c6adff7a9c",
+    "name": "Misano MotoGP™ Official Test",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-09",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "10431b72-1bf9-41c7-a6bd-2d3a73d6f731",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-09-09T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2eb67fcb-5553-4936-ab7e-b35838d49067",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2024-09-09T14:35:00+00:00",
+      "classification": []
+    }
+  ]
+}

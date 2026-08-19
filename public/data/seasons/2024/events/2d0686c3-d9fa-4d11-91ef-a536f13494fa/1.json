@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "2d0686c3-d9fa-4d11-91ef-a536f13494fa",
+    "name": "Jerez MotoGP™ Official Test",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2024-04-29",
+    "endDate": "2024-04-29",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "fca15562-281f-4584-b49f-cc425e29724e",
+    "name": "CZECHIA MOTO2 TEST",
+    "circuit": "CREDITAS Autodrom Brno",
+    "country": "Czechia",
+    "startDate": "2025-07-21",
+    "endDate": "2025-07-21",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "bff866cb-115d-4c4f-a737-eeec41a8c896",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-07-21T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a6a5848e-6b25-4b83-a588-ac28ba632a6c",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-07-21T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

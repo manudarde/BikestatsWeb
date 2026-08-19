@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "revision": "20260819202806",
+  "generatedAt": "2026-08-19T20:28:06.738Z",
+  "source": "https://api.motogp.pulselive.com/motogp/v1",
+  "currentSeason": 2026,
+  "seasons": [
+    {
+      "year": 2026,
+      "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+      "current": true
+    },
+    {
+      "year": 2025,
+      "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+      "current": false
+    },
+    {
+      "year": 2024,
+      "id": "dd12382e-1d9f-46ee-a5f7-c5104db28e43",
+      "current": false
+    },
+    {
+      "year": 2023,
+      "id": "db8dc197-c7b2-4c1b-b3a4-6dc534c023ef",
+      "current": false
+    },
+    {
+      "year": 2022,
+      "id": "db8dc197-c7b2-4c1b-b3a4-6dc534c014ef",
+      "current": false
+    },
+    {
+      "year": 2021,
+      "id": "db8dc197-c7b2-4c1b-b3a4-7dc723c087ed",
+      "current": false
+    },
+    {
+      "year": 2020,
+      "id": "fa729c5c-a34a-40b9-8ebf-2578d9433517",
+      "current": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "412a4e57-758b-4aff-a9a9-0e516b5e1256",
+    "name": "VALENCIA TEST",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2025-11-18",
+    "endDate": "2025-11-18",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

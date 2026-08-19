@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "5a880aba-62c4-413c-bb2d-b721683dd064",
+    "name": "Qatar Airways Grand Prix of Qatar",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-08",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "d1022c09-0af2-4e5d-b4ac-fba02562fb0c",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-04T15:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ef26a201-6a9c-4e9b-a97c-6df91e5132bf",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-04T20:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1ef9fd35-2e75-4f3c-ac40-cd6b36341514",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b02a9a45-2460-47da-b4ff-a4af64d4c7de",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T15:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f167c84a-83d8-4865-96f0-a5774f7352a4",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T16:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a0b6a09b-0a93-4181-8614-7bcc0c507381",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T20:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9a5a5e3c-66b6-45b6-af3a-76f874b9ce9f",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-06T15:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "67c2f209-bea0-47e9-9375-d7958fd4fe1d",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-06T20:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

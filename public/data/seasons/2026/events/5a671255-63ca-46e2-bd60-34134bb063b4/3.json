@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "5a671255-63ca-46e2-bd60-34134bb063b4",
+    "name": "Motul Grand Prix of Japan",
+    "circuit": "Mobility Resort Motegi",
+    "country": "Japan",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "71020387-77b3-4adb-996a-a55c54dccf02",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-02T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "04c646f9-c202-439a-964f-b2ab453292b7",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-02T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "be9079c6-352a-4b07-ab01-611bfa6fdc1d",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "491bd1e5-70f4-4598-af96-c361231c3f76",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "8b832d9d-d2ef-4e16-b0f4-0e7366d35633",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f130e30d-6ddb-4a28-84ef-0c7167020894",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "6ee51eb2-fed4-4676-b4bc-b1c6818ebac1",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-04T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a650e254-0990-40d4-a558-a76b1a9d747b",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-04T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "23b7a561-17e4-4aa6-9be3-2529a5b69938",
+    "name": "MICHELIN® GRAND PRIX OF ARAGON ",
+    "circuit": "MotorLand Aragón",
+    "country": "Spain",
+    "startDate": "2026-08-28",
+    "endDate": "2026-08-30",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "13d656c4-57e1-436a-b532-7decfb4dc097",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-08-28T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a008d3c4-efda-4af5-8f7d-1c2fd25f9aef",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-08-28T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "de292f88-2d71-4edc-913a-1b4b01c3e480",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-08-29T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5459bd46-a821-4a26-8f08-4067bd6911b9",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-08-29T12:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ae0a8dee-8ccd-4288-82a5-aadaa5f227c8",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-08-29T13:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "05f90e68-132f-4688-8709-5817fe58cf1c",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-08-30T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

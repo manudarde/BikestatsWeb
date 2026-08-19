@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "bbe5c815-414a-4fe8-9118-5cee4d479639",
+    "name": "Sepang MotoGP™ Official Test ",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2023-02-10",
+    "endDate": "2023-02-12",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "56484ee9-013e-4764-983d-975d9ee656fa",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-02-10T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "8b78d42a-091b-497c-84e1-48075f2357d0",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-02-11T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a703656d-9b70-444f-a22c-fabf00f19ec6",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2023-02-12T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

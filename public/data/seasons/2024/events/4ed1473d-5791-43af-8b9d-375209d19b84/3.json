@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "4ed1473d-5791-43af-8b9d-375209d19b84",
+    "name": "Mugello MotoGP™ Official Test ",
+    "circuit": "Autodromo Internazionale del Mugello",
+    "country": "Italy",
+    "startDate": "2024-06-03",
+    "endDate": "2024-06-03",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "cfdb32e3-d8df-4f19-b0d0-32846e9586a9",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-06-03T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

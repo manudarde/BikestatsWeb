@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "d5de21be-ecba-48bd-8d70-7f352142f3a2",
+    "name": "Portimao Moto2™ & Moto3™ Official Test",
+    "circuit": "Autódromo Internacional do Algarve",
+    "country": "Portugal",
+    "startDate": "2022-02-19",
+    "endDate": "2022-02-21",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "be3bdad2-6995-4eb3-856e-f15ac1475949",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2022-02-19T11:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5013d515-c596-4633-a062-093681b0d3ac",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2022-02-19T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ced97fd0-ae3b-4613-9d62-1bf44ecac976",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2022-02-19T16:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "65246a4c-15bb-4a00-b3b5-7b216b0cc344",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2022-02-20T11:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "60e054fe-dba8-48d9-8116-846579193f49",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2022-02-20T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "94cda96c-edbe-4110-8089-2c78220cf9ad",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2022-02-20T16:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "71fa57a6-1bd2-4486-af35-72b39e3b9b25",
+      "type": "FP",
+      "number": 7,
+      "status": "FINISHED",
+      "date": "2022-02-21T11:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "4b07a28b-7b22-420f-a247-6deaea4704c5",
+      "type": "FP",
+      "number": 8,
+      "status": "FINISHED",
+      "date": "2022-02-21T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1bb79f2c-d94a-4298-8b8f-70306318816e",
+      "type": "FP",
+      "number": 9,
+      "status": "FINISHED",
+      "date": "2022-02-21T16:45:00+00:00",
+      "classification": []
+    }
+  ]
+}

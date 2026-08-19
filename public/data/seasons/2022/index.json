@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "seasonId": "db8dc197-c7b2-4c1b-b3a4-6dc534c014ef",
+  "categories": [
+    {
+      "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+      "name": "MotoGP™",
+      "legacyId": 3
+    },
+    {
+      "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+      "name": "Moto2™",
+      "legacyId": 2
+    },
+    {
+      "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+      "name": "Moto3™",
+      "legacyId": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "0561c82b-4738-4bb6-88d0-6df77f002a43",
+      "name": "Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2022-03-04",
+      "endDate": "2022-03-06",
+      "test": false
+    },
+    {
+      "id": "0964b830-bed9-48be-9abe-fb44195f97eb",
+      "name": "Pertamina Grand Prix of Indonesia",
+      "circuit": "Pertamina Mandalika Circuit",
+      "country": "Indonesia",
+      "startDate": "2022-03-18",
+      "endDate": "2022-03-20",
+      "test": false
+    },
+    {
+      "id": "d05f42a3-4b65-4d04-9612-fd148880750e",
+      "name": "Gran Premio Michelin® de la República Argentina",
+      "circuit": "Termas de Río Hondo",
+      "country": "Argentina",
+      "startDate": "2022-04-01",
+      "endDate": "2022-04-03",
+      "test": false
+    },
+    {
+      "id": "b1febdc8-cebe-4db4-b0c7-b4035006b15a",
+      "name": "Red Bull Grand Prix of The Americas",
+      "circuit": "Circuit Of The Americas",
+      "country": "United States of America",
+      "startDate": "2022-04-08",
+      "endDate": "2022-04-10",
+      "test": false
+    },
+    {
+      "id": "713255bd-2e76-4aad-a337-529a054cf7d2",
+      "name": "Grande Prémio Tissot de Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2022-04-22",
+      "endDate": "2022-04-24",
+      "test": false
+    },
+    {
+      "id": "0a9422c3-0870-49c9-86e6-4d8aad0522dd",
+      "name": "Gran Premio Red Bull de España",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2022-04-29",
+      "endDate": "2022-05-01",
+      "test": false
+    },
+    {
+      "id": "bc520d3f-a3e9-4b46-be38-4f951a1839e5",
+      "name": "Shark Grand Prix de France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2022-05-13",
+      "endDate": "2022-05-15",
+      "test": false
+    },
+    {
+      "id": "e59414f7-de19-400d-b7d2-6fce2b3c5448",
+      "name": "Gran Premio d'Italia Oakley",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2022-05-27",
+      "endDate": "2022-05-29",
+      "test": false
+    },
+    {
+      "id": "4d47e417-fae3-44bd-bfdf-929c1041e6fe",
+      "name": "Gran Premi Monster Energy de Catalunya",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2022-06-03",
+      "endDate": "2022-06-05",
+      "test": false
+    },
+    {
+      "id": "4d54a9bd-bc4e-4389-90fb-018af5de1a0b",
+      "name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "circuit": "Sachsenring",
+      "country": "Germany",
+      "startDate": "2022-06-17",
+      "endDate": "2022-06-19",
+      "test": false
+    },
+    {
+      "id": "726dbaae-6b5a-49b9-982a-c4f46cfed0a5",
+      "name": "Motul TT Assen",
+      "circuit": "TT Circuit Assen",
+      "country": "Netherlands",
+      "startDate": "2022-06-24",
+      "endDate": "2022-06-26",
+      "test": false
+    },
+    {
+      "id": "d7c76a83-c138-4c19-9565-c7c4400c3d94",
+      "name": "Monster Energy British Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2022-08-05",
+      "endDate": "2022-08-07",
+      "test": false
+    },
+    {
+      "id": "486e0780-619f-4fba-a951-2856d4c2747e",
+      "name": "CryptoDATA Motorrad Grand Prix von Österreich",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2022-08-19",
+      "endDate": "2022-08-21",
+      "test": false
+    },
+    {
+      "id": "7d810351-1bf8-451e-8fba-f3ff2ae0f29e",
+      "name": "Gran Premio Gryfyn di San Marino e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2022-09-02",
+      "endDate": "2022-09-04",
+      "test": false
+    },
+    {
+      "id": "02b8d4c2-f6d2-4937-9725-3422a0cb2454",
+      "name": "Gran Premio Animoca Brands de Aragón",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2022-09-16",
+      "endDate": "2022-09-18",
+      "test": false
+    },
+    {
+      "id": "496b5a1e-9fcd-4ccb-abcb-e0d21d2d76d8",
+      "name": "Motul Grand Prix of Japan",
+      "circuit": "Mobility Resort Motegi",
+      "country": "Japan",
+      "startDate": "2022-09-23",
+      "endDate": "2022-09-25",
+      "test": false
+    },
+    {
+      "id": "1c5fcb91-cfbc-4dab-86e9-6a9da6024d4f",
+      "name": "OR Thailand Grand Prix",
+      "circuit": "Chang International Circuit",
+      "country": "Thailand",
+      "startDate": "2022-09-30",
+      "endDate": "2022-10-02",
+      "test": false
+    },
+    {
+      "id": "0d38138d-6545-4093-a3ac-c8506baf499f",
+      "name": "Animoca Brands Australian Motorcycle Grand Prix",
+      "circuit": "Phillip Island",
+      "country": "Australia",
+      "startDate": "2022-10-14",
+      "endDate": "2022-10-16",
+      "test": false
+    },
+    {
+      "id": "d913e4a4-782b-48c4-a5cd-f7947ec62aa4",
+      "name": "PETRONAS Grand Prix of Malaysia",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2022-10-21",
+      "endDate": "2022-10-23",
+      "test": false
+    },
+    {
+      "id": "048b155e-5f65-4aa4-b7dd-b919ebcdddeb",
+      "name": "Gran Premio Motul de la Comunitat Valenciana",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2022-11-04",
+      "endDate": "2022-11-06",
+      "test": false
+    },
+    {
+      "id": "aacf14f8-fd7f-42d3-be6e-54add0eab84f",
+      "name": "Jerez MotoGP™ Official Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2021-11-18",
+      "endDate": "2021-11-19",
+      "test": true
+    },
+    {
+      "id": "3e7c342a-e406-470f-956f-d685be970bf4",
+      "name": "Sepang MotoGP™ Official Test",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2022-02-05",
+      "endDate": "2022-02-06",
+      "test": true
+    },
+    {
+      "id": "7fd4f011-06ec-495a-8b54-74afa5031ae0",
+      "name": "Mandalika MotoGP™ Official Test ",
+      "circuit": "Pertamina Mandalika Circuit",
+      "country": "Indonesia",
+      "startDate": "2022-02-11",
+      "endDate": "2022-02-13",
+      "test": true
+    },
+    {
+      "id": "d5de21be-ecba-48bd-8d70-7f352142f3a2",
+      "name": "Portimao Moto2™ & Moto3™ Official Test",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2022-02-19",
+      "endDate": "2022-02-21",
+      "test": true
+    },
+    {
+      "id": "378be17c-1065-487f-87d9-8fbe738b3c33",
+      "name": "Jerez MotoGP™ Official Test II",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2022-05-02",
+      "endDate": "2022-05-02",
+      "test": true
+    },
+    {
+      "id": "9afab834-8b4f-4cf0-ab0e-0ff811069adc",
+      "name": "Catalunya MotoGP™ Official Test",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2022-06-06",
+      "endDate": "2022-06-06",
+      "test": true
+    },
+    {
+      "id": "2284c891-9f88-4a18-b6aa-cad2456f1734",
+      "name": "Misano MotoGP™ Official Test ",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2022-09-06",
+      "endDate": "2022-09-07",
+      "test": true
+    }
+  ]
+}

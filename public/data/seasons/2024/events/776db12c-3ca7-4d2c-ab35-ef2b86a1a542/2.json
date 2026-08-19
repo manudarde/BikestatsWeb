@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "776db12c-3ca7-4d2c-ab35-ef2b86a1a542",
+    "name": "Jerez Moto2™ & Moto3™ Official Test II",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2024-04-30",
+    "endDate": "2024-04-30",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "a6c115dc-02d7-48ac-a12c-e75ea99dc4ef",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-04-30T11:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "fe216932-5567-41e2-b1e5-dd5ddae9a86d",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2024-04-30T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c04f0ab0-1e87-43a8-acbe-06d49cb32323",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2024-04-30T16:45:00+00:00",
+      "classification": []
+    }
+  ]
+}

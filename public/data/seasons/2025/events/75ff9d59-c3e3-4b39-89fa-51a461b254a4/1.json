@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "75ff9d59-c3e3-4b39-89fa-51a461b254a4",
+    "name": "SAN MARINO MOTOGP TEST",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-15",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

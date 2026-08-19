@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "3e7c342a-e406-470f-956f-d685be970bf4",
+    "name": "Sepang MotoGP™ Official Test",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2022-02-05",
+    "endDate": "2022-02-06",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

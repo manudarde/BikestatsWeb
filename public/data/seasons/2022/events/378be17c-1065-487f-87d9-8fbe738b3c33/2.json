@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "378be17c-1065-487f-87d9-8fbe738b3c33",
+    "name": "Jerez MotoGP™ Official Test II",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2022-05-02",
+    "endDate": "2022-05-02",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

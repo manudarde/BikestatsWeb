@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "275ca55d-45d3-440f-ad59-17d6b3e6b2d3",
+    "name": "Pertamina Grand Prix of Indonesia",
+    "circuit": "Pertamina Mandalika Circuit",
+    "country": "Indonesia",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-11",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "6d0c6bc5-79c9-4fcc-a6f3-f0cf8576aefd",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-09T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ef73f697-1b9f-416d-99fa-880e8e9a60b6",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-09T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "0034b8a7-489e-4e55-b25f-5d4e8d46b485",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-10T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "cf6d81e8-3e60-4e84-88c5-05dce56c0bdf",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-10T12:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9a57bd1d-fa41-436c-8fb7-d8cac29e4070",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-10T13:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "30002200-9ad3-4a11-909e-fed2b6a2110d",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-11T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

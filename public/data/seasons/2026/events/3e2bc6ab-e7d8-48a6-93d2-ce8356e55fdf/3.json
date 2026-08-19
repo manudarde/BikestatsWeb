@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "3e2bc6ab-e7d8-48a6-93d2-ce8356e55fdf",
+    "name": "BURIRAM TEST",
+    "circuit": "Chang International Circuit",
+    "country": "Thailand",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-22",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "2bb36bad-554d-48ac-b396-baa3772951e7",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2026-02-21T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a4097844-bed0-46cd-ba48-31075bb4f0d9",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2026-02-21T13:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1541640f-0e48-418a-bed4-2d983d07eddc",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2026-02-22T09:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "192f5ff8-e149-4690-a458-526aaf730307",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2026-02-22T13:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

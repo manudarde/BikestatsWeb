@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "b86a3754-9ceb-4f42-9fb9-b531e9d7d2b0",
+    "name": "Silverstone Moto2™ & Moto3™ Official Test ",
+    "circuit": "Silverstone Circuit",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "startDate": "2023-08-07",
+    "endDate": "2023-08-07",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "f549f54a-a581-4745-bc45-9efcb8387318",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-08-07T09:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "6e20367a-eba8-4d02-8834-d66b00eaa56a",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-08-07T12:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "68f2e987-a1f9-434d-b379-a01f56037e4f",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2023-08-07T14:50:00+00:00",
+      "classification": []
+    }
+  ]
+}

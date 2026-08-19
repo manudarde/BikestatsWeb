@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "d5de21be-ecba-48bd-8d70-7f352142f3a2",
+    "name": "Portimao Moto2™ & Moto3™ Official Test",
+    "circuit": "Autódromo Internacional do Algarve",
+    "country": "Portugal",
+    "startDate": "2022-02-19",
+    "endDate": "2022-02-21",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": []
+}

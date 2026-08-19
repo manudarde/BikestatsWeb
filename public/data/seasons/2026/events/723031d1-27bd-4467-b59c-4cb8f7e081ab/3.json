@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "723031d1-27bd-4467-b59c-4cb8f7e081ab",
+    "name": "Motul Grand Prix of Valencia",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "3f860f7e-8060-479e-98e9-4761ce828da9",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-20T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9e33e708-df60-48da-b92f-f20f9143474c",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-20T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b21297bc-37e6-4031-8975-f447b1dd28d8",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "049fa824-94c2-4376-a4c7-a0019d168c36",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "eb07f3f3-979e-4dbd-b04b-3a679744f981",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "d7a89423-9dfe-40c1-b374-5021c27c1906",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "347e6c09-08de-4aea-8754-bca96ee929fe",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-22T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "64959be5-20eb-4477-8a6d-ae6cad3463f8",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-22T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

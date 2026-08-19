@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "a5881826-ec88-4a41-8e4c-ba58709d4591",
+    "name": "Red Bull Grand Prix of San Marino and The Rimini Riviera",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "San Marino",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-13",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "41026d4b-8d60-4133-bea8-99ecf10854b9",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-11T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ec3b45f4-d22b-4cea-9fc6-4f1e6d72914b",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-11T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "bee39340-2ac4-4676-8b0c-db5ddfbe2e01",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e554084d-3598-4a30-bd4e-00f4250724ec",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ee6ba0bb-1752-4d5f-81cf-6582c8573378",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1b8850b9-53fc-4ff2-b5f7-2935eb53dad1",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "68cdd505-800b-461c-bef7-bbbe3082e67e",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-13T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ed730383-6989-4868-9e16-db8d0d9d4cbf",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-13T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

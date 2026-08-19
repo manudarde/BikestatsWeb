@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "37f21714-6331-4871-8cc6-d6a4eb7ac9f2",
+    "name": "Jerez Moto2™ & Moto3™ Official Test ",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2024-02-28",
+    "endDate": "2024-03-01",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "352e3e0a-f263-4354-98bb-2c0e0d352956",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-02-28T11:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b6d098db-208c-43fd-bb42-6d096a583404",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2024-02-28T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ee9e81ce-1ffb-4c94-bbed-c93c758d3517",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2024-02-28T16:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "212a284a-b964-486b-8079-18c129074f61",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2024-02-29T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "15807da0-2e8c-45a1-b69f-56d27aba3a4c",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2024-02-29T12:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f3ff74d5-2eac-4e94-ac5a-b9640d5073f1",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2024-02-29T15:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "4bcf7ea8-0b57-4e5a-aab7-115d7ccce622",
+      "type": "FP",
+      "number": 7,
+      "status": "FINISHED",
+      "date": "2024-03-01T11:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "78983cd3-2b18-4ece-bd79-20aea959864e",
+      "type": "FP",
+      "number": 8,
+      "status": "FINISHED",
+      "date": "2024-03-01T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a4abea2d-6083-44f4-a0ab-ef79ca442dc3",
+      "type": "FP",
+      "number": 9,
+      "status": "FINISHED",
+      "date": "2024-03-01T16:45:00+00:00",
+      "classification": []
+    }
+  ]
+}

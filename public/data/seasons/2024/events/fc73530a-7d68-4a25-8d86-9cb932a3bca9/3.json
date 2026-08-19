@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "fc73530a-7d68-4a25-8d86-9cb932a3bca9",
+    "name": "Valencia MotoGP™ Official Test ",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2023-11-28",
+    "endDate": "2023-11-28",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "c09e76c7-0d9a-4a91-a30d-4737e0188591",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-11-28T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

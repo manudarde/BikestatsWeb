@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "seasonId": "db8dc197-c7b2-4c1b-b3a4-6dc534c023ef",
+  "categories": [
+    {
+      "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+      "name": "MotoGP™",
+      "legacyId": 3
+    },
+    {
+      "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+      "name": "Moto2™",
+      "legacyId": 2
+    },
+    {
+      "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+      "name": "Moto3™",
+      "legacyId": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "df77971c-1f58-4cbd-911f-cf2391fd57e3",
+      "name": "Grande Prémio Tissot de Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2023-03-24",
+      "endDate": "2023-03-26",
+      "test": false
+    },
+    {
+      "id": "7dfe8c6b-d700-41d7-a7e8-fde4069b8c05",
+      "name": "Gran Premio Michelin® de la República Argentina",
+      "circuit": "Termas de Río Hondo",
+      "country": "Argentina",
+      "startDate": "2023-03-31",
+      "endDate": "2023-04-02",
+      "test": false
+    },
+    {
+      "id": "4481ddf0-e72e-4da7-844f-efab7a5acfeb",
+      "name": "Red Bull Grand Prix of The Americas",
+      "circuit": "Circuit Of The Americas",
+      "country": "United States of America",
+      "startDate": "2023-04-14",
+      "endDate": "2023-04-16",
+      "test": false
+    },
+    {
+      "id": "28c89b32-cde3-4f3a-8c19-3e96520cdb10",
+      "name": "Gran Premio MotoGP™ Guru by Gryfyn de España",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2023-04-28",
+      "endDate": "2023-04-30",
+      "test": false
+    },
+    {
+      "id": "2cc5cad7-fb28-49fa-9e4d-988396dd5270",
+      "name": "Shark Grand Prix de France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2023-05-12",
+      "endDate": "2023-05-14",
+      "test": false
+    },
+    {
+      "id": "8ed52491-e1aa-49a9-8d70-f1c1f8dd3090",
+      "name": "Gran Premio d'Italia Oakley",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2023-06-09",
+      "endDate": "2023-06-11",
+      "test": false
+    },
+    {
+      "id": "a1587d52-7ccb-4c04-9b77-aaed632c861d",
+      "name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "circuit": "Sachsenring",
+      "country": "Germany",
+      "startDate": "2023-06-16",
+      "endDate": "2023-06-18",
+      "test": false
+    },
+    {
+      "id": "2147fcdf-a7ea-446c-a99a-21fe98c6949d",
+      "name": "Motul TT Assen",
+      "circuit": "TT Circuit Assen",
+      "country": "Netherlands",
+      "startDate": "2023-06-23",
+      "endDate": "2023-06-25",
+      "test": false
+    },
+    {
+      "id": "57b8ce5d-57c5-4799-bc76-4a250243bad2",
+      "name": "Monster Energy British Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2023-08-04",
+      "endDate": "2023-08-06",
+      "test": false
+    },
+    {
+      "id": "b64da5dc-9859-4a5f-9a8f-db9db6faa5b4",
+      "name": "Motorrad Grand Prix von Österreich",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2023-08-18",
+      "endDate": "2023-08-20",
+      "test": false
+    },
+    {
+      "id": "0b3ee045-3b76-4aea-9827-dfb0f1b6ce48",
+      "name": "Gran Premi Monster Energy de Catalunya",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-03",
+      "test": false
+    },
+    {
+      "id": "ff342dac-9984-44eb-8f6a-ef04ccf86fa9",
+      "name": "Gran Premio Red Bull di San Marino e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2023-09-08",
+      "endDate": "2023-09-10",
+      "test": false
+    },
+    {
+      "id": "cd3d90d8-b8ec-44b1-976d-cd8929af0c8b",
+      "name": "IndianOil Grand Prix of India",
+      "circuit": "Buddh International Circuit",
+      "country": "India",
+      "startDate": "2023-09-22",
+      "endDate": "2023-09-24",
+      "test": false
+    },
+    {
+      "id": "14bd179e-a4bc-4b0d-bd2e-69a9ed99cb60",
+      "name": "Motul Grand Prix of Japan",
+      "circuit": "Mobility Resort Motegi",
+      "country": "Japan",
+      "startDate": "2023-09-29",
+      "endDate": "2023-10-01",
+      "test": false
+    },
+    {
+      "id": "bfd8a08c-cbb4-413a-a210-6d34774ea4c5",
+      "name": "Pertamina Grand Prix of Indonesia",
+      "circuit": "Pertamina Mandalika Circuit",
+      "country": "Indonesia",
+      "startDate": "2023-10-13",
+      "endDate": "2023-10-15",
+      "test": false
+    },
+    {
+      "id": "0bb1a25b-ed29-4e93-8460-214bed97e632",
+      "name": "MotoGP™ Guru by Gryfyn Australian Motorcycle Grand Prix",
+      "circuit": "Phillip Island",
+      "country": "Australia",
+      "startDate": "2023-10-20",
+      "endDate": "2023-10-22",
+      "test": false
+    },
+    {
+      "id": "874cada0-7330-44c1-aa54-d15b97d3cd62",
+      "name": "OR Thailand Grand Prix ",
+      "circuit": "Chang International Circuit",
+      "country": "Thailand",
+      "startDate": "2023-10-27",
+      "endDate": "2023-10-29",
+      "test": false
+    },
+    {
+      "id": "a0a97cd1-b65c-4cb0-b6c2-90bc7c1665b9",
+      "name": "PETRONAS Grand Prix of Malaysia",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2023-11-10",
+      "endDate": "2023-11-12",
+      "test": false
+    },
+    {
+      "id": "f8346513-918f-4df1-a943-e2492d7835a1",
+      "name": "Qatar Airways Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2023-11-17",
+      "endDate": "2023-11-19",
+      "test": false
+    },
+    {
+      "id": "a08837b6-1cfb-4dfe-a7a4-d61fe970ea3d",
+      "name": "Gran Premio Motul de la Comunitat Valenciana",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2023-11-24",
+      "endDate": "2023-11-26",
+      "test": false
+    },
+    {
+      "id": "d7e53fd1-6f7c-4631-a604-f6943fbe04c5",
+      "name": "Valencia MotoGP™ Official Test ",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2022-11-08",
+      "endDate": "2022-11-08",
+      "test": true
+    },
+    {
+      "id": "bbe5c815-414a-4fe8-9118-5cee4d479639",
+      "name": "Sepang MotoGP™ Official Test ",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2023-02-10",
+      "endDate": "2023-02-12",
+      "test": true
+    },
+    {
+      "id": "f79431b4-b34f-44e8-bade-4865a3645b83",
+      "name": "Portimao MotoGP™ Official Test ",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2023-03-11",
+      "endDate": "2023-03-12",
+      "test": true
+    },
+    {
+      "id": "84a1502f-e1c8-4785-b095-5bb1ab1df656",
+      "name": "Portimao Moto2™ & Moto3™ Official Test ",
+      "circuit": "Estoril Circuit",
+      "country": "Portugal",
+      "startDate": "2023-03-17",
+      "endDate": "2023-03-19",
+      "test": true
+    },
+    {
+      "id": "5d13be02-7586-491a-8553-aca6a99a4afb",
+      "name": "Jerez MotoGP™ Official Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2023-05-01",
+      "endDate": "2023-05-01",
+      "test": true
+    },
+    {
+      "id": "6fc22d22-760d-420b-afb3-b909655b7062",
+      "name": "Jerez Moto2™ & Moto3™ Official Test ",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2023-05-02",
+      "endDate": "2023-05-02",
+      "test": true
+    },
+    {
+      "id": "b86a3754-9ceb-4f42-9fb9-b531e9d7d2b0",
+      "name": "Silverstone Moto2™ & Moto3™ Official Test ",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2023-08-07",
+      "endDate": "2023-08-07",
+      "test": true
+    },
+    {
+      "id": "0140c3b6-74e6-49f0-a496-0131545deedb",
+      "name": "Misano MotoGP™ Official Test ",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2023-09-11",
+      "endDate": "2023-09-11",
+      "test": true
+    }
+  ]
+}

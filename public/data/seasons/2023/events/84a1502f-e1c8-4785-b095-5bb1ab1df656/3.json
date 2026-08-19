@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "84a1502f-e1c8-4785-b095-5bb1ab1df656",
+    "name": "Portimao Moto2™ & Moto3™ Official Test ",
+    "circuit": "Estoril Circuit",
+    "country": "Portugal",
+    "startDate": "2023-03-17",
+    "endDate": "2023-03-19",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": []
+}

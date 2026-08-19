@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "eb175df3-016d-4421-ad9d-f782fb088093",
+    "name": "MALAYSIA MOTOGP TEST",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2025-02-05",
+    "endDate": "2025-02-07",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "7af79533-51d5-4b13-b423-9ee3c69937ad",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-02-05T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "25c32ccd-7609-4c74-928d-5f0d08c099f0",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-02-06T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "523e7275-54b1-46b5-81e1-83c0f3899bb7",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2025-02-07T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

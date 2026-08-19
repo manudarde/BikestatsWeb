@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "d7116e02-afa6-4422-acb4-c93d30a96afb",
+    "name": "Qatar Moto2™ & Moto3™ Official Test",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2021-03-19",
+    "endDate": "2021-03-21",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": []
+}

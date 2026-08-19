@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "4481ddf0-e72e-4da7-844f-efab7a5acfeb",
+    "name": "Red Bull Grand Prix of The Americas",
+    "circuit": "Circuit Of The Americas",
+    "country": "United States of America",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-16",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "3f03aa6c-4f44-451d-a96c-8c16cc7a8c10",
+      "type": "P",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-04-14T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f4d479d5-15b2-44b7-9e92-3982bc4a1cdd",
+      "type": "P",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-04-14T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5cc74abf-130e-4f2a-ba65-0108eb8b07c6",
+      "type": "P",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2023-04-15T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "3706d414-a8e7-491b-9ea3-7dc56e67c76d",
+      "type": "Q",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-04-15T12:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ad5ca1fd-0243-4a15-8bde-ec07fe8d0918",
+      "type": "Q",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-04-15T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "400a7922-1ac0-4b0c-b96b-30d54ff4af8f",
+      "type": "RAC",
+      "number": null,
+      "status": "FINISHED",
+      "date": "2023-04-16T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "4b3882a8-24b2-4321-aa12-d1847c989438",
+    "name": "Repsol Grand Prix of Portugal",
+    "circuit": "Autódromo Internacional do Algarve",
+    "country": "Portugal",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-22",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "82b84060-798d-46ff-94e7-24980722afcf",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-13T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9ce0ac03-0824-4ae6-94f7-fafc517e69ea",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-13T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "af8ef8e4-a1e8-4c21-818a-70e3fc216635",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c57db23b-19a8-479b-a7bf-e71a02f9f3bf",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "da48a0ce-febf-487b-9fc2-b609c3c71ea2",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "245ed850-b33b-4fc5-89e2-a759c9373ba5",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "4a61d06e-3141-4d07-9e1c-5fa8eeb42d7e",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-15T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c39523d9-4eea-4796-b7c2-f83c1e2a4154",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-15T13:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "412a4e57-758b-4aff-a9a9-0e516b5e1256",
+    "name": "VALENCIA TEST",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2025-11-18",
+    "endDate": "2025-11-18",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "39581e18-3cc9-44f9-b412-3abe0338a456",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-11-18T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

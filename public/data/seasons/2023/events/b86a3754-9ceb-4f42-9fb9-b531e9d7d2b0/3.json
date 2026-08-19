@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "b86a3754-9ceb-4f42-9fb9-b531e9d7d2b0",
+    "name": "Silverstone Moto2™ & Moto3™ Official Test ",
+    "circuit": "Silverstone Circuit",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "startDate": "2023-08-07",
+    "endDate": "2023-08-07",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": []
+}

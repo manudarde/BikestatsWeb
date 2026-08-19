@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "ea2ba334-b943-462f-aedb-084ac38408d1",
+    "name": "Petronas Grand Prix of Malaysia",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2026-10-30",
+    "endDate": "2026-11-01",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "9d85b9eb-a2e7-40c9-aa97-fe4e27e13e05",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-30T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "859f3c68-e84a-4a4c-8a5e-47a40ef45f93",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-30T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "767d0f36-004b-4b3f-b062-0da30457951b",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "72ab6dde-d667-4315-bba9-3df16da77acd",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e22e617f-7924-4186-907f-2fb629bd336d",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "dd4734d2-1b5f-4c61-9b6c-7129824319c3",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "d55c880a-d9be-44e3-9351-62e3fd8b9372",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-01T10:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f8adeb74-3941-43e1-91cd-e1883f341ded",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-01T15:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

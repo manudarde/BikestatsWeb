@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "5a671255-63ca-46e2-bd60-34134bb063b4",
+    "name": "Motul Grand Prix of Japan",
+    "circuit": "Mobility Resort Motegi",
+    "country": "Japan",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
+    "test": false
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "574b5bae-c73e-4470-9612-d08acd4a09a3",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-02T09:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "3c76803e-0bbd-43de-9930-e661a8f8582e",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-02T14:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "dfc43845-40cb-4e52-91d0-6c31dfeef726",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T09:25:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "8b5c4d08-6a41-48e8-8282-b06fd1baf322",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T13:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9b41bded-9949-4d09-a537-8f64d6933543",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-03T14:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "acab2756-28a0-4dca-93d2-d6c7faad1e96",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-04T12:15:00+00:00",
+      "classification": []
+    }
+  ]
+}

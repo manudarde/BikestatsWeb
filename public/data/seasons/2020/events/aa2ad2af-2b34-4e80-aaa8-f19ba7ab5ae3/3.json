@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "aa2ad2af-2b34-4e80-aaa8-f19ba7ab5ae3",
+    "name": "Valencia MotoGP™ Official Test",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2019-11-19",
+    "endDate": "2019-11-20",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "c8110f5b-9b53-4941-ab39-8c4839a18980",
+      "type": "DAY",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2019-11-19T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9708416a-af25-4d53-8e9f-29b11fc7e328",
+      "type": "DAY",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2019-11-20T09:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

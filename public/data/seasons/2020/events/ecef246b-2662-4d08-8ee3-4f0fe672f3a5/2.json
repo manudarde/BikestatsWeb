@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "ecef246b-2662-4d08-8ee3-4f0fe672f3a5",
+    "name": "Gran Premio Michelin® de Aragón",
+    "circuit": "MotorLand Aragón",
+    "country": "Spain",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "test": false
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

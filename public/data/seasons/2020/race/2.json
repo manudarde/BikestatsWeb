@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "events": [
+    {
+      "id": "21c3664c-51f8-41af-ab81-623ea0cb403e",
+      "name": "QNB Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2020-03-06",
+      "endDate": "2020-03-08",
+      "test": false,
+      "sessions": [
+        {
+          "id": "cd71535f-fe45-44ee-8526-bfd5f37135fb",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2020-03-08T18:00:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "0526086c-4de6-4cf0-9834-af453e996f1f",
+      "name": "Gran Premio Red Bull de España",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2020-07-17",
+      "endDate": "2020-07-19",
+      "test": false,
+      "sessions": [
+        {
+          "id": "36b6770b-1e3b-4427-a83d-8ce1f22ae312",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2020-07-19T12:20:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Luca Marini",
+              "riderNumber": 10,
+              "teamName": "SKY Racing Team VR46",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Tetsuta Nagashima",
+              "riderNumber": 45,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "1.271",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Jorge Martin",
+              "riderNumber": 88,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "4.838",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Sam Lowes",
+              "riderNumber": 22,
+              "teamName": "EG 0,0 Marc VDS",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "6.200",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "Inde Aspar Team Moto2",
+              "constructorName": "Speed Up",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "10.794",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Hafizh Syahrin",
+              "riderNumber": 55,
+              "teamName": "Inde Aspar Team Moto2",
+              "constructorName": "Speed Up",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "15.578",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Remy Gardner",
+              "riderNumber": 87,
+              "teamName": "Onexox TKKR SAG Team",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "17.426",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Lorenzo Baldassarri",
+              "riderNumber": 7,
+              "teamName": "Flexbox HP 40",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "19.416",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Enea Bastianini",
+              "riderNumber": 33,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "19.505",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Xavi Vierge",
+              "riderNumber": 97,
+              "teamName": "Petronas Sprinta Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "19.590",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Stefano Manzi",
+              "riderNumber": 62,
+              "teamName": "MV Agusta Forward Racing",
+              "constructorName": "MV Agusta",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "21.269",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Hector Garzo",
+              "riderNumber": 40,
+              "teamName": "Flexbox HP 40",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "21.405",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Augusto Fernandez",
+              "riderNumber": 37,
+              "teamName": "EG 0,0 Marc VDS",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "24.550",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Nicolo Bulega",
+              "riderNumber": 11,
+              "teamName": "Federal Oil Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "26.232",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Simone Corsi",
+              "riderNumber": 24,
+              "teamName": "MV Agusta Forward Racing",
+              "constructorName": "MV Agusta",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "27.303",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Edgar Pons",
+              "riderNumber": 57,
+              "teamName": "Federal Oil Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "32.566",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "Tennor American Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "33.951",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Jake Dixon",
+              "riderNumber": 96,
+              "teamName": "Petronas Sprinta Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "36.432",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Lorenzo Dalla Porta",
+              "riderNumber": 19,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "43.699",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Andi Farid Izdihar",
+              "riderNumber": 27,
+              "teamName": "IDEMITSU Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "43.889",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Jesko Raffin",
+              "riderNumber": 2,
+              "teamName": "NTS RW Racing GP",
+              "constructorName": "NTS",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "62.884",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Kasma Daniel",
+              "riderNumber": 99,
+              "teamName": "Onexox TKKR SAG Team",
+              "constructorName": "Kalex",
+              "totalLaps": 23,
+              "topSpeed": null,
+              "gapFirst": "69.455",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Marcos Ramirez",
+              "riderNumber": 42,
+              "teamName": "Tennor American Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Thomas Luthi",
+              "riderNumber": 12,
+              "teamName": "Liqui Moly Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 20,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Fabio Di Giannantonio",
+              "riderNumber": 21,
+              "teamName": "HDR Heidrun Speed Up",
+              "constructorName": "Speed Up",
+              "totalLaps": 16,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Marcel Schrotter",
+              "riderNumber": 23,
+              "teamName": "Liqui Moly Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Bo Bendsneyder",
+              "riderNumber": 64,
+              "teamName": "NTS RW Racing GP",
+              "constructorName": "NTS",
+              "totalLaps": 6,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Marco Bezzecchi",
+              "riderNumber": 72,
+              "teamName": "SKY Racing Team VR46",
+              "constructorName": "Kalex",
+              "totalLaps": 6,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Somkiat Chantra",
+              "riderNumber": 35,
+              "teamName": "IDEMITSU Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 5,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "HDR Heidrun Speed Up",
+              "constructorName": "Speed Up",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c951cffb-e257-403f-96a8-ca9f74c8089f",
+      "name": "Gran Premio Red Bull de Andalucía",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2020-07-24",
+      "endDate": "2020-07-26",
+      "test": false,
+      "sessions": [
+        {
+          "id": "0484d1e0-f72a-4c27-afdc-ebc94cc5f9ee",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2020-07-26T12:20:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "9f32b0cc-d7ac-4056-b1ec-5c556bc37bf7",
+      "name": "Monster Energy Grand Prix České republiky",
+      "circuit": "CREDITAS Autodrom Brno",
+      "country": "Czechia",
+      "startDate": "2020-08-07",
+      "endDate": "2020-08-09",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "b4c7b2e0-a518-443f-954e-1642ec85b2be",
+      "name": "myWorld Motorrad Grand Prix von Österreich",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2020-08-14",
+      "endDate": "2020-08-16",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "8410c359-4085-4294-9c50-f46422c16b71",
+      "name": "BMW M Grand Prix of Styria",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2020-08-21",
+      "endDate": "2020-08-23",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "f49a298b-722c-45ef-a8d6-7961ac4174e6",
+      "name": "Gran Premio Lenovo di San Marino e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2020-09-11",
+      "endDate": "2020-09-13",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "10be8de5-dff3-4f24-9311-d60eca6f3a82",
+      "name": "Gran Premio TISSOT dell'Emilia Romagna e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2020-09-20",
+      "endDate": "2020-09-20",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "0d0881ae-2f2e-440b-a3de-08801b8d8316",
+      "name": "Gran Premi Monster Energy de Catalunya",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2020-09-25",
+      "endDate": "2020-09-27",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "f42bf903-981b-4bc8-bc1c-07dfacc50170",
+      "name": "Shark Helmets Grand Prix de France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2020-10-11",
+      "endDate": "2020-10-11",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "ecef246b-2662-4d08-8ee3-4f0fe672f3a5",
+      "name": "Gran Premio Michelin® de Aragón",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2020-10-16",
+      "endDate": "2020-10-18",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "bcf1a1c6-e8db-4d62-9822-e50d101c1f4b",
+      "name": "Gran Premio Liqui Moly de Teruel",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2020-10-23",
+      "endDate": "2020-10-25",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "5cf046d9-ba83-448b-bdfc-88556ad0ce0d",
+      "name": "Gran Premio de Europa",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "",
+      "startDate": "2020-11-06",
+      "endDate": "2020-11-08",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "f60fc3b4-08cc-4f45-987c-3b4e5852429a",
+      "name": "Gran Premio Motul de la Comunitat Valenciana",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2020-11-13",
+      "endDate": "2020-11-15",
+      "test": false,
+      "sessions": []
+    },
+    {
+      "id": "9231b7f6-f60b-4edd-b626-6c761c2408b8",
+      "name": "Grande Prémio MEO de Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2020-11-20",
+      "endDate": "2020-11-22",
+      "test": false,
+      "sessions": []
+    }
+  ]
+}

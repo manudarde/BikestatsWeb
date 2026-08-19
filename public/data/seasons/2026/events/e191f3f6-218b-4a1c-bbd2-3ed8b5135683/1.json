@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "e191f3f6-218b-4a1c-bbd2-3ed8b5135683",
+    "name": "GRAND PRIX OF AUSTRIA ",
+    "circuit": "Red Bull Ring - Spielberg",
+    "country": "Austria",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-20",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "0911ca3b-ddb1-4e23-a01d-222fb7711f5e",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-18T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "221c4853-b8e9-4c27-9ac8-0f61d8cf8822",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-18T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "770db657-0089-4950-9130-48c8ac8a4c28",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b1d8492b-c2f7-4879-9216-0d33b839c825",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T12:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "90f9a13c-d28b-4d1a-b385-40a3ee54d3b8",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T13:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "3814d83a-3c10-4946-9423-1adfe8a945bc",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-20T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

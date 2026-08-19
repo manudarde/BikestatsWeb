@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "9514d587-5f2e-485c-bf7f-ff3ffc4ccc7f",
+    "name": "SEPANG TEST",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2026-02-03",
+    "endDate": "2026-02-05",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "4c8b1e69-7f36-4134-befb-90f0f4db199a",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2026-02-03T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "d5711a70-356e-42ef-9431-110a904f95b5",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2026-02-03T13:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "eb9b1b92-da6e-4409-86c2-b6e264ebdd97",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2026-02-04T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "067d9033-2004-4d60-8c49-39889417957f",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2026-02-04T13:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "48d61177-1cfa-4f0a-a7a9-2a96e4246c31",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2026-02-05T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e0450747-9610-49eb-8608-71f012951a47",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2026-02-05T13:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

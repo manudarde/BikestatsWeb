@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "2d56b018-50b7-4be6-bd1e-cd17686089e9",
+    "name": "Qatar MotoGP™ Test",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2020-02-22",
+    "endDate": "2020-02-24",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "14b06d85-23aa-4860-b185-85ffc4af2df4",
+      "type": "DAY",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2020-02-22T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "638edcbd-261e-4f34-b673-4cd97bcdd0fa",
+      "type": "DAY",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2020-02-23T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "7fe375c6-f233-44dd-ac23-8ca4f911fbd2",
+      "type": "DAY",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2020-02-24T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

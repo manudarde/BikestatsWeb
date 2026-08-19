@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "3f5bce2c-ce08-4808-b1e4-c039cb4eb636",
+    "name": "Qatar MotoGP™ Official Test",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2021-03-06",
+    "endDate": "2021-03-12",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "5671c2e7-19ce-4b19-87a5-c740a2eb9f84",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2021-03-06T11:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1055b515-43c4-4c6e-9163-45f28f374e78",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2021-03-07T11:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "74019fec-aa5a-4a9e-ba0f-6d2143bf4ce4",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2021-03-10T11:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2381c410-544a-4bf7-9564-593abb279d9d",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2021-03-11T11:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "0078c217-3545-4bf0-9d5c-a8feb2e4d460",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2021-03-12T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

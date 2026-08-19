@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "642570d3-34e5-4388-9826-c28be6a897de",
+    "name": "Sepang MotoGP™ Official Test",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2024-02-06",
+    "endDate": "2024-02-08",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "3e2bc6ab-e7d8-48a6-93d2-ce8356e55fdf",
+    "name": "BURIRAM TEST",
+    "circuit": "Chang International Circuit",
+    "country": "Thailand",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-22",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

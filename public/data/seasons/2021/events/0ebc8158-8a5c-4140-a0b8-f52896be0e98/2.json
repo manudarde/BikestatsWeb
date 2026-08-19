@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "0ebc8158-8a5c-4140-a0b8-f52896be0e98",
+    "name": "Misano MotoGP™ Official Test ",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-22",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

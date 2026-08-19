@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "d7116e02-afa6-4422-acb4-c93d30a96afb",
+    "name": "Qatar Moto2™ & Moto3™ Official Test",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2021-03-19",
+    "endDate": "2021-03-21",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "8b872b4d-8aa5-41d4-83a0-8d188c46617f",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2021-03-19T08:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "74266638-9df1-4341-9a5a-7cb33ca2dc50",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2021-03-19T11:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "31f23410-2779-4b6d-aa73-374350ff16e5",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2021-03-19T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "071fa7b9-b874-4890-8bbd-390f11a0f6d4",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2021-03-20T08:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f7938962-5c3d-42a5-83c0-ce8102e9450c",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2021-03-20T11:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e2fa6700-a9d5-4305-b9db-a402a6002498",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2021-03-20T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "56b5b94e-27c5-43ac-8180-7c26fbb73112",
+      "type": "FP",
+      "number": 7,
+      "status": "FINISHED",
+      "date": "2021-03-21T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5ae1c526-bf24-4ddb-be00-78fbc55b0fb7",
+      "type": "FP",
+      "number": 8,
+      "status": "FINISHED",
+      "date": "2021-03-21T11:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2df37ea9-3262-433d-86e6-a3fd66498b39",
+      "type": "FP",
+      "number": 9,
+      "status": "FINISHED",
+      "date": "2021-03-21T15:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

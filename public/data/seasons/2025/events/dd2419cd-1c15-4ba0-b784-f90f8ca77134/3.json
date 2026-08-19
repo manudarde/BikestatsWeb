@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "dd2419cd-1c15-4ba0-b784-f90f8ca77134",
+    "name": "THAILAND MOTOGP TEST",
+    "circuit": "Chang International Circuit",
+    "country": "Thailand",
+    "startDate": "2025-02-12",
+    "endDate": "2025-02-13",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "6f09f1ea-6600-4fd9-9826-8166aaa9282d",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-02-12T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "00fe3918-6f70-4ba2-87ec-379e2512b56a",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-02-12T13:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "d8fc19b2-4f16-486e-a9b4-7018bc51f973",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2025-02-13T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "7148d497-2271-43da-860b-81a6bc775ac8",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2025-02-13T13:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

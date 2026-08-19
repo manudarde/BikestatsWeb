@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "047822cf-7496-48cc-9623-3f74c686d4e5",
+    "name": "JEREZ MOTO2 TEST",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-17",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

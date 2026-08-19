@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "0f055ae2-3967-420a-81d0-76143dc97386",
+    "name": "SPAIN MOTO2 & MOTO3 TEST",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2025-02-18",
+    "endDate": "2025-02-20",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "99c0e8de-0478-4a00-b48a-9067f8ba80f8",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-02-18T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "29d59683-9444-4c51-816a-0c0d3f303fe7",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-02-18T12:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "830bd42f-7a39-406d-9803-af2cb4904214",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2025-02-18T15:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "37da39ea-8691-4d9d-9f98-51ee14234085",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2025-02-19T11:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5f684963-f497-4d05-bf8b-df4413c64960",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2025-02-19T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "0b08cb8e-b530-4aab-9c94-806433bde3d1",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2025-02-19T16:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "729cc135-811f-4b80-bbe1-002d16d6cff3",
+      "type": "FP",
+      "number": 7,
+      "status": "FINISHED",
+      "date": "2025-02-20T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "01319eca-21b6-4b02-9c6a-3ce99deb6f3b",
+      "type": "FP",
+      "number": 8,
+      "status": "FINISHED",
+      "date": "2025-02-20T12:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5bf5fb56-4036-41ed-b057-f7ddd54af1f1",
+      "type": "FP",
+      "number": 9,
+      "status": "FINISHED",
+      "date": "2025-02-20T15:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

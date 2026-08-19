@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "723031d1-27bd-4467-b59c-4cb8f7e081ab",
+    "name": "Motul Grand Prix of Valencia",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "964ffde5-564d-4229-b208-02c54301b638",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-20T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c8ca4451-1b31-47a0-aa57-7a9a55f496ef",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-20T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a0ea23b7-e187-4cbb-aa3f-dc3dfc534c03",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c8d813d7-fc30-4c62-b19b-58681a6bfda3",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T12:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "12279b42-cdf5-4550-a3e5-da9dc162cfbd",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-21T13:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b1b01842-ff9e-40e8-bee7-cb31b226b1ea",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-22T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

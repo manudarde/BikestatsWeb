@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "5a880aba-62c4-413c-bb2d-b721683dd064",
+    "name": "Qatar Airways Grand Prix of Qatar",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-08",
+    "test": false
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "44a8e175-fed6-42d5-b553-53dbe99905f5",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-04T14:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "38f69769-f47d-4f1c-9e30-29594639803d",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-04T19:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "fcac3e59-0d49-4eb0-a465-a00b41cc3879",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T14:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a1dc574e-e21f-4287-a7c0-d58dfc066d70",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T18:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "34884ca5-c561-4cf5-8692-9a88f71e7ac5",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-05T19:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "30c98072-94eb-44e7-bda5-5a726ec1abaf",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-06T18:15:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+name: Refresh race data
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+    inputs:
+      years:
+        description: 'Comma-separated years to backfill; blank refreshes only the current season'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Refresh selected data
+        env:
+          YEARS: ${{ inputs.years }}
+        run: |
+          if [ -n "$YEARS" ]; then
+            npm run data:refresh -- --years="$YEARS"
+          else
+            npm run data:refresh
+          fi
+      - run: npm run check
+      - name: Commit validated data when changed
+        run: |
+          if ! git diff --quiet -- public/data; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/data
+            git commit -m "data: refresh current season"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}

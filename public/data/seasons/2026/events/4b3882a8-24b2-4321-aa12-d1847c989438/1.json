@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "4b3882a8-24b2-4321-aa12-d1847c989438",
+    "name": "Repsol Grand Prix of Portugal",
+    "circuit": "Autódromo Internacional do Algarve",
+    "country": "Portugal",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-22",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "93e91b2d-7631-4fa3-949a-4ce0d1ff4be7",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-13T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "130658c7-4e95-469d-941a-1c60b17a4bc0",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-13T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "24d0ec5e-5237-4b11-8100-8b40e1ebe047",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "26f12837-7dab-475c-86b3-061aa6094087",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T12:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "6f646454-e938-46e2-bc22-1978b4b09c87",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-11-14T13:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "429150c5-ec97-479d-886a-99bb21d3aa65",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-15T14:30:00+00:00",
+      "classification": []
+    }
+  ]
+}

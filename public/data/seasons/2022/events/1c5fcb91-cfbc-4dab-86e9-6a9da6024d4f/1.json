@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "1c5fcb91-cfbc-4dab-86e9-6a9da6024d4f",
+    "name": "OR Thailand Grand Prix",
+    "circuit": "Chang International Circuit",
+    "country": "Thailand",
+    "startDate": "2022-09-30",
+    "endDate": "2022-10-02",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

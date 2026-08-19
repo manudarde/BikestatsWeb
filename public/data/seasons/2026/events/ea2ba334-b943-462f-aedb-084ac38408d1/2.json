@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "ea2ba334-b943-462f-aedb-084ac38408d1",
+    "name": "Petronas Grand Prix of Malaysia",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2026-10-30",
+    "endDate": "2026-11-01",
+    "test": false
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "13c306c6-0f18-4309-9395-11236ad44aa7",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-30T09:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e49f2c4b-8b9c-4cf1-9489-60841e9d09bb",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-30T14:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "9b636d6c-a8dd-4a32-9713-011ef59b3aa5",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T09:25:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1df0a078-817a-4d13-b1ab-43179d5e17f3",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T13:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1286c926-7660-40d5-9594-53b5e64b6126",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-31T14:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "32818c78-0711-4331-a301-b1534b0ff99f",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-11-01T13:15:00+00:00",
+      "classification": []
+    }
+  ]
+}

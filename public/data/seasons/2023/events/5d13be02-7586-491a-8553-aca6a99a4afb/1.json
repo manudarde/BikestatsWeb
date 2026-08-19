@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "5d13be02-7586-491a-8553-aca6a99a4afb",
+    "name": "Jerez MotoGP™ Official Test",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2023-05-01",
+    "endDate": "2023-05-01",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

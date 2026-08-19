@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "30e3c0ac-d572-425c-b64f-f671fd21e06d",
+    "name": "Sepang MotoGP™ Official Test",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2020-02-07",
+    "endDate": "2020-02-09",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

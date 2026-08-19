@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "a5881826-ec88-4a41-8e4c-ba58709d4591",
+    "name": "Red Bull Grand Prix of San Marino and The Rimini Riviera",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "San Marino",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-13",
+    "test": false
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "ae198542-47f9-4652-b177-b7258c23bec9",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-11T09:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "7afc41f5-e2a6-423b-9314-e79433e633cc",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-11T14:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "cb4b4732-0057-4962-bfc2-4a5609991015",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T09:25:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ca644dc7-7175-4c05-9114-7f9fb78cc623",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T13:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "10e5e13d-1b64-4dfb-89b2-766324f710bd",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-12T14:05:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "ea693ccb-9940-4134-9889-7365ec7b84d6",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-13T12:15:00+00:00",
+      "classification": []
+    }
+  ]
+}

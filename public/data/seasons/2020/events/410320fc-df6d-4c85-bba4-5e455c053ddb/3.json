@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "410320fc-df6d-4c85-bba4-5e455c053ddb",
+    "name": "Misano MotoGP™ 2020 Official Test",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-15",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "84e85ec5-5170-4b49-ac60-bee104d50158",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2020-09-15T07:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c8aa5511-b012-45ef-973f-d9f6cb78adcf",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2020-09-15T12:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

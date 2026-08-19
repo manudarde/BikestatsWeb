@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "c1dea7a7-e35e-4363-9e28-7997e3bc6fbf",
+    "name": "GRAND PRIX OF AUSTRALIA ",
+    "circuit": "Phillip Island",
+    "country": "Australia",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "8908f004-0b16-4d56-be8a-e044f8a7d063",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-23T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b2c45064-acf1-411e-b51a-4f23c41c575d",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-23T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "6cfda5f3-ac44-4eda-ae59-83ee7ffea24f",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "baf77e74-ce7f-45d7-af9a-e66c1e668e16",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "450aa1a8-f18a-4a16-acf4-80af5107f75f",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "d2fdd690-33d9-4cc7-87af-9db286a825b8",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "076f525d-f965-4e06-b682-0742a09c8cc2",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-25T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "963e4ac1-6a6d-4a48-9c91-72685599a9b6",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-25T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

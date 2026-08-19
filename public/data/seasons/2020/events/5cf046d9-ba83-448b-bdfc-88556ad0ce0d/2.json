@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "5cf046d9-ba83-448b-bdfc-88556ad0ce0d",
+    "name": "Gran Premio de Europa",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "",
+    "startDate": "2020-11-06",
+    "endDate": "2020-11-08",
+    "test": false
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

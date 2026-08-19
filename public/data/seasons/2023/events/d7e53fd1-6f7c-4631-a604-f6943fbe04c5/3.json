@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "d7e53fd1-6f7c-4631-a604-f6943fbe04c5",
+    "name": "Valencia MotoGP™ Official Test ",
+    "circuit": "Circuit Ricardo Tormo",
+    "country": "Spain",
+    "startDate": "2022-11-08",
+    "endDate": "2022-11-08",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "963d535e-85df-4900-a49f-5f14e4e25b51",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2022-11-08T09:30:00+00:00",
+      "classification": []
+    }
+  ]
+}

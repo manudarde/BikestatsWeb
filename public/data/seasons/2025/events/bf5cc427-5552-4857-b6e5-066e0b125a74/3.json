@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "bf5cc427-5552-4857-b6e5-066e0b125a74",
+    "name": "SPAIN MOTOGP TEST",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2025-04-28",
+    "endDate": "2025-04-28",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "304093bf-98b2-4f67-bd40-c94bb909044e",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-04-28T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1e1b3a64-8c2d-40d2-98d3-f0c456eccf58",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-04-28T13:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

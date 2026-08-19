@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "410320fc-df6d-4c85-bba4-5e455c053ddb",
+    "name": "Misano MotoGP™ 2020 Official Test",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-15",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

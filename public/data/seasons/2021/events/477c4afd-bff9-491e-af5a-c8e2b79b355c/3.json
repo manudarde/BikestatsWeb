@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "477c4afd-bff9-491e-af5a-c8e2b79b355c",
+    "name": "Jerez MotoGP™ Official Test",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-03",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "928f9b67-fa6e-496b-940a-8228ca3cb6d3",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2021-05-03T08:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

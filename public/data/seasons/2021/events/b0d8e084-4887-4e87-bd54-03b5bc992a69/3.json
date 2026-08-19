@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "b0d8e084-4887-4e87-bd54-03b5bc992a69",
+    "name": "Catalunya MotoGP™ Official Test",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-07",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "1798ae28-c135-4835-a9ef-c3553ebca2fc",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2021-06-07T08:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

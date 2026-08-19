@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "seasonId": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+  "categories": [
+    {
+      "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+      "name": "MotoGP™",
+      "legacyId": 3
+    },
+    {
+      "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+      "name": "Moto2™",
+      "legacyId": 2
+    },
+    {
+      "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+      "name": "Moto3™",
+      "legacyId": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+      "name": "PT Grand Prix of Thailand",
+      "circuit": "Chang International Circuit",
+      "country": "Thailand",
+      "startDate": "2026-02-27",
+      "endDate": "2026-03-01",
+      "test": false
+    },
+    {
+      "id": "738a8b22-f744-4c75-847b-a2565dce17de",
+      "name": "Estrella Galicia 0,0 Grand Prix of Brazil",
+      "circuit": "Autódromo Internacional de Goiânia - Ayrton Senna",
+      "country": "Brazil",
+      "startDate": "2026-03-20",
+      "endDate": "2026-03-22",
+      "test": false
+    },
+    {
+      "id": "782c929d-faaf-44e2-9d6f-0fde033855be",
+      "name": "Red Bull Grand Prix of The United States",
+      "circuit": "Circuit Of The Americas",
+      "country": "United States of America",
+      "startDate": "2026-03-27",
+      "endDate": "2026-03-29",
+      "test": false
+    },
+    {
+      "id": "506917f4-179d-4e1d-b750-805c15bab8d7",
+      "name": "Estrella Galicia 0,0 Grand Prix of Spain",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-26",
+      "test": false
+    },
+    {
+      "id": "edcfdba3-7a1f-44f3-8fe8-1f8a6609770c",
+      "name": "Michelin Grand Prix of France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-10",
+      "test": false
+    },
+    {
+      "id": "a0251657-afe5-4d90-a66f-d4779babd571",
+      "name": "Monster Energy Grand Prix of Catalonia",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-17",
+      "test": false
+    },
+    {
+      "id": "dd266adb-3930-4099-a3d1-a9807362f048",
+      "name": "BREMBO GRAND PRIX OF ITALY ",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2026-05-29",
+      "endDate": "2026-05-31",
+      "test": false
+    },
+    {
+      "id": "4bd780c9-9da4-48c6-a69f-ebfd6bf8a425",
+      "name": "GRAND PRIX OF HUNGARY ",
+      "circuit": "Balaton Park Circuit",
+      "country": "Hungary",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-07",
+      "test": false
+    },
+    {
+      "id": "f9d2e80c-431b-485f-afcf-671950648ad7",
+      "name": "MONSTER ENERGY GRAND PRIX OF CZECHIA ",
+      "circuit": "CREDITAS Autodrom Brno",
+      "country": "Czechia",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "test": false
+    },
+    {
+      "id": "83804cb1-a417-4213-b727-37f84b26d36e",
+      "name": "TISSOT GRAND PRIX OF THE NETHERLANDS ",
+      "circuit": "TT Circuit Assen",
+      "country": "Netherlands",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-28",
+      "test": false
+    },
+    {
+      "id": "b26a84f7-2d9b-4cc5-a3e5-3d1abe916d8c",
+      "name": "LIQUI MOLY GRAND PRIX OF GERMANY ",
+      "circuit": "Sachsenring",
+      "country": "Germany",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-12",
+      "test": false
+    },
+    {
+      "id": "6a16e0cb-ef4b-44b1-92e5-2e958cca0815",
+      "name": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN ",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-09",
+      "test": false
+    },
+    {
+      "id": "23b7a561-17e4-4aa6-9be3-2529a5b69938",
+      "name": "MICHELIN® GRAND PRIX OF ARAGON ",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-30",
+      "test": false
+    },
+    {
+      "id": "a5881826-ec88-4a41-8e4c-ba58709d4591",
+      "name": "Red Bull Grand Prix of San Marino and The Rimini Riviera",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "test": false
+    },
+    {
+      "id": "e191f3f6-218b-4a1c-bbd2-3ed8b5135683",
+      "name": "GRAND PRIX OF AUSTRIA ",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "test": false
+    },
+    {
+      "id": "5a671255-63ca-46e2-bd60-34134bb063b4",
+      "name": "Motul Grand Prix of Japan",
+      "circuit": "Mobility Resort Motegi",
+      "country": "Japan",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "test": false
+    },
+    {
+      "id": "275ca55d-45d3-440f-ad59-17d6b3e6b2d3",
+      "name": "Pertamina Grand Prix of Indonesia",
+      "circuit": "Pertamina Mandalika Circuit",
+      "country": "Indonesia",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "test": false
+    },
+    {
+      "id": "c1dea7a7-e35e-4363-9e28-7997e3bc6fbf",
+      "name": "GRAND PRIX OF AUSTRALIA ",
+      "circuit": "Phillip Island",
+      "country": "Australia",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "test": false
+    },
+    {
+      "id": "ea2ba334-b943-462f-aedb-084ac38408d1",
+      "name": "Petronas Grand Prix of Malaysia",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "test": false
+    },
+    {
+      "id": "5a880aba-62c4-413c-bb2d-b721683dd064",
+      "name": "Qatar Airways Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "test": false
+    },
+    {
+      "id": "4b3882a8-24b2-4321-aa12-d1847c989438",
+      "name": "Repsol Grand Prix of Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "test": false
+    },
+    {
+      "id": "723031d1-27bd-4467-b59c-4cb8f7e081ab",
+      "name": "Motul Grand Prix of Valencia",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "test": false
+    },
+    {
+      "id": "412a4e57-758b-4aff-a9a9-0e516b5e1256",
+      "name": "VALENCIA TEST",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2025-11-18",
+      "endDate": "2025-11-18",
+      "test": true
+    },
+    {
+      "id": "9514d587-5f2e-485c-bf7f-ff3ffc4ccc7f",
+      "name": "SEPANG TEST",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2026-02-03",
+      "endDate": "2026-02-05",
+      "test": true
+    },
+    {
+      "id": "58abf0dd-4a12-48b7-a84b-9fb82781b3a9",
+      "name": "JEREZ MOTO3 TEST",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2026-02-14",
+      "endDate": "2026-02-15",
+      "test": true
+    },
+    {
+      "id": "047822cf-7496-48cc-9623-3f74c686d4e5",
+      "name": "JEREZ MOTO2 TEST",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2026-02-16",
+      "endDate": "2026-02-17",
+      "test": true
+    },
+    {
+      "id": "3e2bc6ab-e7d8-48a6-93d2-ce8356e55fdf",
+      "name": "BURIRAM TEST",
+      "circuit": "Chang International Circuit",
+      "country": "Thailand",
+      "startDate": "2026-02-21",
+      "endDate": "2026-02-22",
+      "test": true
+    },
+    {
+      "id": "87572158-2dcd-4d6b-b9d6-072b03c21092",
+      "name": "JEREZ TEST ",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2026-04-27",
+      "endDate": "2026-04-27",
+      "test": true
+    },
+    {
+      "id": "b7551b27-a4de-4aec-8343-08902fb00c63",
+      "name": "BARCELONA TEST ",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2026-05-18",
+      "endDate": "2026-05-18",
+      "test": true
+    }
+  ]
+}

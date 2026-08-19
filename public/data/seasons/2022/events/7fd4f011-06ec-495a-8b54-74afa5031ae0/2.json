@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "7fd4f011-06ec-495a-8b54-74afa5031ae0",
+    "name": "Mandalika MotoGP™ Official Test ",
+    "circuit": "Pertamina Mandalika Circuit",
+    "country": "Indonesia",
+    "startDate": "2022-02-11",
+    "endDate": "2022-02-13",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

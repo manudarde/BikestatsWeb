@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "0d38138d-6545-4093-a3ac-c8506baf499f",
+    "name": "Animoca Brands Australian Motorcycle Grand Prix",
+    "circuit": "Phillip Island",
+    "country": "Australia",
+    "startDate": "2022-10-14",
+    "endDate": "2022-10-16",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

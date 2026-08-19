@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "8ed52491-e1aa-49a9-8d70-f1c1f8dd3090",
+    "name": "Gran Premio d'Italia Oakley",
+    "circuit": "Autodromo Internazionale del Mugello",
+    "country": "Italy",
+    "startDate": "2023-06-09",
+    "endDate": "2023-06-11",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

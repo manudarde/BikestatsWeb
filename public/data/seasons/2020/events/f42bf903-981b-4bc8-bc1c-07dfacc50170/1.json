@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "f42bf903-981b-4bc8-bc1c-07dfacc50170",
+    "name": "Shark Helmets Grand Prix de France",
+    "circuit": "Le Mans",
+    "country": "France",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-11",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

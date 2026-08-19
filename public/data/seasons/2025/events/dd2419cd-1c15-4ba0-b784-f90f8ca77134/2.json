@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "dd2419cd-1c15-4ba0-b784-f90f8ca77134",
+    "name": "THAILAND MOTOGP TEST",
+    "circuit": "Chang International Circuit",
+    "country": "Thailand",
+    "startDate": "2025-02-12",
+    "endDate": "2025-02-13",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

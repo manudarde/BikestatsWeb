@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "c370edd4-4c04-4144-98d6-c755baa2362c",
+    "name": "FRANCE MOTO2 TEST",
+    "circuit": "Le Mans",
+    "country": "France",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-13",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "520a1912-17d9-4372-a04c-7bf8ee8f8a9a",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-05-13T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f892e366-c4b5-4aa9-9759-04d2a101c60c",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-05-13T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

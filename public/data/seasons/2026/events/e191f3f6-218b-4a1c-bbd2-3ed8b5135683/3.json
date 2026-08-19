@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "e191f3f6-218b-4a1c-bbd2-3ed8b5135683",
+    "name": "GRAND PRIX OF AUSTRIA ",
+    "circuit": "Red Bull Ring - Spielberg",
+    "country": "Austria",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-20",
+    "test": false
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "ac5f5765-c0a9-44c3-9a5b-6f9baced574d",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-18T10:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "4a95fbbe-3ba2-4e5a-8be8-50f9cfbd424e",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-18T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "43eb898d-01f4-4d36-90ed-fa6e54ac16ab",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T10:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "150b2768-e068-4ccd-89a4-33625ece3f7a",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T10:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "df25e534-ee1f-459d-82c2-6ef2581a9a4a",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T11:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "7c10aec1-5dec-49ce-8a93-1f0d2e03dc22",
+      "type": "SPR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-19T15:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "164e7f69-0e92-4395-bf98-0a161759f348",
+      "type": "WUP",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-20T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "4d2ef1ce-9282-4dbb-87e3-debea643d911",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-09-20T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

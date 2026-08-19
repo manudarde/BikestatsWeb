@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "f49a298b-722c-45ef-a8d6-7961ac4174e6",
+    "name": "Gran Premio Lenovo di San Marino e della Riviera di Rimini",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "San Marino",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-13",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

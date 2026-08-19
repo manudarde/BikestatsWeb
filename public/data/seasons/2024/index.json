@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "seasonId": "dd12382e-1d9f-46ee-a5f7-c5104db28e43",
+  "categories": [
+    {
+      "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+      "name": "MotoGP™",
+      "legacyId": 3
+    },
+    {
+      "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+      "name": "Moto2™",
+      "legacyId": 2
+    },
+    {
+      "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+      "name": "Moto3™",
+      "legacyId": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "276ffee0-7040-49ca-a3a5-ab7b52685d3c",
+      "name": "Qatar Airways Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2024-03-08",
+      "endDate": "2024-03-10",
+      "test": false
+    },
+    {
+      "id": "1cc0f19e-b77d-4bf5-8ca1-221b49a83593",
+      "name": "Grande Prémio Tissot de Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2024-03-22",
+      "endDate": "2024-03-24",
+      "test": false
+    },
+    {
+      "id": "c9d2b49e-2b65-4975-9e4a-80d5429cc1b2",
+      "name": "Red Bull Grand Prix of The Americas",
+      "circuit": "Circuit Of The Americas",
+      "country": "United States of America",
+      "startDate": "2024-04-12",
+      "endDate": "2024-04-14",
+      "test": false
+    },
+    {
+      "id": "e561059a-2048-4996-a6c5-f564f9478b66",
+      "name": "Gran Premio Estrella Galicia 0,0 de España",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2024-04-26",
+      "endDate": "2024-04-28",
+      "test": false
+    },
+    {
+      "id": "fb3311d5-6ff0-4a83-8edc-dcbd2b9014f1",
+      "name": "Michelin® Grand Prix de France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2024-05-10",
+      "endDate": "2024-05-12",
+      "test": false
+    },
+    {
+      "id": "3ca2d7a2-7f51-411b-ba69-3a8528207868",
+      "name": "Gran Premi Monster Energy de Catalunya",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2024-05-24",
+      "endDate": "2024-05-26",
+      "test": false
+    },
+    {
+      "id": "bb2220b6-1508-4d13-b73e-ecd1ecee8d15",
+      "name": "Gran Premio d’Italia Brembo",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2024-05-31",
+      "endDate": "2024-06-02",
+      "test": false
+    },
+    {
+      "id": "3eea1a6b-7fce-41e5-bc0f-d8a3523e3957",
+      "name": "Motul TT Assen",
+      "circuit": "TT Circuit Assen",
+      "country": "Netherlands",
+      "startDate": "2024-06-28",
+      "endDate": "2024-06-30",
+      "test": false
+    },
+    {
+      "id": "7ef0ef89-1477-4e70-a117-f209098e31d3",
+      "name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "circuit": "Sachsenring",
+      "country": "Germany",
+      "startDate": "2024-07-05",
+      "endDate": "2024-07-07",
+      "test": false
+    },
+    {
+      "id": "9e44ac05-9362-4edf-a87a-d4aae85373c1",
+      "name": "Monster Energy British Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2024-08-02",
+      "endDate": "2024-08-04",
+      "test": false
+    },
+    {
+      "id": "3787fdac-7a1d-4c6f-95f0-76dfdde8b0c6",
+      "name": "Motorrad Grand Prix von Österreich",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2024-08-16",
+      "endDate": "2024-08-18",
+      "test": false
+    },
+    {
+      "id": "ff278afb-ee9a-4237-a70a-ea83eb37a27f",
+      "name": "Gran Premio GoPro de Aragón",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2024-08-30",
+      "endDate": "2024-09-01",
+      "test": false
+    },
+    {
+      "id": "90a7a379-00f2-4e73-9c72-1c190b27c730",
+      "name": "Gran Premio Red Bull di San Marino e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2024-09-06",
+      "endDate": "2024-09-08",
+      "test": false
+    },
+    {
+      "id": "7533f0a8-d411-4d9b-b07d-28f77022333f",
+      "name": "Gran Premio Pramac dell’Emilia-Romagna",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2024-09-20",
+      "endDate": "2024-09-22",
+      "test": false
+    },
+    {
+      "id": "c4f2864e-f054-4843-baef-ba32d91b615a",
+      "name": "Pertamina Grand Prix of Indonesia",
+      "circuit": "Pertamina Mandalika Circuit",
+      "country": "Indonesia",
+      "startDate": "2024-09-27",
+      "endDate": "2024-09-29",
+      "test": false
+    },
+    {
+      "id": "7de803e1-8fcf-4fb9-b0c7-ac06a046963e",
+      "name": "Motul Grand Prix of Japan",
+      "circuit": "Mobility Resort Motegi",
+      "country": "Japan",
+      "startDate": "2024-10-04",
+      "endDate": "2024-10-06",
+      "test": false
+    },
+    {
+      "id": "18905751-bb2b-42ff-85f8-e4052c9b79b0",
+      "name": "Qatar Airways Australian Motorcycle Grand Prix",
+      "circuit": "Phillip Island",
+      "country": "Australia",
+      "startDate": "2024-10-18",
+      "endDate": "2024-10-20",
+      "test": false
+    },
+    {
+      "id": "0b8ae01f-fa39-425e-85b0-4cf76bc015e7",
+      "name": "PT Grand Prix of Thailand",
+      "circuit": "Chang International Circuit",
+      "country": "Thailand",
+      "startDate": "2024-10-25",
+      "endDate": "2024-10-27",
+      "test": false
+    },
+    {
+      "id": "914e4a9e-481c-4c3c-9169-291c502db16b",
+      "name": "PETRONAS Grand Prix of Malaysia",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-03",
+      "test": false
+    },
+    {
+      "id": "deaa834f-89a8-4e41-adbe-d87032ed21f1",
+      "name": "Motul Solidarity Grand Prix of Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2024-11-15",
+      "endDate": "2024-11-17",
+      "test": false
+    },
+    {
+      "id": "fc73530a-7d68-4a25-8d86-9cb932a3bca9",
+      "name": "Valencia MotoGP™ Official Test ",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2023-11-28",
+      "endDate": "2023-11-28",
+      "test": true
+    },
+    {
+      "id": "642570d3-34e5-4388-9826-c28be6a897de",
+      "name": "Sepang MotoGP™ Official Test",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2024-02-06",
+      "endDate": "2024-02-08",
+      "test": true
+    },
+    {
+      "id": "cdf63a66-46f9-4af5-bf3f-27a8ef674ea9",
+      "name": "Qatar MotoGP™ Official Test",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2024-02-19",
+      "endDate": "2024-02-20",
+      "test": true
+    },
+    {
+      "id": "37f21714-6331-4871-8cc6-d6a4eb7ac9f2",
+      "name": "Jerez Moto2™ & Moto3™ Official Test ",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2024-02-28",
+      "endDate": "2024-03-01",
+      "test": true
+    },
+    {
+      "id": "2d0686c3-d9fa-4d11-91ef-a536f13494fa",
+      "name": "Jerez MotoGP™ Official Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2024-04-29",
+      "endDate": "2024-04-29",
+      "test": true
+    },
+    {
+      "id": "776db12c-3ca7-4d2c-ab35-ef2b86a1a542",
+      "name": "Jerez Moto2™ & Moto3™ Official Test II",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2024-04-30",
+      "endDate": "2024-04-30",
+      "test": true
+    },
+    {
+      "id": "4ed1473d-5791-43af-8b9d-375209d19b84",
+      "name": "Mugello MotoGP™ Official Test ",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2024-06-03",
+      "endDate": "2024-06-03",
+      "test": true
+    },
+    {
+      "id": "5274f415-acf4-4610-895d-d3098fb635ff",
+      "name": "Spielberg Moto2™ & Moto3™ Official Test",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2024-08-19",
+      "endDate": "2024-08-19",
+      "test": true
+    },
+    {
+      "id": "79e422c6-74f5-421c-b9f4-35c6adff7a9c",
+      "name": "Misano MotoGP™ Official Test",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2024-09-09",
+      "endDate": "2024-09-09",
+      "test": true
+    }
+  ]
+}

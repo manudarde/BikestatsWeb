@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "0ebc8158-8a5c-4140-a0b8-f52896be0e98",
+    "name": "Misano MotoGP™ Official Test ",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-22",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "793955ef-9a6a-4eba-b193-85bcb02174f9",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2021-09-21T07:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "15d4a8dc-b955-41f4-93ee-35610c776382",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2021-09-21T12:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e2631420-a1b7-4cb3-918e-b99d3d37ea46",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2021-09-22T07:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "b132b6de-bb09-4e35-99bf-fc237f806804",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2021-09-22T12:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

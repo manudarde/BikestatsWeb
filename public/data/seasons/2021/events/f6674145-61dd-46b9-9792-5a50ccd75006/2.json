@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "event": {
+    "id": "f6674145-61dd-46b9-9792-5a50ccd75006",
+    "name": "Qatar MotoGP™ Shakedown Test",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2021-03-05",
+    "endDate": "2021-03-05",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": []
+}

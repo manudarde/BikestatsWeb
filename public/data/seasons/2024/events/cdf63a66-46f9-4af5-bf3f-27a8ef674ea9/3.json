@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "cdf63a66-46f9-4af5-bf3f-27a8ef674ea9",
+    "name": "Qatar MotoGP™ Official Test",
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "startDate": "2024-02-19",
+    "endDate": "2024-02-20",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "6fdb30f8-331a-4a04-a58d-37bc43f3d142",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-02-19T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "1e1479c8-9a07-457a-a8a3-5d34643bb307",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2024-02-20T14:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

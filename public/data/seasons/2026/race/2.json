@@ -1,0 +1,4377 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "events": [
+    {
+      "id": "f3fd8ba7-2966-46bd-8687-b92047f5e733",
+      "name": "PT Grand Prix of Thailand",
+      "circuit": "Chang International Circuit",
+      "country": "Thailand",
+      "startDate": "2026-02-27",
+      "endDate": "2026-03-01",
+      "test": false,
+      "sessions": [
+        {
+          "id": "43a6f2cb-2fab-477f-9a80-59ee69a31aaa",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-03-01T13:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - PONT GRUP - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.553",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.991",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "1.315",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "2.269",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "SYNC Group SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "3.988",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "4.222",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "4.507",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "4.743",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "5.005",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "5.247",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "5.890",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "6.104",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "SYNC Group SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "6.726",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "6.785",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "7.046",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "7.262",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "7.939",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "8.232",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "8.341",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "8.818",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "8.953",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 2,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 24,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 2,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 2,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 1,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - PONT GRUP - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 1,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        },
+        {
+          "id": "0700559d-65bc-4f7a-ac40-918f86244092",
+          "type": "RAC",
+          "number": 2,
+          "status": "FINISHED",
+          "date": "2026-03-01T13:45:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "0.099",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "0.454",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - PONT GRUP - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "1.138",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "2.667",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "SYNC Group SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "3.211",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "4.220",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "4.340",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "5.835",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "6.180",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "6.550",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "6.788",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "7.103",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "9.740",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "9.776",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "10.378",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "12.326",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "12.601",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "17.958",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 1,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "SYNC Group SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - PONT GRUP - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "738a8b22-f744-4c75-847b-a2565dce17de",
+      "name": "Estrella Galicia 0,0 Grand Prix of Brazil",
+      "circuit": "Autódromo Internacional de Goiânia - Ayrton Senna",
+      "country": "Brazil",
+      "startDate": "2026-03-20",
+      "endDate": "2026-03-22",
+      "test": false,
+      "sessions": [
+        {
+          "id": "89b59f70-e8a0-4026-b2ff-6e6027009378",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-03-22T13:25:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "1.226",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "3.916",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "4.497",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "8.652",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "8.778",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "9.683",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "11.198",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "11.890",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - PONT GRUP - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "12.718",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "16.218",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "18.439",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "18.932",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "19.696",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "19.697",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "20.722",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "24.717",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "24.880",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "27.250",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "28.303",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "31.633",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "33.355",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Dennis Foggia",
+              "riderNumber": 8,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "38.931",
+              "gapPrevious": ""
+            },
+            {
+              "position": 24,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 26,
+              "topSpeed": null,
+              "gapFirst": "40.307",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - PONT GRUP - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 6,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "782c929d-faaf-44e2-9d6f-0fde033855be",
+      "name": "Red Bull Grand Prix of The United States",
+      "circuit": "Circuit Of The Americas",
+      "country": "United States of America",
+      "startDate": "2026-03-27",
+      "endDate": "2026-03-29",
+      "test": false,
+      "sessions": [
+        {
+          "id": "18fff71d-3e71-441f-87c8-9e103a8d6bb1",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-03-29T13:50:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "0.497",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "0.908",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Power Electronics Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "1.843",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "2.729",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "3.251",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "5.003",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "6.830",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "7.761",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "8.740",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - GALFER - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "11.485",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "11.828",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "12.152",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "14.246",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "20.119",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Power Electronics Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "21.206",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "25.265",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "26.356",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Dennis Foggia",
+              "riderNumber": 8,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "26.488",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "31.146",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "32.370",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 8,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 8,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - GALFER - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "506917f4-179d-4e1d-b750-805c15bab8d7",
+      "name": "Estrella Galicia 0,0 Grand Prix of Spain",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-26",
+      "test": false,
+      "sessions": [
+        {
+          "id": "418c7de9-a3ef-46c3-8447-f517e4648289",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-04-26T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "0.885",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "1.107",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Gaviota Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "2.032",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "Beta Tools SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "4.212",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "10.013",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "10.660",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "11.649",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "12.289",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - GALFER - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "12.564",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Gaviota Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "12.934",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "14.893",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "15.386",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "15.539",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "16.239",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Marcos Ramirez",
+              "riderNumber": 24,
+              "teamName": "QJMOTOR - GALFER - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "17.444",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "20.838",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "Beta Tools SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "27.305",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "28.559",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "29.672",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "36.244",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 8,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 6,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 6,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 5,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edcfdba3-7a1f-44f3-8fe8-1f8a6609770c",
+      "name": "Michelin Grand Prix of France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-10",
+      "test": false,
+      "sessions": [
+        {
+          "id": "5e05a09d-9097-40a3-8dec-30bf8acb4eed",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-05-10T12:20:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "0.566",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - El Motorista - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "2.969",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "3.949",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "5.165",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "Folladore SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "6.011",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "6.673",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "6.848",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "9.112",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "10.306",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "11.571",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "11.773",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "12.301",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "13.649",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "14.469",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "Folladore SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "14.664",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "14.791",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "16.628",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Marcos Ramirez",
+              "riderNumber": 24,
+              "teamName": "QJMOTOR - El Motorista - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "17.742",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "21.204",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "22.773",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "24.287",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "26.322",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 1,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 9,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0251657-afe5-4d90-a66f-d4779babd571",
+      "name": "Monster Energy Grand Prix of Catalonia",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-17",
+      "test": false,
+      "sessions": [
+        {
+          "id": "031af3e3-b7a9-4fe0-993e-a7917f85aeb9",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-05-17T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "Beta Tools SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "0.203",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "4.205",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - Bordoy - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "6.338",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Impulse Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "7.971",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Impulse Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "8.080",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "9.636",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "11.312",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "Beta Tools SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "13.545",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "13.761",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "14.210",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "15.056",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "16.423",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "17.667",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "18.721",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Unai Orradre",
+              "riderNumber": 10,
+              "teamName": "QJMOTOR - Bordoy - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "20.730",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "21.344",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "21.405",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "24.078",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "24.833",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "31.147",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "38.957",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "39.601",
+              "gapPrevious": ""
+            },
+            {
+              "position": 24,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "49.140",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 16,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 13,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 10,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd266adb-3930-4099-a3d1-a9807362f048",
+      "name": "BREMBO GRAND PRIX OF ITALY ",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2026-05-29",
+      "endDate": "2026-05-31",
+      "test": false,
+      "sessions": [
+        {
+          "id": "53ad2fc2-f23e-47f8-91f5-c95a34958881",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-05-31T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "MB Conveyors SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "5.327",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "5.462",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "5.479",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "7.568",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "9.987",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "10.952",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "15.463",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "16.428",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "19.587",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "19.603",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "20.302",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "22.233",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "22.253",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "22.874",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "MB Conveyors SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "25.332",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "25.372",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "25.944",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "28.843",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "28.862",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Unai Orradre",
+              "riderNumber": 10,
+              "teamName": "QJMOTOR - Green Power - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "35.661",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - Green Power - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 6,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 1,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bd780c9-9da4-48c6-a69f-ebfd6bf8a425",
+      "name": "GRAND PRIX OF HUNGARY ",
+      "circuit": "Balaton Park Circuit",
+      "country": "Hungary",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-07",
+      "test": false,
+      "sessions": [
+        {
+          "id": "3fd19fd1-660e-4f7b-a9f3-859b5f12a976",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-06-07T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "1.552",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "3.925",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "4.367",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "9.561",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "11.143",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "MB Conveyors SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "14.612",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "18.652",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "18.808",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "20.885",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "22.404",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "22.564",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "24.263",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "27.513",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "27.762",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "29.225",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "31.425",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "MB Conveyors SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "31.722",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "33.763",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "40.676",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "43.846",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Jacob Roulstone",
+              "riderNumber": 22,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "64.501",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 21,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - Exocom - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 3,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9d2e80c-431b-485f-afcf-671950648ad7",
+      "name": "MONSTER ENERGY GRAND PRIX OF CZECHIA ",
+      "circuit": "CREDITAS Autodrom Brno",
+      "country": "Czechia",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "test": false,
+      "sessions": [
+        {
+          "id": "e9ef1d17-66e4-4126-9984-172dfc045157",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-06-21T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - Exocom - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "0.096",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "0.701",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "2.058",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "5.157",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "5.190",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Inde Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "7.492",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "7.879",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "9.835",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "10.014",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "10.669",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "10.944",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "15.549",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "16.400",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "17.290",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "19.676",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "22.144",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "22.820",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "23.246",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "23.376",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "27.800",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "28.238",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - Exocom - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "28.501",
+              "gapPrevious": ""
+            },
+            {
+              "position": 24,
+              "riderName": "Jacob Roulstone",
+              "riderNumber": 22,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "34.496",
+              "gapPrevious": ""
+            },
+            {
+              "position": 25,
+              "riderName": "Milan Pawelec",
+              "riderNumber": 40,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "34.857",
+              "gapPrevious": ""
+            },
+            {
+              "position": 26,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 18,
+              "topSpeed": null,
+              "gapFirst": "35.093",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 7,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83804cb1-a417-4213-b727-37f84b26d36e",
+      "name": "TISSOT GRAND PRIX OF THE NETHERLANDS ",
+      "circuit": "TT Circuit Assen",
+      "country": "Netherlands",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-28",
+      "test": false,
+      "sessions": [
+        {
+          "id": "d38d24ef-5ed3-4e34-b841-97a226b1e50a",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-06-28T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Azul Marino Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "0.024",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "0.234",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "2.795",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - Xeramic - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "4.355",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Azul Marino Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "7.374",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "8.455",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "9.437",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "12.177",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "12.288",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "15.495",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "18.232",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "18.579",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - Xeramic - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "18.726",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "21.054",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "21.303",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "21.411",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "21.501",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "23.493",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "23.601",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "24.373",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Jacob Roulstone",
+              "riderNumber": 22,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "29.230",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Milan Pawelec",
+              "riderNumber": 40,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "29.419",
+              "gapPrevious": ""
+            },
+            {
+              "position": 24,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "33.552",
+              "gapPrevious": ""
+            },
+            {
+              "position": 25,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 22,
+              "topSpeed": null,
+              "gapFirst": "37.515",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 16,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 2,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "HDR SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 2,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b26a84f7-2d9b-4cc5-a3e5-3d1abe916d8c",
+      "name": "LIQUI MOLY GRAND PRIX OF GERMANY ",
+      "circuit": "Sachsenring",
+      "country": "Germany",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-12",
+      "test": false,
+      "sessions": [
+        {
+          "id": "eae90ca3-4e0a-4840-a5cd-967067ec95b3",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-07-12T12:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR -R.O.M.E.A - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Azul Marino Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "0.614",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "3.229",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "7.430",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "7.489",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "9.460",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "9.725",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "10.205",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "11.237",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "MB Conveyors SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "12.741",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "13.246",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "14.290",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "14.525",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR -R.O.M.E.A - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "21.335",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "21.783",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "22.186",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "22.252",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Jorge Navarro",
+              "riderNumber": 9,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "24.577",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "24.719",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "25.371",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "27.938",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "28.080",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Milan Pawelec",
+              "riderNumber": 40,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 25,
+              "topSpeed": null,
+              "gapFirst": "48.793",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 16,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 19,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Azul Marino Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "MB Conveyors SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 15,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a16e0cb-ef4b-44b1-92e5-2e958cca0815",
+      "name": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN ",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-09",
+      "test": false,
+      "sessions": [
+        {
+          "id": "dc23b719-1964-43df-880b-b69fcf8ccbc8",
+          "type": "RAC",
+          "number": null,
+          "status": "FINISHED",
+          "date": "2026-08-09T11:15:00+00:00",
+          "classification": [
+            {
+              "position": 1,
+              "riderName": "Filip Salac",
+              "riderNumber": 12,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": 2,
+              "riderName": "Ivan Ortola",
+              "riderNumber": 4,
+              "teamName": "QJMOTOR - Biolec - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "0.303",
+              "gapPrevious": ""
+            },
+            {
+              "position": 3,
+              "riderName": "Alex Escrig",
+              "riderNumber": 11,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "0.652",
+              "gapPrevious": ""
+            },
+            {
+              "position": 4,
+              "riderName": "Daniel Holgado",
+              "riderNumber": 96,
+              "teamName": "CFMOTO Gaviota Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "1.743",
+              "gapPrevious": ""
+            },
+            {
+              "position": 5,
+              "riderName": "Izan Guevara",
+              "riderNumber": 28,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "2.555",
+              "gapPrevious": ""
+            },
+            {
+              "position": 6,
+              "riderName": "Alonso Lopez",
+              "riderNumber": 21,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "6.201",
+              "gapPrevious": ""
+            },
+            {
+              "position": 7,
+              "riderName": "Daniel Muñoz",
+              "riderNumber": 17,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "6.293",
+              "gapPrevious": ""
+            },
+            {
+              "position": 8,
+              "riderName": "Deniz öncü",
+              "riderNumber": 53,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "7.185",
+              "gapPrevious": ""
+            },
+            {
+              "position": 9,
+              "riderName": "Barry Baltus",
+              "riderNumber": 7,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "7.310",
+              "gapPrevious": ""
+            },
+            {
+              "position": 10,
+              "riderName": "Sergio Garcia",
+              "riderNumber": 3,
+              "teamName": "ITALJET Gresini Moto2",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "8.873",
+              "gapPrevious": ""
+            },
+            {
+              "position": 11,
+              "riderName": "Ayumu Sasaki",
+              "riderNumber": 71,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "9.066",
+              "gapPrevious": ""
+            },
+            {
+              "position": 12,
+              "riderName": "Joe Roberts",
+              "riderNumber": 16,
+              "teamName": "OnlyFans American Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "13.675",
+              "gapPrevious": ""
+            },
+            {
+              "position": 13,
+              "riderName": "Celestino Vietti",
+              "riderNumber": 13,
+              "teamName": "GT Trevisan SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "13.722",
+              "gapPrevious": ""
+            },
+            {
+              "position": 14,
+              "riderName": "Manuel Gonzalez",
+              "riderNumber": 18,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "15.060",
+              "gapPrevious": ""
+            },
+            {
+              "position": 15,
+              "riderName": "Alberto Ferrandez",
+              "riderNumber": 54,
+              "teamName": "BLU CRU Pramac Yamaha Moto2",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "15.063",
+              "gapPrevious": ""
+            },
+            {
+              "position": 16,
+              "riderName": "Luca Lunetta",
+              "riderNumber": 32,
+              "teamName": "GT Trevisan SpeedRS Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "18.494",
+              "gapPrevious": ""
+            },
+            {
+              "position": 17,
+              "riderName": "Angel Piqueras",
+              "riderNumber": 36,
+              "teamName": "QJMOTOR - Biolec - MSI",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "18.548",
+              "gapPrevious": ""
+            },
+            {
+              "position": 18,
+              "riderName": "Adrian Huertas",
+              "riderNumber": 99,
+              "teamName": "Italtrans Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "18.702",
+              "gapPrevious": ""
+            },
+            {
+              "position": 19,
+              "riderName": "Jose Antonio Rueda",
+              "riderNumber": 98,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "18.840",
+              "gapPrevious": ""
+            },
+            {
+              "position": 20,
+              "riderName": "Senna Agius",
+              "riderNumber": 81,
+              "teamName": "LIQUI MOLY Dynavolt Intact GP",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "19.246",
+              "gapPrevious": ""
+            },
+            {
+              "position": 21,
+              "riderName": "David Alonso",
+              "riderNumber": 80,
+              "teamName": "CFMOTO Gaviota Aspar Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "20.029",
+              "gapPrevious": ""
+            },
+            {
+              "position": 22,
+              "riderName": "Mario Aji",
+              "riderNumber": 64,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "21.323",
+              "gapPrevious": ""
+            },
+            {
+              "position": 23,
+              "riderName": "Taiyo Furusato",
+              "riderNumber": 72,
+              "teamName": "Idemitsu Honda Team Asia",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "22.360",
+              "gapPrevious": ""
+            },
+            {
+              "position": 24,
+              "riderName": "Zonta Vd Goorbergh",
+              "riderNumber": 84,
+              "teamName": "Momoven Idrofoglia RW Racing Team",
+              "constructorName": "Kalex",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "22.481",
+              "gapPrevious": ""
+            },
+            {
+              "position": 25,
+              "riderName": "Xabi Zurutuza",
+              "riderNumber": 85,
+              "teamName": "KLINT Racing Team",
+              "constructorName": "Forward",
+              "totalLaps": 17,
+              "topSpeed": null,
+              "gapFirst": "27.683",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Tony Arbolino",
+              "riderNumber": 14,
+              "teamName": "REDS Fantic Racing",
+              "constructorName": "Kalex",
+              "totalLaps": 12,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Aron Canet",
+              "riderNumber": 44,
+              "teamName": "ELF Marc VDS Racing Team",
+              "constructorName": "Boscoscuro",
+              "totalLaps": 8,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            },
+            {
+              "position": null,
+              "riderName": "Collin Veijer",
+              "riderNumber": 95,
+              "teamName": "Red Bull KTM Ajo",
+              "constructorName": "Kalex",
+              "totalLaps": 0,
+              "topSpeed": null,
+              "gapFirst": "0.000",
+              "gapPrevious": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23b7a561-17e4-4aa6-9be3-2529a5b69938",
+      "name": "MICHELIN® GRAND PRIX OF ARAGON ",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-30",
+      "test": false,
+      "sessions": [
+        {
+          "id": "0117b118-f498-4798-abda-9748c8aeaf8d",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-08-30T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "a5881826-ec88-4a41-8e4c-ba58709d4591",
+      "name": "Red Bull Grand Prix of San Marino and The Rimini Riviera",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "test": false,
+      "sessions": [
+        {
+          "id": "ea693ccb-9940-4134-9889-7365ec7b84d6",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-09-13T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "e191f3f6-218b-4a1c-bbd2-3ed8b5135683",
+      "name": "GRAND PRIX OF AUSTRIA ",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "test": false,
+      "sessions": [
+        {
+          "id": "0ecafc1f-7050-43c0-8563-1c9c1dfb8b00",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-09-20T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "5a671255-63ca-46e2-bd60-34134bb063b4",
+      "name": "Motul Grand Prix of Japan",
+      "circuit": "Mobility Resort Motegi",
+      "country": "Japan",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "test": false,
+      "sessions": [
+        {
+          "id": "acab2756-28a0-4dca-93d2-d6c7faad1e96",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-10-04T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "275ca55d-45d3-440f-ad59-17d6b3e6b2d3",
+      "name": "Pertamina Grand Prix of Indonesia",
+      "circuit": "Pertamina Mandalika Circuit",
+      "country": "Indonesia",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "test": false,
+      "sessions": [
+        {
+          "id": "f54af69d-54d7-4d36-8c99-dcb8352e8f99",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-10-11T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "c1dea7a7-e35e-4363-9e28-7997e3bc6fbf",
+      "name": "GRAND PRIX OF AUSTRALIA ",
+      "circuit": "Phillip Island",
+      "country": "Australia",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "test": false,
+      "sessions": [
+        {
+          "id": "c15e9fd5-809e-4056-8518-d84adef6528c",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-10-25T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "ea2ba334-b943-462f-aedb-084ac38408d1",
+      "name": "Petronas Grand Prix of Malaysia",
+      "circuit": "Petronas Sepang International Circuit",
+      "country": "Malaysia",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "test": false,
+      "sessions": [
+        {
+          "id": "32818c78-0711-4331-a301-b1534b0ff99f",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-11-01T13:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "5a880aba-62c4-413c-bb2d-b721683dd064",
+      "name": "Qatar Airways Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "test": false,
+      "sessions": [
+        {
+          "id": "30c98072-94eb-44e7-bda5-5a726ec1abaf",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-11-06T18:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "4b3882a8-24b2-4321-aa12-d1847c989438",
+      "name": "Repsol Grand Prix of Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "test": false,
+      "sessions": [
+        {
+          "id": "53ba5764-58c2-45f7-ab2c-af0c6203b454",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-11-15T11:15:00+00:00",
+          "classification": []
+        }
+      ]
+    },
+    {
+      "id": "723031d1-27bd-4467-b59c-4cb8f7e081ab",
+      "name": "Motul Grand Prix of Valencia",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "test": false,
+      "sessions": [
+        {
+          "id": "87a07bec-2254-48a7-994a-c4a6d04cdca5",
+          "type": "RAC",
+          "number": null,
+          "status": "NOT-STARTED",
+          "date": "2026-11-22T12:15:00+00:00",
+          "classification": []
+        }
+      ]
+    }
+  ]
+}

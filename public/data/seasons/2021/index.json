@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "seasonId": "db8dc197-c7b2-4c1b-b3a4-7dc723c087ed",
+  "categories": [
+    {
+      "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+      "name": "MotoGP™",
+      "legacyId": 3
+    },
+    {
+      "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+      "name": "Moto2™",
+      "legacyId": 2
+    },
+    {
+      "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+      "name": "Moto3™",
+      "legacyId": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "20bb257f-b1ba-4289-9030-c4eb528c6155",
+      "name": "Barwa Grand Prix of Qatar",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2021-03-26",
+      "endDate": "2021-03-28",
+      "test": false
+    },
+    {
+      "id": "650d990f-3a6e-454c-b555-33368490f98f",
+      "name": "TISSOT Grand Prix of Doha",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2021-04-02",
+      "endDate": "2021-04-04",
+      "test": false
+    },
+    {
+      "id": "ccdb4ef1-1216-475c-89c6-2a1f750fdf45",
+      "name": "Grande Prémio 888 de Portugal",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2021-04-16",
+      "endDate": "2021-04-18",
+      "test": false
+    },
+    {
+      "id": "dc77824d-d23b-4491-a171-1b3610515fd3",
+      "name": "Gran Premio Red Bull de España",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2021-04-30",
+      "endDate": "2021-05-02",
+      "test": false
+    },
+    {
+      "id": "bc083625-3366-4194-a1a7-42f3917d961c",
+      "name": "SHARK Grand Prix de France",
+      "circuit": "Le Mans",
+      "country": "France",
+      "startDate": "2021-05-14",
+      "endDate": "2021-05-16",
+      "test": false
+    },
+    {
+      "id": "0d106a9a-95c9-4e13-9084-90c78c149f4a",
+      "name": "Gran Premio d'Italia Oakley",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "country": "Italy",
+      "startDate": "2021-05-28",
+      "endDate": "2021-05-30",
+      "test": false
+    },
+    {
+      "id": "fa88ecf9-e689-4d57-a2f9-aafae8d2e6c5",
+      "name": "Gran Premi Monster Energy de Catalunya",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2021-06-04",
+      "endDate": "2021-06-06",
+      "test": false
+    },
+    {
+      "id": "1579be5c-314d-4e0e-b528-8079ccc69516",
+      "name": "Liqui Moly Motorrad Grand Prix Deutschland",
+      "circuit": "Sachsenring",
+      "country": "Germany",
+      "startDate": "2021-06-18",
+      "endDate": "2021-06-20",
+      "test": false
+    },
+    {
+      "id": "75f346b4-128c-4115-b808-55e125d29bfc",
+      "name": "Motul TT Assen",
+      "circuit": "TT Circuit Assen",
+      "country": "Netherlands",
+      "startDate": "2021-06-25",
+      "endDate": "2021-06-27",
+      "test": false
+    },
+    {
+      "id": "34695330-d85d-4515-b6f9-1ffdddb5dba7",
+      "name": "Michelin® Grand Prix of Styria",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2021-08-06",
+      "endDate": "2021-08-08",
+      "test": false
+    },
+    {
+      "id": "8a0c2d86-8de6-4d46-a040-5160c6b58add",
+      "name": "Bitci Motorrad Grand Prix von Österreich",
+      "circuit": "Red Bull Ring - Spielberg",
+      "country": "Austria",
+      "startDate": "2021-08-13",
+      "endDate": "2021-08-15",
+      "test": false
+    },
+    {
+      "id": "40e91715-2872-4510-910d-79c9b879ac50",
+      "name": "Monster Energy British Grand Prix ",
+      "circuit": "Silverstone Circuit",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "startDate": "2021-08-27",
+      "endDate": "2021-08-29",
+      "test": false
+    },
+    {
+      "id": "90164916-6f03-408d-b708-aa11713bc9eb",
+      "name": "Gran Premio TISSOT de Aragón",
+      "circuit": "MotorLand Aragón",
+      "country": "Spain",
+      "startDate": "2021-09-10",
+      "endDate": "2021-09-12",
+      "test": false
+    },
+    {
+      "id": "4e7274fd-ba06-4b1e-8b33-8299be78f01b",
+      "name": "Gran Premio Octo di San Marino e della Riviera di Rimini",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "San Marino",
+      "startDate": "2021-09-19",
+      "endDate": "2021-09-19",
+      "test": false
+    },
+    {
+      "id": "ff62171b-a631-42cc-93ca-15101668670c",
+      "name": "Red Bull Grand Prix of The Americas",
+      "circuit": "Circuit Of The Americas",
+      "country": "United States of America",
+      "startDate": "2021-10-01",
+      "endDate": "2021-10-03",
+      "test": false
+    },
+    {
+      "id": "0adb8e17-c66e-41f9-8ceb-9c5fce279721",
+      "name": "Gran Premio Nolan del Made in Italy e dell'Emilia-Romagna",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2021-10-22",
+      "endDate": "2021-10-24",
+      "test": false
+    },
+    {
+      "id": "f2103156-e092-4bfc-9413-363bb49147a0",
+      "name": "Grande Prémio Brembo do Algarve",
+      "circuit": "Autódromo Internacional do Algarve",
+      "country": "Portugal",
+      "startDate": "2021-11-05",
+      "endDate": "2021-11-07",
+      "test": false
+    },
+    {
+      "id": "ad0d1071-5ea6-4f59-b6ba-56453935c51a",
+      "name": "Gran Premio Motul de la Comunitat Valenciana",
+      "circuit": "Circuit Ricardo Tormo",
+      "country": "Spain",
+      "startDate": "2021-11-12",
+      "endDate": "2021-11-14",
+      "test": false
+    },
+    {
+      "id": "f6674145-61dd-46b9-9792-5a50ccd75006",
+      "name": "Qatar MotoGP™ Shakedown Test",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2021-03-05",
+      "endDate": "2021-03-05",
+      "test": true
+    },
+    {
+      "id": "3f5bce2c-ce08-4808-b1e4-c039cb4eb636",
+      "name": "Qatar MotoGP™ Official Test",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2021-03-06",
+      "endDate": "2021-03-12",
+      "test": true
+    },
+    {
+      "id": "d7116e02-afa6-4422-acb4-c93d30a96afb",
+      "name": "Qatar Moto2™ & Moto3™ Official Test",
+      "circuit": "Lusail International Circuit",
+      "country": "Qatar",
+      "startDate": "2021-03-19",
+      "endDate": "2021-03-21",
+      "test": true
+    },
+    {
+      "id": "477c4afd-bff9-491e-af5a-c8e2b79b355c",
+      "name": "Jerez MotoGP™ Official Test",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "country": "Spain",
+      "startDate": "2021-05-03",
+      "endDate": "2021-05-03",
+      "test": true
+    },
+    {
+      "id": "b0d8e084-4887-4e87-bd54-03b5bc992a69",
+      "name": "Catalunya MotoGP™ Official Test",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "startDate": "2021-06-07",
+      "endDate": "2021-06-07",
+      "test": true
+    },
+    {
+      "id": "0ebc8158-8a5c-4140-a0b8-f52896be0e98",
+      "name": "Misano MotoGP™ Official Test ",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "country": "Italy",
+      "startDate": "2021-09-21",
+      "endDate": "2021-09-22",
+      "test": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "58abf0dd-4a12-48b7-a84b-9fb82781b3a9",
+    "name": "JEREZ MOTO3 TEST",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-15",
+    "test": true
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "ebba5617-4c79-4a1b-8b11-539901217e94",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2026-02-14T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2a4c1e57-35e3-467d-aed8-65afd8874cec",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2026-02-15T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

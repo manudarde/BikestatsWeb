@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "5274f415-acf4-4610-895d-d3098fb635ff",
+    "name": "Spielberg Moto2™ & Moto3™ Official Test",
+    "circuit": "Red Bull Ring - Spielberg",
+    "country": "Austria",
+    "startDate": "2024-08-19",
+    "endDate": "2024-08-19",
+    "test": true
+  },
+  "category": {
+    "id": "549640b8-fd9c-4245-acfd-60e4bc38b25c",
+    "name": "Moto2™",
+    "legacyId": 2
+  },
+  "sessions": [
+    {
+      "id": "55c1a0d3-f165-4ed3-ac03-1cb74c3debcd",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-08-19T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "4117e61e-e02d-495e-b423-315473db8df7",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2024-08-19T11:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "55b3d354-f775-4d20-b21b-1c0f22f4c330",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2024-08-19T14:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "56efea90-072b-424f-9af0-32f52d56c923",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2024-08-19T16:10:00+00:00",
+      "classification": []
+    }
+  ]
+}

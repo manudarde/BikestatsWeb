@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "event": {
+    "id": "10be8de5-dff3-4f24-9311-d60eca6f3a82",
+    "name": "Gran Premio TISSOT dell'Emilia Romagna e della Riviera di Rimini",
+    "circuit": "Misano World Circuit Marco Simoncelli",
+    "country": "Italy",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-20",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

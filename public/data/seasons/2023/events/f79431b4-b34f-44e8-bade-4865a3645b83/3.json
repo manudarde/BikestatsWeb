@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "f79431b4-b34f-44e8-bade-4865a3645b83",
+    "name": "Portimao MotoGP™ Official Test ",
+    "circuit": "Autódromo Internacional do Algarve",
+    "country": "Portugal",
+    "startDate": "2023-03-11",
+    "endDate": "2023-03-12",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "c650f3ea-a7b9-433a-b188-3aa73aa9c847",
+      "type": "P",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-03-11T09:30:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5310685d-513c-476a-b482-394a98ab8372",
+      "type": "P",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-03-12T09:30:00+00:00",
+      "classification": []
+    }
+  ]
+}

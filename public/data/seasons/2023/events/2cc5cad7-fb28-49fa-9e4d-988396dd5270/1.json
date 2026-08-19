@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "2cc5cad7-fb28-49fa-9e4d-988396dd5270",
+    "name": "Shark Grand Prix de France",
+    "circuit": "Le Mans",
+    "country": "France",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-14",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": []
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "87572158-2dcd-4d6b-b9d6-072b03c21092",
+    "name": "JEREZ TEST ",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2026-04-27",
+    "endDate": "2026-04-27",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "f2eac8d7-455b-41d3-af6a-f547e4058469",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2026-04-27T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e1229d1a-e5b9-4119-a101-f6356843b0b4",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2026-04-27T13:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "3e7c342a-e406-470f-956f-d685be970bf4",
+    "name": "Sepang MotoGP™ Official Test",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2022-02-05",
+    "endDate": "2022-02-06",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "b272fd1a-53f2-449b-b51b-ec222de9f9ed",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2022-02-05T02:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "f8e90a25-a456-41aa-99d4-8ee68522b3b0",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2022-02-06T02:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "c1dea7a7-e35e-4363-9e28-7997e3bc6fbf",
+    "name": "GRAND PRIX OF AUSTRALIA ",
+    "circuit": "Phillip Island",
+    "country": "Australia",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "fbc5f20e-d712-4c6f-82c5-6450b12f4ba6",
+      "type": "FP",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-23T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "8aafb607-1d1a-4c42-a7fa-0681e237c0be",
+      "type": "PR",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-23T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "460dff71-a6f4-48e4-bbba-05b2d47acfa9",
+      "type": "FP",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "17042c4c-1c65-417f-9793-dfb1ce9a460b",
+      "type": "Q",
+      "number": 1,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T12:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "34485615-346e-4116-9e12-36f95eced357",
+      "type": "Q",
+      "number": 2,
+      "status": "NOT-STARTED",
+      "date": "2026-10-24T13:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c0c33f19-ce05-45c4-b083-a7ca78bbaee9",
+      "type": "RAC",
+      "number": null,
+      "status": "NOT-STARTED",
+      "date": "2026-10-25T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

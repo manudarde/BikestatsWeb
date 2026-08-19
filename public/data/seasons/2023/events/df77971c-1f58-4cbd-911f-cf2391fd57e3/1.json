@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "event": {
+    "id": "df77971c-1f58-4cbd-911f-cf2391fd57e3",
+    "name": "Grande Prémio Tissot de Portugal",
+    "circuit": "Autódromo Internacional do Algarve",
+    "country": "Portugal",
+    "startDate": "2023-03-24",
+    "endDate": "2023-03-26",
+    "test": false
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacyId": 1
+  },
+  "sessions": [
+    {
+      "id": "a9cf428b-e677-4cd9-a5cc-cf367c193411",
+      "type": "P",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-03-24T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2406475f-09b1-4fcd-87f0-b0e865f98a3e",
+      "type": "P",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-03-24T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "e7b1a684-539b-4a0e-a3a2-00f8737645a3",
+      "type": "P",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2023-03-25T08:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "cb841028-f708-4c5c-8233-14f9d4b21528",
+      "type": "Q",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2023-03-25T12:50:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2480a41c-f61c-4dd5-8e4e-b4963aafa959",
+      "type": "Q",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2023-03-25T13:15:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "6336d1c6-b9f2-4045-85b9-15e3420488a1",
+      "type": "RAC",
+      "number": null,
+      "status": "FINISHED",
+      "date": "2023-03-26T11:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "event": {
+    "id": "939183cd-1f4c-4617-95f3-e29270208a3c",
+    "name": "ARAGON MOTOGP TEST",
+    "circuit": "MotorLand Aragón",
+    "country": "Spain",
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-09",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "5eeafcdc-05e1-461c-8c82-4c68091ea60d",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2025-06-09T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "a47b0e30-3891-4fc3-8b51-cc39c5ea1af5",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2025-06-09T13:20:00+00:00",
+      "classification": []
+    }
+  ]
+}

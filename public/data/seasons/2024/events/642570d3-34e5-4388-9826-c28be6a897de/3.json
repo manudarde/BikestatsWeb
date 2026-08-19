@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "event": {
+    "id": "642570d3-34e5-4388-9826-c28be6a897de",
+    "name": "Sepang MotoGP™ Official Test",
+    "circuit": "Petronas Sepang International Circuit",
+    "country": "Malaysia",
+    "startDate": "2024-02-06",
+    "endDate": "2024-02-08",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "e60af931-9422-4727-a5d5-985b327f2afa",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2024-02-06T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "746026dc-c9e3-4803-8ead-56d8dd58a169",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2024-02-07T10:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "3365a6cb-7385-48f9-a2f0-e9750b8f64d9",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2024-02-08T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

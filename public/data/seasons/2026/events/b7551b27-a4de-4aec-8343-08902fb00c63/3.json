@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "event": {
+    "id": "b7551b27-a4de-4aec-8343-08902fb00c63",
+    "name": "BARCELONA TEST ",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-18",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "71d72041-0216-4263-93b4-cafd390885ce",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2026-05-18T10:00:00+00:00",
+      "classification": []
+    }
+  ]
+}

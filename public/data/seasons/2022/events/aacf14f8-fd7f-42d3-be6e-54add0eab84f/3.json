@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "event": {
+    "id": "aacf14f8-fd7f-42d3-be6e-54add0eab84f",
+    "name": "Jerez MotoGP™ Official Test",
+    "circuit": "Circuito de Jerez - Ángel Nieto",
+    "country": "Spain",
+    "startDate": "2021-11-18",
+    "endDate": "2021-11-19",
+    "test": true
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacyId": 3
+  },
+  "sessions": [
+    {
+      "id": "baaef7a9-8f8c-4f5c-9e2d-40192824e66b",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2021-11-18T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "7aed8f0a-10b4-4a0e-9ef8-964f34687718",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2021-11-19T09:00:00+00:00",
+      "classification": []
+    }
+  ]
+}
