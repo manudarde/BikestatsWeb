@@ -1,0 +1,20 @@
+.brand {
+  gap: 10px;
+  padding: 0 4px 20px;
+}
+
+.brand > img {
+  width: 58px;
+  height: 58px;
+  flex: 0 0 58px;
+  object-fit: contain;
+}
+
+.brand strong {
+  font-size: 16px;
+}
+
+.brand small {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+}

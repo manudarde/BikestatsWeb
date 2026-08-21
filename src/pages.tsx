@@ -246,10 +246,11 @@ export function PointsByYearPage() {
 
 function RiderStatisticsView() {
   const manifest = useManifest()
+  const trendColors = ['#ff4d3d', '#4f9cff', '#ffc857', '#50c878', '#a875ff', '#ff8c42', '#36cfc9']
   const years = manifest.data?.seasons.map((season) => season.year) ?? []
   const raceQueries = useRaceBundles(years, [3, 2, 1])
   const [riderSearch, setRiderSearch] = useState('')
-  const [pointsCategory, setPointsCategory] = useState('3')
+  const [trendCategory, setTrendCategory] = useState('MotoGP')
   const datasets = raceQueries.flatMap((raceQuery) => raceQuery.data ? [{ bundle: raceQuery.data, entries: pointEntries(raceQuery.data) }] : [])
   const riders = [...new Set(datasets.flatMap(({ entries: bundleEntries }) => bundleEntries.map((entry) => entry.riderName)))].sort((a, b) => a.localeCompare(b))
   const selectedRider = riders.includes(riderSearch) ? riderSearch : ''
@@ -260,6 +261,13 @@ function RiderStatisticsView() {
     const third = podiums.filter((entry) => entry.position === 3).length
     return { category: category.name, first, second, third, total: first + second + third }
   })
+  const categoryPodiums = Object.fromEntries(categoryRows.map((row) => [row.category, row]))
+  const podiumRows = [
+    { position: '1st', MotoGP: categoryPodiums.MotoGP.first, Moto2: categoryPodiums.Moto2.first, Moto3: categoryPodiums.Moto3.first },
+    { position: '2nd', MotoGP: categoryPodiums.MotoGP.second, Moto2: categoryPodiums.Moto2.second, Moto3: categoryPodiums.Moto3.second },
+    { position: '3rd', MotoGP: categoryPodiums.MotoGP.third, Moto2: categoryPodiums.Moto2.third, Moto3: categoryPodiums.Moto3.third },
+    { position: 'Total', MotoGP: categoryPodiums.MotoGP.total, Moto2: categoryPodiums.Moto2.total, Moto3: categoryPodiums.Moto3.total },
+  ].map((row) => ({ ...row, total: row.MotoGP + row.Moto2 + row.Moto3 }))
   const podiumByYear = [...years].sort((a, b) => a - b).map((season) => {
     const podiums = datasets.filter(({ bundle }) => bundle.year === season).flatMap(({ entries: bundleEntries }) => bundleEntries.filter((entry) => entry.riderName === selectedRider && entry.isRace && (entry.position ?? 99) <= 3))
     const first = podiums.filter((entry) => entry.position === 1).length
@@ -268,19 +276,86 @@ function RiderStatisticsView() {
     const total = first + second + third
     return { year: season, first, second, third, total, firstLabel: first || '', secondLabel: second || '', thirdLabel: third || '', firstTotal: total && !second && !third ? total : '', secondTotal: total && second && !third ? total : '', thirdTotal: third ? total : '' }
   }).filter((row) => row.total)
-  const pointsByYear = [...years].sort((a, b) => a - b).map((season) => {
-    const riderEntries = datasets.filter(({ bundle }) => bundle.year === season && bundle.category.legacyId === Number(pointsCategory)).flatMap(({ entries: bundleEntries }) => bundleEntries.filter((entry) => entry.riderName === selectedRider))
-    return { year: season, points: riderEntries.reduce((sum, entry) => sum + entry.points, 0), participated: riderEntries.length > 0 }
-  }).filter((row) => row.participated)
+  const seasonRows = datasets.flatMap(({ bundle, entries: bundleEntries }) => {
+    const riderEntries = bundleEntries.filter((entry) => entry.riderName === selectedRider)
+    if (!riderEntries.length) return []
+    const standing = riderStandings(bundleEntries).find((row) => row.name === selectedRider)
+    return [{
+      year: bundle.year,
+      category: bundle.category.name.replace('™', ''),
+      categoryId: bundle.category.legacyId,
+      bikes: [...new Set(riderEntries.map((entry) => entry.constructorName).filter(Boolean))].join(', ') || '—',
+      teams: [...new Set(riderEntries.map((entry) => entry.teamName).filter(Boolean))].join(', ') || '—',
+      points: riderEntries.reduce((sum, entry) => sum + entry.points, 0),
+      rank: standing?.position ?? null,
+    }]
+  }).sort((a, b) => b.year - a.year || b.categoryId - a.categoryId)
+  const pointsByYear = [...years].sort((a, b) => a - b).map((year) => ({
+    year,
+    MotoGP: seasonRows.find((row) => row.year === year && row.categoryId === 3)?.points ?? 0,
+    Moto2: seasonRows.find((row) => row.year === year && row.categoryId === 2)?.points ?? 0,
+    Moto3: seasonRows.find((row) => row.year === year && row.categoryId === 1)?.points ?? 0,
+  })).filter((row) => row.MotoGP || row.Moto2 || row.Moto3)
+  const pointsTrendSeries = [...years].sort((a, b) => a - b).flatMap((year) => {
+    const selectedCategoryIds = trendCategory === 'MotoGP' ? [3] : [2, 1]
+    const seasonDatasets = datasets.filter(({ bundle, entries: bundleEntries }) => bundle.year === year && selectedCategoryIds.includes(bundle.category.legacyId) && bundleEntries.some((entry) => entry.riderName === selectedRider))
+    if (!seasonDatasets.length) return []
+    const events = seasonDatasets.flatMap(({ bundle, entries: bundleEntries }) => bundle.events.map((event) => ({
+      id: event.id,
+      date: event.startDate ?? event.endDate ?? '',
+      riderEntries: bundleEntries.filter((entry) => entry.riderName === selectedRider && entry.eventId === event.id),
+    }))).filter((event, index, all) => all.findIndex((candidate) => candidate.id === event.id) === index).sort((a, b) => a.date.localeCompare(b.date))
+    const lastRecordedEvent = events.findLastIndex((event) => event.riderEntries.length > 0)
+    let cumulative = 0
+    return [{ year, values: events.slice(0, lastRecordedEvent + 1).map((event, index) => ({ race: index + 1, points: cumulative += event.riderEntries.reduce((sum, entry) => sum + entry.points, 0) })) }]
+  })
+  const pointsTrendData = Array.from({ length: Math.max(0, ...pointsTrendSeries.map((series) => series.values.length)) }, (_, index) => Object.fromEntries([
+    ['race', index + 1],
+    ...pointsTrendSeries.flatMap((series) => series.values[index] ? [[String(series.year), series.values[index].points] as const] : []),
+  ]))
   const loading = manifest.isLoading || raceQueries.some((raceQuery) => raceQuery.isLoading)
   const error = manifest.error ?? raceQueries.find((raceQuery) => raceQuery.error)?.error
 
-  return <><PageHeader title="Statistics by Rider" description="Explore a rider's podiums and points across categories and seasons." /><div className="filters"><label className="field"><span>Rider</span><input type="search" list="statistics-riders" value={riderSearch} onChange={(event) => setRiderSearch(event.target.value)} placeholder="Search for a rider…" autoComplete="off"/><datalist id="statistics-riders">{riders.map((rider) => <option key={rider} value={rider}/>)}</datalist></label></div><DataGate loading={loading} error={error}>{selectedRider ? <><DataTable rows={categoryRows} rowKey={(row) => row.category} columns={[{ key: 'category', label: 'Category', value: (row) => <strong>{row.category}</strong>, sort: (row) => row.category }, { key: 'first', label: '1st', value: (row) => row.first, sort: (row) => row.first, align: 'right' }, { key: 'second', label: '2nd', value: (row) => row.second, sort: (row) => row.second, align: 'right' }, { key: 'third', label: '3rd', value: (row) => row.third, sort: (row) => row.third, align: 'right' }, { key: 'total', label: 'Total', value: (row) => <strong>{row.total}</strong>, sort: (row) => row.total, align: 'right' }]}/><div className="chart-card"><h2>Podium Breakdown by Year</h2>{podiumByYear.length ? <ResponsiveContainer width="100%" height={560}><BarChart data={podiumByYear} margin={{ top: 28, right: 18, bottom: 10, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="year"/><YAxis allowDecimals={false}/><Tooltip contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Legend/><Bar name="1st" dataKey="first" stackId="podium" fill="#d9a900"><LabelList dataKey="firstLabel" position="center" fill="#424a53" fontSize={11} fontWeight={800}/><LabelList dataKey="firstTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar><Bar name="2nd" dataKey="second" stackId="podium" fill="#aeb8c2"><LabelList dataKey="secondLabel" position="center" fill="#303841" fontSize={11} fontWeight={800}/><LabelList dataKey="secondTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar><Bar name="3rd" dataKey="third" stackId="podium" fill="#a85f34"><LabelList dataKey="thirdLabel" position="center" fill="#fff" fontSize={11} fontWeight={800}/><LabelList dataKey="thirdTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar></BarChart></ResponsiveContainer> : <Empty>No race podiums found for this rider.</Empty>}</div><div className="chart-card"><div className="chart-toolbar"><h2>Points Trend by Year</h2><Select label="Category" value={pointsCategory} onChange={setPointsCategory}><option value="3">MotoGP</option><option value="2">Moto2</option><option value="1">Moto3</option></Select></div>{pointsByYear.length ? <ResponsiveContainer width="100%" height={560}><LineChart data={pointsByYear} margin={{ top: 16, right: 24, bottom: 8, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="year"/><YAxis/><Tooltip formatter={(value) => `${formatPoints(Number(value))} pts`} contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Line type="monotone" name="Points" dataKey="points" stroke="#ff4d3d" strokeWidth={3} activeDot={{ r: 5 }}/></LineChart></ResponsiveContainer> : <Empty>No points found for this rider in the selected category.</Empty>}</div></> : <Empty>Search for and select one rider to view their career statistics.</Empty>}</DataGate></>
+  return <>
+    <PageHeader title="Statistics by Rider" description="Explore a rider's podiums and points across categories and seasons." />
+    <div className="filters"><label className="field"><span>Rider</span><input type="search" list="statistics-riders" value={riderSearch} onChange={(event) => setRiderSearch(event.target.value)} placeholder="Search for a rider…" autoComplete="off"/><datalist id="statistics-riders">{riders.map((rider) => <option key={rider} value={rider}/>)}</datalist></label></div>
+    <DataGate loading={loading} error={error}>{selectedRider ? <>
+      <div className="section-heading statistics-subheading"><p className="eyebrow">Championship progression</p><h2>Cumulative Points by Race</h2></div>
+      <Tabs value={trendCategory} set={setTrendCategory} values={['MotoGP', 'Moto2 and Moto3']} />
+      <div className="chart-card">{pointsTrendData.length ? <ResponsiveContainer width="100%" height={560}><LineChart data={pointsTrendData} margin={{ top: 20, right: 24, bottom: 8, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="race" type="number" domain={['dataMin', 'dataMax']} allowDecimals={false} label={{ value: 'Race number', position: 'insideBottom', offset: -2 }}/><YAxis label={{ value: 'Points', angle: -90, position: 'insideLeft' }}/><Tooltip formatter={(value, name) => [`${formatPoints(Number(value))} pts`, name]} labelFormatter={(race) => `Race ${race}`} contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Legend/>{pointsTrendSeries.map((series, index) => <Line key={series.year} type="monotone" name={String(series.year)} dataKey={String(series.year)} stroke={trendColors[index % trendColors.length]} strokeWidth={3} connectNulls dot={false} activeDot={{ r: 5 }}/>)}</LineChart></ResponsiveContainer> : <Empty>No race points found for this rider.</Empty>}</div>
+
+      <div className="section-heading statistics-subheading"><p className="eyebrow">Career results</p><h2>Podiums by Category</h2></div>
+      <DataTable rows={podiumRows} rowKey={(row) => row.position} columns={[
+        { key: 'position', label: 'Position', value: (row) => <strong>{row.position}</strong> },
+        { key: 'motogp', label: 'MotoGP', value: (row) => row.MotoGP, align: 'right' },
+        { key: 'moto2', label: 'Moto2', value: (row) => row.Moto2, align: 'right' },
+        { key: 'moto3', label: 'Moto3', value: (row) => row.Moto3, align: 'right' },
+        { key: 'total', label: 'Total', value: (row) => <strong>{row.total}</strong>, align: 'right' },
+      ]}/>
+
+      <div className="section-heading statistics-subheading"><p className="eyebrow">Season podiums</p><h2>Podium Breakdown by Year</h2></div>
+      <div className="chart-card">{podiumByYear.length ? <ResponsiveContainer width="100%" height={560}><BarChart data={podiumByYear} margin={{ top: 36, right: 24, bottom: 10, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="year"/><YAxis allowDecimals={false}/><Tooltip contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Legend/><Bar name="1st" dataKey="first" stackId="podium" fill="#d9a900"><LabelList dataKey="firstLabel" position="center" fill="#424a53" fontSize={11} fontWeight={800}/></Bar><Bar name="2nd" dataKey="second" stackId="podium" fill="#aeb8c2"><LabelList dataKey="secondLabel" position="center" fill="#303841" fontSize={11} fontWeight={800}/></Bar><Bar name="3rd" dataKey="third" stackId="podium" fill="#a85f34"><LabelList dataKey="thirdLabel" position="center" fill="#fff" fontSize={11} fontWeight={800}/><LabelList dataKey="total" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar></BarChart></ResponsiveContainer> : <Empty>No race podiums found for this rider.</Empty>}</div>
+
+      <div className="section-heading statistics-subheading"><p className="eyebrow">Season history</p><h2>Year-by-Year Results</h2></div>
+      <DataTable rows={seasonRows} rowKey={(row) => `${row.year}-${row.categoryId}`} initialSort={{ key: 'year', desc: true }} columns={[
+        { key: 'year', label: 'Year', value: (row) => <strong>{row.year}</strong>, sort: (row) => row.year },
+        { key: 'category', label: 'Category', value: (row) => row.category, sort: (row) => row.category },
+        { key: 'bike', label: 'Bike', value: (row) => row.bikes, sort: (row) => row.bikes },
+        { key: 'teams', label: 'Teams', value: (row) => row.teams, sort: (row) => row.teams },
+        { key: 'points', label: 'Points', value: (row) => <strong>{formatPoints(row.points)}</strong>, sort: (row) => row.points, align: 'right' },
+        { key: 'rank', label: 'Final rank', value: (row) => row.rank ? <span className={`result-position ${row.rank === 1 ? 'gold' : row.rank === 2 ? 'silver' : row.rank === 3 ? 'bronze' : ''}`}>{formatOrdinal(row.rank)}</span> : '—', sort: (row) => row.rank ?? 999, align: 'right' },
+      ]}/>
+
+      <div className="section-heading statistics-subheading"><p className="eyebrow">Season scoring</p><h2>Points by Year</h2></div>
+      <div className="chart-card">{pointsByYear.length ? <ResponsiveContainer width="100%" height={560}><BarChart data={pointsByYear} margin={{ top: 36, right: 24, bottom: 8, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="year"/><YAxis/><Tooltip formatter={(value) => `${formatPoints(Number(value))} pts`} contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Legend/><Bar name="MotoGP" dataKey="MotoGP" stackId="points" fill="#ff4d3d"><LabelList dataKey="MotoGP" position="top" fill="var(--text)" fontSize={11} fontWeight={800} formatter={(value) => Number(value) ? formatPoints(Number(value)) : ''}/></Bar><Bar name="Moto2" dataKey="Moto2" stackId="points" fill="#4f9cff"><LabelList dataKey="Moto2" position="top" fill="var(--text)" fontSize={11} fontWeight={800} formatter={(value) => Number(value) ? formatPoints(Number(value)) : ''}/></Bar><Bar name="Moto3" dataKey="Moto3" stackId="points" fill="#ffc857" radius={[5, 5, 0, 0]}><LabelList dataKey="Moto3" position="top" fill="var(--text)" fontSize={11} fontWeight={800} formatter={(value) => Number(value) ? formatPoints(Number(value)) : ''}/></Bar></BarChart></ResponsiveContainer> : <Empty>No points found for this rider.</Empty>}</div>
+    </> : <Empty>Search for and select one rider to view their career statistics.</Empty>}</DataGate>
+  </>
 }
 
 export function StatisticsPage() {
   const { query, entries, year, category } = usePoints()
   const [scope, setScope] = useState('by year')
+  const [yearView, setYearView] = useState('details')
   const [podiumType, setPodiumType] = useState('both')
   const hasSprint = category === 3
   const effectivePodiumType = hasSprint ? podiumType : 'race'
@@ -313,7 +388,31 @@ export function StatisticsPage() {
   const error = query.error ?? eventQueries.find((eventQuery) => eventQuery.error)?.error
 
   if (scope === 'by rider') return <><Tabs value={scope} set={setScope} values={['by year', 'by rider']} /><RiderStatisticsView/></>
-  return <><Tabs value={scope} set={setScope} values={['by year', 'by rider']} />{scope === 'by rider' ? <><PageHeader title="Statistics by Rider" description="Individual rider statistics will be available here." /><Empty>By rider statistics are coming soon.</Empty></> : <><PageHeader title="Statistics by Year" description="Race performance and scoring for every rider in the selected season." /><BaseFilters /><DataGate loading={loading} error={error}>{rows.length ? <><StatisticsTable rows={rows} showSprint={hasSprint} /><div className="section-heading statistics-subheading"><p className="eyebrow">Points conversion</p><h2>Points Efficiency</h2></div><PointsEfficiencyTable rows={rows} showSplit={hasSprint} maximumRacePoints={maximumRacePoints} maximumSprintPoints={maximumSprintPoints}/><div className="chart-card"><div className="chart-toolbar"><h2>Podium Breakdown</h2><Tabs value={effectivePodiumType} set={setPodiumType} values={hasSprint ? ['race', 'sprint', 'both'] : ['race']}/></div><ResponsiveContainer width="100%" height={560}><BarChart data={chart} margin={{ top: 28, right: 18, bottom: 24, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="rider" interval={0} angle={-35} textAnchor="end" height={120} tick={{ fontSize: 11 }}/><YAxis allowDecimals={false}/><Tooltip contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Legend/><Bar name="1st" dataKey="first" stackId="podium" fill="#d9a900"><LabelList dataKey="firstLabel" position="center" fill="#424a53" fontSize={11} fontWeight={800}/><LabelList dataKey="firstTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar><Bar name="2nd" dataKey="second" stackId="podium" fill="#aeb8c2"><LabelList dataKey="secondLabel" position="center" fill="#303841" fontSize={11} fontWeight={800}/><LabelList dataKey="secondTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar><Bar name="3rd" dataKey="third" stackId="podium" fill="#a85f34"><LabelList dataKey="thirdLabel" position="center" fill="#fff" fontSize={11} fontWeight={800}/><LabelList dataKey="thirdTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar></BarChart></ResponsiveContainer></div></> : <Empty />}</DataGate></>}</>
+  return <>
+    <Tabs value={scope} set={setScope} values={['by year', 'by rider']} />
+    <PageHeader title="Statistics by Year" description="Race performance and scoring for every rider in the selected season." />
+    <BaseFilters />
+    <Tabs value={yearView} set={setYearView} values={['details', 'points efficiency', 'podium breakdown']} />
+    <DataGate loading={loading} error={error}>
+      {rows.length ? <>
+        {yearView === 'details' && <>
+          <div className="section-heading statistics-subheading"><p className="eyebrow">Season overview</p><h2>Details</h2></div>
+          <StatisticsTable rows={rows} showSprint={hasSprint} />
+        </>}
+        {yearView === 'points efficiency' && <>
+          <div className="section-heading statistics-subheading"><p className="eyebrow">Points conversion</p><h2>Points Efficiency</h2></div>
+          <PointsEfficiencyTable rows={rows} showSplit={hasSprint} maximumRacePoints={maximumRacePoints} maximumSprintPoints={maximumSprintPoints}/>
+        </>}
+        {yearView === 'podium breakdown' && <>
+          <div className="section-heading statistics-subheading"><p className="eyebrow">Finishing positions</p><h2>Podium Breakdown</h2></div>
+          <div className="chart-card">
+            <div className="chart-toolbar"><Tabs value={effectivePodiumType} set={setPodiumType} values={hasSprint ? ['race', 'sprint', 'both'] : ['race']}/></div>
+            <ResponsiveContainer width="100%" height={560}><BarChart data={chart} margin={{ top: 28, right: 18, bottom: 24, left: 4 }}><CartesianGrid strokeDasharray="3 3"/><XAxis dataKey="rider" interval={0} angle={-35} textAnchor="end" height={120} tick={{ fontSize: 11 }}/><YAxis allowDecimals={false}/><Tooltip contentStyle={{ background: '#fff', borderColor: '#dfe4e9', borderRadius: 9 }} labelStyle={{ color: '#424a53', fontWeight: 700 }}/><Legend/><Bar name="1st" dataKey="first" stackId="podium" fill="#d9a900"><LabelList dataKey="firstLabel" position="center" fill="#424a53" fontSize={11} fontWeight={800}/><LabelList dataKey="firstTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar><Bar name="2nd" dataKey="second" stackId="podium" fill="#aeb8c2"><LabelList dataKey="secondLabel" position="center" fill="#303841" fontSize={11} fontWeight={800}/><LabelList dataKey="secondTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar><Bar name="3rd" dataKey="third" stackId="podium" fill="#a85f34"><LabelList dataKey="thirdLabel" position="center" fill="#fff" fontSize={11} fontWeight={800}/><LabelList dataKey="thirdTotal" position="top" fill="var(--text)" fontSize={11} fontWeight={800}/></Bar></BarChart></ResponsiveContainer>
+          </div>
+        </>}
+      </> : <Empty />}
+    </DataGate>
+  </>
 }
 
 function StatisticsTable({ rows, showSprint }: { rows: (Statistics & { poles: number; dnfs: number })[]; showSprint: boolean }) { return <DataTable rows={rows} rowKey={(r) => r.name} columns={[
