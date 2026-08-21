@@ -3,7 +3,7 @@ import { useMemo, useState, type ReactNode } from 'react'
 import { AlertTriangle, LoaderCircle } from 'lucide-react'
 
 export function PageHeader({ title, description }: { title: string; description: string }) {
-  return <header className="page-header"><p className="eyebrow">Bike Stats Dashboard</p><h1>{title}</h1><p>{description}</p></header>
+  return <header className="page-header"><p className="eyebrow">MotoRaceData</p><h1>{title}</h1><p>{description}</p></header>
 }
 
 export function Loading() { return <div className="status"><LoaderCircle className="spin" /> Loading race data…</div> }

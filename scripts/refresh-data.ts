@@ -15,7 +15,7 @@ async function request(path: string, optional = false): Promise<unknown> {
   for (let attempt = 0; attempt < 3; attempt++) {
     const controller = new AbortController(); const timeout = setTimeout(() => controller.abort(), 20_000)
     try {
-      const response = await fetch(`${API}/${path}`, { signal: controller.signal, headers: { accept: 'application/json', 'user-agent': 'BikeStatsDashboard/2.0' } })
+      const response = await fetch(`${API}/${path}`, { signal: controller.signal, headers: { accept: 'application/json', 'user-agent': 'MotoRaceData/2.0' } })
       if (optional && [204, 400, 403, 404].includes(response.status)) return null
       if (response.ok) return response.json()
       if (response.status !== 429 && response.status < 500) throw new Error(`${path}: HTTP ${response.status}`)

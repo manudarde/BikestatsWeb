@@ -1,6 +1,6 @@
-# Bike Stats Dashboard
+# MotoRaceData
 
-A static React and TypeScript rebuild of Bike Stats Dashboard for GitHub Pages. MotoGP data is collected at build time, normalized into public JSON, and never requested from a visitor's browser.
+A static React and TypeScript race-data dashboard for GitHub Pages. MotoGP data is collected at build time, normalized into public JSON, and never requested from a visitor's browser.
 
 ## Requirements
 
@@ -52,4 +52,3 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
-# BikestatsWeb-v2
