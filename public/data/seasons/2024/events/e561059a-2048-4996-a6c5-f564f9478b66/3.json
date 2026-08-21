@@ -30,6 +30,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 20,
+          "time": "01:36.630",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -41,6 +43,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 21,
+          "time": "01:37.137",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "0.507",
           "gapPrevious": "0.507"
@@ -52,6 +56,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 19,
+          "time": "01:37.221",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "0.591",
           "gapPrevious": "0.084"
@@ -63,6 +69,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 17,
+          "time": "01:37.303",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "0.673",
           "gapPrevious": "0.082"
@@ -74,6 +82,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 22,
+          "time": "01:37.547",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "0.917",
           "gapPrevious": "0.244"
@@ -85,6 +95,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 19,
+          "time": "01:37.585",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.955",
           "gapPrevious": "0.038"
@@ -96,6 +108,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 20,
+          "time": "01:37.613",
+          "totalTime": "",
           "topSpeed": 300,
           "gapFirst": "0.983",
           "gapPrevious": "0.028"
@@ -107,6 +121,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 20,
+          "time": "01:37.618",
+          "totalTime": "",
           "topSpeed": 295.8,
           "gapFirst": "0.988",
           "gapPrevious": "0.005"
@@ -118,6 +134,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 18,
+          "time": "01:37.635",
+          "totalTime": "",
           "topSpeed": 295,
           "gapFirst": "1.005",
           "gapPrevious": "0.017"
@@ -129,6 +147,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 20,
+          "time": "01:37.642",
+          "totalTime": "",
           "topSpeed": 299.1,
           "gapFirst": "1.012",
           "gapPrevious": "0.007"
@@ -140,6 +160,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 18,
+          "time": "01:37.724",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "1.094",
           "gapPrevious": "0.082"
@@ -151,6 +173,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 17,
+          "time": "01:37.792",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "1.162",
           "gapPrevious": "0.068"
@@ -162,6 +186,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 19,
+          "time": "01:37.886",
+          "totalTime": "",
           "topSpeed": 295.8,
           "gapFirst": "1.256",
           "gapPrevious": "0.094"
@@ -173,6 +199,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 15,
+          "time": "01:38.012",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "1.382",
           "gapPrevious": "0.126"
@@ -184,6 +212,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 20,
+          "time": "01:38.049",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "1.419",
           "gapPrevious": "0.037"
@@ -195,6 +225,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 20,
+          "time": "01:38.078",
+          "totalTime": "",
           "topSpeed": 296.7,
           "gapFirst": "1.448",
           "gapPrevious": "0.029"
@@ -206,6 +238,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 15,
+          "time": "01:38.203",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "1.573",
           "gapPrevious": "0.125"
@@ -217,6 +251,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 16,
+          "time": "01:38.247",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "1.617",
           "gapPrevious": "0.044"
@@ -228,6 +264,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 19,
+          "time": "01:38.360",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "1.730",
           "gapPrevious": "0.113"
@@ -239,6 +277,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "01:38.370",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "1.740",
           "gapPrevious": "0.010"
@@ -250,6 +290,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 19,
+          "time": "01:38.539",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "1.909",
           "gapPrevious": "0.169"
@@ -261,6 +303,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 18,
+          "time": "01:38.574",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "1.944",
           "gapPrevious": "0.035"
@@ -272,6 +316,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 17,
+          "time": "01:38.728",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "2.098",
           "gapPrevious": "0.154"
@@ -283,6 +329,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 20,
+          "time": "01:38.734",
+          "totalTime": "",
           "topSpeed": 299.1,
           "gapFirst": "2.104",
           "gapPrevious": "0.006"
@@ -294,6 +342,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "01:38.775",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "2.145",
           "gapPrevious": "0.041"
@@ -314,6 +364,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 23,
+          "time": "01:36.025",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -325,6 +377,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 24,
+          "time": "01:36.125",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "0.100",
           "gapPrevious": "0.100"
@@ -336,6 +390,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 26,
+          "time": "01:36.168",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "0.143",
           "gapPrevious": "0.043"
@@ -347,6 +403,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 20,
+          "time": "01:36.364",
+          "totalTime": "",
           "topSpeed": 296.7,
           "gapFirst": "0.339",
           "gapPrevious": "0.196"
@@ -358,6 +416,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "01:36.435",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "0.410",
           "gapPrevious": "0.071"
@@ -369,6 +429,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 24,
+          "time": "01:36.439",
+          "totalTime": "",
           "topSpeed": 295.8,
           "gapFirst": "0.414",
           "gapPrevious": "0.004"
@@ -380,6 +442,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 20,
+          "time": "01:36.446",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "0.421",
           "gapPrevious": "0.007"
@@ -391,6 +455,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 26,
+          "time": "01:36.480",
+          "totalTime": "",
           "topSpeed": 295,
           "gapFirst": "0.455",
           "gapPrevious": "0.034"
@@ -402,6 +468,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 21,
+          "time": "01:36.536",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "0.511",
           "gapPrevious": "0.056"
@@ -413,6 +481,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 24,
+          "time": "01:36.539",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "0.514",
           "gapPrevious": "0.003"
@@ -424,6 +494,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 22,
+          "time": "01:36.644",
+          "totalTime": "",
           "topSpeed": 295.8,
           "gapFirst": "0.619",
           "gapPrevious": "0.105"
@@ -435,6 +507,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 22,
+          "time": "01:36.711",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "0.686",
           "gapPrevious": "0.067"
@@ -446,6 +520,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 22,
+          "time": "01:36.900",
+          "totalTime": "",
           "topSpeed": 295,
           "gapFirst": "0.875",
           "gapPrevious": "0.189"
@@ -457,6 +533,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 23,
+          "time": "01:36.944",
+          "totalTime": "",
           "topSpeed": 300,
           "gapFirst": "0.919",
           "gapPrevious": "0.044"
@@ -468,6 +546,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 23,
+          "time": "01:36.959",
+          "totalTime": "",
           "topSpeed": 295,
           "gapFirst": "0.934",
           "gapPrevious": "0.015"
@@ -479,6 +559,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 24,
+          "time": "01:36.969",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "0.944",
           "gapPrevious": "0.010"
@@ -490,6 +572,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 21,
+          "time": "01:37.111",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "1.086",
           "gapPrevious": "0.142"
@@ -501,6 +585,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 23,
+          "time": "01:37.277",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "1.252",
           "gapPrevious": "0.166"
@@ -512,6 +598,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 24,
+          "time": "01:37.342",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "1.317",
           "gapPrevious": "0.065"
@@ -523,6 +611,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 22,
+          "time": "01:37.382",
+          "totalTime": "",
           "topSpeed": 295,
           "gapFirst": "1.357",
           "gapPrevious": "0.040"
@@ -534,6 +624,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 26,
+          "time": "01:37.476",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "1.451",
           "gapPrevious": "0.094"
@@ -545,6 +637,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 23,
+          "time": "01:37.611",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "1.586",
           "gapPrevious": "0.135"
@@ -556,6 +650,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 24,
+          "time": "01:37.709",
+          "totalTime": "",
           "topSpeed": 295.8,
           "gapFirst": "1.684",
           "gapPrevious": "0.098"
@@ -567,6 +663,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 24,
+          "time": "01:37.838",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "1.813",
           "gapPrevious": "0.129"
@@ -578,6 +676,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 22,
+          "time": "01:37.902",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "1.877",
           "gapPrevious": "0.064"
@@ -598,6 +698,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 11,
+          "time": "01:48.183",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -609,6 +711,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 14,
+          "time": "01:48.259",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "0.076",
           "gapPrevious": "0.076"
@@ -620,6 +724,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 14,
+          "time": "01:48.653",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "0.470",
           "gapPrevious": "0.394"
@@ -631,6 +737,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 11,
+          "time": "01:48.722",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "0.539",
           "gapPrevious": "0.069"
@@ -642,6 +750,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 14,
+          "time": "01:48.749",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.566",
           "gapPrevious": "0.027"
@@ -653,6 +763,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 12,
+          "time": "01:48.794",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.611",
           "gapPrevious": "0.045"
@@ -664,6 +776,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "01:48.850",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "0.667",
           "gapPrevious": "0.056"
@@ -675,6 +789,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 11,
+          "time": "01:48.875",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.692",
           "gapPrevious": "0.025"
@@ -686,6 +802,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 13,
+          "time": "01:48.901",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.718",
           "gapPrevious": "0.026"
@@ -697,6 +815,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 12,
+          "time": "01:48.902",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "0.719",
           "gapPrevious": "0.001"
@@ -708,6 +828,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 12,
+          "time": "01:48.988",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "0.805",
           "gapPrevious": "0.086"
@@ -719,6 +841,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 12,
+          "time": "01:49.083",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "0.900",
           "gapPrevious": "0.095"
@@ -730,6 +854,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "01:49.145",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "0.962",
           "gapPrevious": "0.062"
@@ -741,6 +867,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 10,
+          "time": "01:49.249",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "1.066",
           "gapPrevious": "0.104"
@@ -752,6 +880,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 16,
+          "time": "01:49.514",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "1.331",
           "gapPrevious": "0.265"
@@ -763,6 +893,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 13,
+          "time": "01:49.515",
+          "totalTime": "",
           "topSpeed": 278.3,
           "gapFirst": "1.332",
           "gapPrevious": "0.001"
@@ -774,6 +906,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 12,
+          "time": "01:49.810",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "1.627",
           "gapPrevious": "0.295"
@@ -785,6 +919,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "01:49.930",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "1.747",
           "gapPrevious": "0.120"
@@ -796,6 +932,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "01:49.936",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "1.753",
           "gapPrevious": "0.006"
@@ -807,6 +945,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "01:50.027",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "1.844",
           "gapPrevious": "0.091"
@@ -818,6 +958,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "01:50.192",
+          "totalTime": "",
           "topSpeed": 279.7,
           "gapFirst": "2.009",
           "gapPrevious": "0.165"
@@ -829,6 +971,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 11,
+          "time": "01:50.220",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "2.037",
           "gapPrevious": "0.028"
@@ -840,6 +984,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "01:50.358",
+          "totalTime": "",
           "topSpeed": 278.3,
           "gapFirst": "2.175",
           "gapPrevious": "0.138"
@@ -851,6 +997,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 10,
+          "time": "01:50.748",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "2.565",
           "gapPrevious": "0.390"
@@ -862,6 +1010,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "01:50.824",
+          "totalTime": "",
           "topSpeed": 279.7,
           "gapFirst": "2.641",
           "gapPrevious": "0.076"
@@ -882,6 +1032,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 7,
+          "time": "01:47.887",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -893,6 +1045,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "01:47.949",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "0.062",
           "gapPrevious": "0.062"
@@ -904,6 +1058,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 8,
+          "time": "01:48.102",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "0.215",
           "gapPrevious": "0.153"
@@ -915,6 +1071,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 8,
+          "time": "01:48.418",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "0.531",
           "gapPrevious": "0.316"
@@ -926,6 +1084,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "01:48.672",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "0.785",
           "gapPrevious": "0.254"
@@ -937,6 +1097,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "01:48.699",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "0.812",
           "gapPrevious": "0.027"
@@ -948,6 +1110,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 8,
+          "time": "01:48.728",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "0.841",
           "gapPrevious": "0.029"
@@ -959,6 +1123,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "01:49.229",
+          "totalTime": "",
           "topSpeed": 279,
           "gapFirst": "1.342",
           "gapPrevious": "0.501"
@@ -970,6 +1136,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 8,
+          "time": "01:49.659",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "1.772",
           "gapPrevious": "0.430"
@@ -981,6 +1149,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 8,
+          "time": "01:49.765",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "1.878",
           "gapPrevious": "0.106"
@@ -992,6 +1162,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 7,
+          "time": "01:49.860",
+          "totalTime": "",
           "topSpeed": 279,
           "gapFirst": "1.973",
           "gapPrevious": "0.095"
@@ -1003,6 +1175,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 8,
+          "time": "01:49.978",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "2.091",
           "gapPrevious": "0.118"
@@ -1014,6 +1188,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 7,
+          "time": "01:50.100",
+          "totalTime": "",
           "topSpeed": 279.7,
           "gapFirst": "2.213",
           "gapPrevious": "0.122"
@@ -1025,6 +1201,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "01:50.245",
+          "totalTime": "",
           "topSpeed": 278.3,
           "gapFirst": "2.358",
           "gapPrevious": "0.145"
@@ -1036,6 +1214,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 8,
+          "time": "01:50.302",
+          "totalTime": "",
           "topSpeed": 279,
           "gapFirst": "2.415",
           "gapPrevious": "0.057"
@@ -1056,6 +1236,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 7,
+          "time": "01:46.773",
+          "totalTime": "",
           "topSpeed": 285.7,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1067,6 +1249,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "01:47.044",
+          "totalTime": "",
           "topSpeed": 285.7,
           "gapFirst": "0.271",
           "gapPrevious": "0.271"
@@ -1078,6 +1262,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "01:47.381",
+          "totalTime": "",
           "topSpeed": 288,
           "gapFirst": "0.608",
           "gapPrevious": "0.337"
@@ -1089,6 +1275,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 8,
+          "time": "01:47.730",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "0.957",
           "gapPrevious": "0.349"
@@ -1100,6 +1288,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "01:47.778",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "1.005",
           "gapPrevious": "0.048"
@@ -1111,6 +1301,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 7,
+          "time": "01:47.840",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "1.067",
           "gapPrevious": "0.062"
@@ -1122,6 +1314,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "01:47.962",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "1.189",
           "gapPrevious": "0.122"
@@ -1133,6 +1327,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 6,
+          "time": "01:48.116",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "1.343",
           "gapPrevious": "0.154"
@@ -1144,6 +1340,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "01:48.362",
+          "totalTime": "",
           "topSpeed": 287.2,
           "gapFirst": "1.589",
           "gapPrevious": "0.246"
@@ -1155,6 +1353,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "01:48.528",
+          "totalTime": "",
           "topSpeed": 288.7,
           "gapFirst": "1.755",
           "gapPrevious": "0.166"
@@ -1166,6 +1366,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 8,
+          "time": "01:48.595",
+          "totalTime": "",
           "topSpeed": 285.7,
           "gapFirst": "1.822",
           "gapPrevious": "0.067"
@@ -1177,6 +1379,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 8,
+          "time": "01:49.417",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "2.644",
           "gapPrevious": "0.822"
@@ -1197,6 +1401,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "19:52.682",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1208,6 +1414,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "19:55.652",
           "topSpeed": null,
           "gapFirst": "2.970",
           "gapPrevious": ""
@@ -1219,6 +1427,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "19:59.784",
           "topSpeed": null,
           "gapFirst": "7.102",
           "gapPrevious": ""
@@ -1230,6 +1440,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:01.163",
           "topSpeed": null,
           "gapFirst": "8.481",
           "gapPrevious": ""
@@ -1241,6 +1453,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:07.734",
           "topSpeed": null,
           "gapFirst": "15.052",
           "gapPrevious": ""
@@ -1252,6 +1466,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:10.813",
           "topSpeed": null,
           "gapFirst": "18.131",
           "gapPrevious": ""
@@ -1263,6 +1479,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:10.960",
           "topSpeed": null,
           "gapFirst": "18.278",
           "gapPrevious": ""
@@ -1274,6 +1492,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:11.100",
           "topSpeed": null,
           "gapFirst": "18.418",
           "gapPrevious": ""
@@ -1285,6 +1505,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:11.235",
           "topSpeed": null,
           "gapFirst": "18.553",
           "gapPrevious": ""
@@ -1296,6 +1518,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:13.818",
           "topSpeed": null,
           "gapFirst": "21.136",
           "gapPrevious": ""
@@ -1307,6 +1531,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:14.630",
           "topSpeed": null,
           "gapFirst": "21.948",
           "gapPrevious": ""
@@ -1318,6 +1544,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:16.564",
           "topSpeed": null,
           "gapFirst": "23.882",
           "gapPrevious": ""
@@ -1329,6 +1557,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:24.160",
           "topSpeed": null,
           "gapFirst": "31.478",
           "gapPrevious": ""
@@ -1340,6 +1570,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "20:38.583",
           "topSpeed": null,
           "gapFirst": "45.901",
           "gapPrevious": ""
@@ -1351,6 +1583,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "21:02.970",
           "topSpeed": null,
           "gapFirst": "70.288",
           "gapPrevious": ""
@@ -1362,6 +1596,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 12,
+          "time": "",
+          "totalTime": "21:15.661",
           "topSpeed": null,
           "gapFirst": "82.979",
           "gapPrevious": ""
@@ -1373,6 +1609,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "",
+          "totalTime": "18:33.761",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1384,6 +1622,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "",
+          "totalTime": "18:33.619",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1395,6 +1635,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 9,
+          "time": "",
+          "totalTime": "14:58.553",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1406,6 +1648,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:18.393",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1417,6 +1661,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:16.799",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1428,6 +1674,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:16.515",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1439,6 +1687,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:16.272",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1450,6 +1700,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 2,
+          "time": "",
+          "totalTime": "03:25.135",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1461,6 +1713,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1481,6 +1735,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:37.943",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1492,6 +1748,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:38.119",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.176",
           "gapPrevious": "0.176"
@@ -1503,6 +1761,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:38.120",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.177",
           "gapPrevious": "0.001"
@@ -1514,6 +1774,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 5,
+          "time": "01:38.131",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "0.188",
           "gapPrevious": "0.011"
@@ -1525,6 +1787,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:38.231",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.288",
           "gapPrevious": "0.100"
@@ -1536,6 +1800,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:38.253",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.310",
           "gapPrevious": "0.022"
@@ -1547,6 +1813,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:38.279",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "0.336",
           "gapPrevious": "0.026"
@@ -1558,6 +1826,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 5,
+          "time": "01:38.294",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.351",
           "gapPrevious": "0.015"
@@ -1569,6 +1839,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 4,
+          "time": "01:38.406",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "0.463",
           "gapPrevious": "0.112"
@@ -1580,6 +1852,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 5,
+          "time": "01:38.474",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "0.531",
           "gapPrevious": "0.068"
@@ -1591,6 +1865,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:38.517",
+          "totalTime": "",
           "topSpeed": 297.5,
           "gapFirst": "0.574",
           "gapPrevious": "0.043"
@@ -1602,6 +1878,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 4,
+          "time": "01:38.639",
+          "totalTime": "",
           "topSpeed": 294.2,
           "gapFirst": "0.696",
           "gapPrevious": "0.122"
@@ -1613,6 +1891,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:38.771",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "0.828",
           "gapPrevious": "0.132"
@@ -1624,6 +1904,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 5,
+          "time": "01:38.860",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "0.917",
           "gapPrevious": "0.089"
@@ -1635,6 +1917,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:38.969",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "1.026",
           "gapPrevious": "0.109"
@@ -1646,6 +1930,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 5,
+          "time": "01:38.984",
+          "totalTime": "",
           "topSpeed": 296.7,
           "gapFirst": "1.041",
           "gapPrevious": "0.015"
@@ -1657,6 +1943,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:39.061",
+          "totalTime": "",
           "topSpeed": 292.6,
           "gapFirst": "1.118",
           "gapPrevious": "0.077"
@@ -1668,6 +1956,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:39.329",
+          "totalTime": "",
           "topSpeed": 293.4,
           "gapFirst": "1.386",
           "gapPrevious": "0.268"
@@ -1679,6 +1969,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:39.443",
+          "totalTime": "",
           "topSpeed": 296.7,
           "gapFirst": "1.500",
           "gapPrevious": "0.114"
@@ -1690,6 +1982,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:39.462",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "1.519",
           "gapPrevious": "0.019"
@@ -1701,6 +1995,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:39.720",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "1.777",
           "gapPrevious": "0.258"
@@ -1712,6 +2008,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 5,
+          "time": "01:39.815",
+          "totalTime": "",
           "topSpeed": 298.3,
           "gapFirst": "1.872",
           "gapPrevious": "0.095"
@@ -1723,6 +2021,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:40.109",
+          "totalTime": "",
           "topSpeed": 295,
           "gapFirst": "2.166",
           "gapPrevious": "0.294"
@@ -1734,6 +2034,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 5,
+          "time": "01:40.262",
+          "totalTime": "",
           "topSpeed": 291.8,
           "gapFirst": "2.319",
           "gapPrevious": "0.153"
@@ -1745,6 +2047,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 5,
+          "time": "01:40.377",
+          "totalTime": "",
           "topSpeed": 290.3,
           "gapFirst": "2.434",
           "gapPrevious": "0.115"
@@ -1765,6 +2069,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "40:58.053",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1776,6 +2082,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "40:58.425",
           "topSpeed": null,
           "gapFirst": "0.372",
           "gapPrevious": ""
@@ -1787,6 +2095,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:01.956",
           "topSpeed": null,
           "gapFirst": "3.903",
           "gapPrevious": ""
@@ -1798,6 +2108,8 @@
           "teamName": "Gresini Racing MotoGP",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:05.258",
           "topSpeed": null,
           "gapFirst": "7.205",
           "gapPrevious": ""
@@ -1809,6 +2121,8 @@
           "teamName": "Ducati Lenovo Team",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:05.306",
           "topSpeed": null,
           "gapFirst": "7.253",
           "gapPrevious": ""
@@ -1820,6 +2134,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:05.854",
           "topSpeed": null,
           "gapFirst": "7.801",
           "gapPrevious": ""
@@ -1831,6 +2147,8 @@
           "teamName": "Pertamina Enduro VR46 Racing Team",
           "constructorName": "Ducati",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:08.116",
           "topSpeed": null,
           "gapFirst": "10.063",
           "gapPrevious": ""
@@ -1842,6 +2160,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:09.032",
           "topSpeed": null,
           "gapFirst": "10.979",
           "gapPrevious": ""
@@ -1853,6 +2173,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:09.270",
           "topSpeed": null,
           "gapFirst": "11.217",
           "gapPrevious": ""
@@ -1864,6 +2186,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:18.815",
           "topSpeed": null,
           "gapFirst": "20.762",
           "gapPrevious": ""
@@ -1875,6 +2199,8 @@
           "teamName": "Trackhouse Racing",
           "constructorName": "Aprilia",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:21.561",
           "topSpeed": null,
           "gapFirst": "23.508",
           "gapPrevious": ""
@@ -1886,6 +2212,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:21.637",
           "topSpeed": null,
           "gapFirst": "23.584",
           "gapPrevious": ""
@@ -1897,6 +2225,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:26.505",
           "topSpeed": null,
           "gapFirst": "28.452",
           "gapPrevious": ""
@@ -1908,6 +2238,8 @@
           "teamName": "IDEMITSU Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:27.102",
           "topSpeed": null,
           "gapFirst": "29.049",
           "gapPrevious": ""
@@ -1919,6 +2251,8 @@
           "teamName": "Monster Energy Yamaha MotoGP Team",
           "constructorName": "Yamaha",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:30.068",
           "topSpeed": null,
           "gapFirst": "32.015",
           "gapPrevious": ""
@@ -1930,6 +2264,8 @@
           "teamName": "HRC Test Team",
           "constructorName": "Honda",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:39.486",
           "topSpeed": null,
           "gapFirst": "41.433",
           "gapPrevious": ""
@@ -1941,6 +2277,8 @@
           "teamName": "Repsol Honda Team",
           "constructorName": "Honda",
           "totalLaps": 25,
+          "time": "",
+          "totalTime": "41:41.376",
           "topSpeed": null,
           "gapFirst": "43.323",
           "gapPrevious": ""
@@ -1952,6 +2290,8 @@
           "teamName": "Red Bull GASGAS Tech3",
           "constructorName": "KTM",
           "totalLaps": 19,
+          "time": "",
+          "totalTime": "32:04.415",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1963,6 +2303,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 17,
+          "time": "",
+          "totalTime": "28:07.194",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1974,6 +2316,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 17,
+          "time": "",
+          "totalTime": "28:07.033",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1985,6 +2329,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 11,
+          "time": "",
+          "totalTime": "18:27.477",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1996,6 +2342,8 @@
           "teamName": "Prima Pramac Racing",
           "constructorName": "Ducati",
           "totalLaps": 10,
+          "time": "",
+          "totalTime": "16:26.656",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2007,6 +2355,8 @@
           "teamName": "Aprilia Racing",
           "constructorName": "Aprilia",
           "totalLaps": 9,
+          "time": "",
+          "totalTime": "14:59.411",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2018,6 +2368,8 @@
           "teamName": "CASTROL Honda LCR",
           "constructorName": "Honda",
           "totalLaps": 9,
+          "time": "",
+          "totalTime": "14:59.334",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2029,6 +2381,8 @@
           "teamName": "Red Bull KTM Factory Racing",
           "constructorName": "KTM",
           "totalLaps": 3,
+          "time": "",
+          "totalTime": "05:03.969",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""

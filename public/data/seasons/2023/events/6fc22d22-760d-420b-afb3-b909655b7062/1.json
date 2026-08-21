@@ -15,30 +15,5 @@
     "name": "Moto3™",
     "legacyId": 1
   },
-  "sessions": [
-    {
-      "id": "01c9b1b0-1c33-44b7-99cc-eea17b30f4aa",
-      "type": "FP",
-      "number": 1,
-      "status": "FINISHED",
-      "date": "2023-05-02T09:30:00+00:00",
-      "classification": []
-    },
-    {
-      "id": "d45da7ae-1e97-4796-ac00-5b490a9b39a4",
-      "type": "FP",
-      "number": 2,
-      "status": "FINISHED",
-      "date": "2023-05-02T12:10:00+00:00",
-      "classification": []
-    },
-    {
-      "id": "3c87b50a-f5bc-4c35-bb8f-3a1026479173",
-      "type": "FP",
-      "number": 3,
-      "status": "FINISHED",
-      "date": "2023-05-02T14:50:00+00:00",
-      "classification": []
-    }
-  ]
+  "sessions": []
 }

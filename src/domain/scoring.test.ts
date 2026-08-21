@@ -13,7 +13,7 @@ describe('MotoGP scoring', () => {
     expect(sameTeam('Red Bull KTM Factory Racing', 'KTM Factory')).toBe(true)
   })
   it('selects Moto2 race two and awards half points', () => {
-    const result = { position: 1, riderName: 'Rider', riderNumber: 1, teamName: 'Team', constructorName: 'Bike', totalLaps: 1, topSpeed: null, gapFirst: '', gapPrevious: '' }
+    const result = { position: 1, riderName: 'Rider', riderNumber: 1, teamName: 'Team', constructorName: 'Bike', totalLaps: 1, time: '01:30.000', totalTime: '40:00.000', topSpeed: null, gapFirst: '', gapPrevious: '' }
     const bundle = { schemaVersion: 1, year: 2020, category: { id: '2', name: 'Moto2', legacyId: 2 }, events: [{ id: 'e', name: 'Event', circuit: '', country: '', startDate: null, endDate: null, test: false, sessions: [{ id: 'r1', type: 'RAC', number: 1, status: '', date: null, classification: [result] }, { id: 'r2', type: 'RAC', number: 2, status: '', date: null, classification: [result] }] }] } satisfies RaceBundle
     expect(pointEntries(bundle)).toHaveLength(1)
     expect(pointEntries(bundle)[0].points).toBe(12.5)

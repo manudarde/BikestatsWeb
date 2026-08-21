@@ -17,6 +17,8 @@ export type Result = {
   teamName: string
   constructorName: string
   totalLaps: number | null
+  time: string
+  totalTime: string
   topSpeed: number | null
   gapFirst: string
   gapPrevious: string

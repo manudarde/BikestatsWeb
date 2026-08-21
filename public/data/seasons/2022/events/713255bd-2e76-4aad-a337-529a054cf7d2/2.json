@@ -30,6 +30,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:04.519",
+          "totalTime": "",
           "topSpeed": 266,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -41,6 +43,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "02:05.976",
+          "totalTime": "",
           "topSpeed": 266,
           "gapFirst": "1.457",
           "gapPrevious": "1.457"
@@ -52,6 +56,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "02:06.057",
+          "totalTime": "",
           "topSpeed": 265.3,
           "gapFirst": "1.538",
           "gapPrevious": "0.081"
@@ -63,6 +69,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:06.521",
+          "totalTime": "",
           "topSpeed": 264,
           "gapFirst": "2.002",
           "gapPrevious": "0.464"
@@ -74,6 +82,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "02:06.630",
+          "totalTime": "",
           "topSpeed": 264.7,
           "gapFirst": "2.111",
           "gapPrevious": "0.109"
@@ -85,6 +95,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:07.008",
+          "totalTime": "",
           "topSpeed": 267.3,
           "gapFirst": "2.489",
           "gapPrevious": "0.378"
@@ -96,6 +108,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "02:07.226",
+          "totalTime": "",
           "topSpeed": 266,
           "gapFirst": "2.707",
           "gapPrevious": "0.218"
@@ -107,6 +121,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 4,
+          "time": "02:07.986",
+          "totalTime": "",
           "topSpeed": 264.7,
           "gapFirst": "3.467",
           "gapPrevious": "0.760"
@@ -118,6 +134,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 6,
+          "time": "02:10.009",
+          "totalTime": "",
           "topSpeed": 268.6,
           "gapFirst": "5.490",
           "gapPrevious": "2.023"
@@ -129,6 +147,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "02:10.522",
+          "totalTime": "",
           "topSpeed": 262.1,
           "gapFirst": "6.003",
           "gapPrevious": "0.513"
@@ -140,6 +160,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 4,
+          "time": "02:10.619",
+          "totalTime": "",
           "topSpeed": 263.4,
           "gapFirst": "6.100",
           "gapPrevious": "0.097"
@@ -151,6 +173,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 3,
+          "time": "02:25.624",
+          "totalTime": "",
           "topSpeed": 257.7,
           "gapFirst": "21.105",
           "gapPrevious": "12.975"
@@ -162,6 +186,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "02:12.649",
+          "totalTime": "",
           "topSpeed": 263.4,
           "gapFirst": "8.130",
           "gapPrevious": "0.877"
@@ -173,6 +199,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 4,
+          "time": "02:11.772",
+          "totalTime": "",
           "topSpeed": 256.5,
           "gapFirst": "7.253",
           "gapPrevious": "1.153"
@@ -184,6 +212,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -195,6 +225,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -206,6 +238,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -217,6 +251,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -228,6 +264,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -239,6 +277,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -250,6 +290,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -261,6 +303,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -272,6 +316,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -283,6 +329,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -294,6 +342,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -305,6 +355,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -316,6 +368,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -327,6 +381,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -338,6 +394,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -349,6 +407,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -369,6 +429,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:00.678",
+          "totalTime": "",
           "topSpeed": 274.8,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -380,6 +442,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 17,
+          "time": "02:01.179",
+          "totalTime": "",
           "topSpeed": 273.4,
           "gapFirst": "0.501",
           "gapPrevious": "0.501"
@@ -391,6 +455,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:01.391",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "0.713",
           "gapPrevious": "0.212"
@@ -402,6 +468,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:01.409",
+          "totalTime": "",
           "topSpeed": 269.3,
           "gapFirst": "0.731",
           "gapPrevious": "0.018"
@@ -413,6 +481,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 11,
+          "time": "02:01.413",
+          "totalTime": "",
           "topSpeed": 271.3,
           "gapFirst": "0.735",
           "gapPrevious": "0.004"
@@ -424,6 +494,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 14,
+          "time": "02:01.457",
+          "totalTime": "",
           "topSpeed": 271.3,
           "gapFirst": "0.779",
           "gapPrevious": "0.044"
@@ -435,6 +507,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 18,
+          "time": "02:01.913",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "1.235",
           "gapPrevious": "0.456"
@@ -446,6 +520,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 12,
+          "time": "02:02.025",
+          "totalTime": "",
           "topSpeed": 271.3,
           "gapFirst": "1.347",
           "gapPrevious": "0.112"
@@ -457,6 +533,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:02.063",
+          "totalTime": "",
           "topSpeed": 267.3,
           "gapFirst": "1.385",
           "gapPrevious": "0.038"
@@ -468,6 +546,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:02.090",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "1.412",
           "gapPrevious": "0.027"
@@ -479,6 +559,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:02.285",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "1.607",
           "gapPrevious": "0.195"
@@ -490,6 +572,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 14,
+          "time": "02:02.802",
+          "totalTime": "",
           "topSpeed": 264.7,
           "gapFirst": "2.124",
           "gapPrevious": "0.517"
@@ -501,6 +585,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:03.066",
+          "totalTime": "",
           "topSpeed": 271.3,
           "gapFirst": "2.388",
           "gapPrevious": "0.264"
@@ -512,6 +598,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 12,
+          "time": "02:03.070",
+          "totalTime": "",
           "topSpeed": 268.6,
           "gapFirst": "2.392",
           "gapPrevious": "0.004"
@@ -523,6 +611,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 14,
+          "time": "02:03.098",
+          "totalTime": "",
           "topSpeed": 276.2,
           "gapFirst": "2.420",
           "gapPrevious": "0.028"
@@ -534,6 +624,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 14,
+          "time": "02:03.167",
+          "totalTime": "",
           "topSpeed": 271.3,
           "gapFirst": "2.489",
           "gapPrevious": "0.069"
@@ -545,6 +637,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 18,
+          "time": "02:03.409",
+          "totalTime": "",
           "topSpeed": 270.6,
           "gapFirst": "2.731",
           "gapPrevious": "0.242"
@@ -556,6 +650,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:04.282",
+          "totalTime": "",
           "topSpeed": 265.3,
           "gapFirst": "3.604",
           "gapPrevious": "0.873"
@@ -567,6 +663,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:04.363",
+          "totalTime": "",
           "topSpeed": 272,
           "gapFirst": "3.685",
           "gapPrevious": "0.081"
@@ -578,6 +676,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "02:04.376",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "3.698",
           "gapPrevious": "0.013"
@@ -589,6 +689,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:04.549",
+          "totalTime": "",
           "topSpeed": 274.1,
           "gapFirst": "3.871",
           "gapPrevious": "0.173"
@@ -600,6 +702,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 11,
+          "time": "02:04.654",
+          "totalTime": "",
           "topSpeed": 271.3,
           "gapFirst": "3.976",
           "gapPrevious": "0.105"
@@ -611,6 +715,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 7,
+          "time": "02:04.721",
+          "totalTime": "",
           "topSpeed": 270.6,
           "gapFirst": "4.043",
           "gapPrevious": "0.067"
@@ -622,6 +728,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:04.918",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "4.240",
           "gapPrevious": "0.197"
@@ -633,6 +741,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:05.498",
+          "totalTime": "",
           "topSpeed": 272,
           "gapFirst": "4.820",
           "gapPrevious": "0.580"
@@ -644,6 +754,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:05.585",
+          "totalTime": "",
           "topSpeed": 267.9,
           "gapFirst": "4.907",
           "gapPrevious": "0.087"
@@ -655,6 +767,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 14,
+          "time": "02:05.607",
+          "totalTime": "",
           "topSpeed": 269.3,
           "gapFirst": "4.929",
           "gapPrevious": "0.022"
@@ -666,6 +780,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 12,
+          "time": "02:06.212",
+          "totalTime": "",
           "topSpeed": 270,
           "gapFirst": "5.534",
           "gapPrevious": "0.605"
@@ -677,6 +793,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 11,
+          "time": "02:06.757",
+          "totalTime": "",
           "topSpeed": 274.1,
           "gapFirst": "6.079",
           "gapPrevious": "0.545"
@@ -688,6 +806,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -708,6 +828,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:00.810",
+          "totalTime": "",
           "topSpeed": 273.4,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -719,6 +841,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 11,
+          "time": "02:00.990",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "0.180",
           "gapPrevious": "0.180"
@@ -730,6 +854,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:01.027",
+          "totalTime": "",
           "topSpeed": 274.1,
           "gapFirst": "0.217",
           "gapPrevious": "0.037"
@@ -741,6 +867,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 12,
+          "time": "02:01.251",
+          "totalTime": "",
           "topSpeed": 270.6,
           "gapFirst": "0.441",
           "gapPrevious": "0.224"
@@ -752,6 +880,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:01.293",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "0.483",
           "gapPrevious": "0.042"
@@ -763,6 +893,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "02:01.353",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "0.543",
           "gapPrevious": "0.060"
@@ -774,6 +906,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:01.469",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "0.659",
           "gapPrevious": "0.116"
@@ -785,6 +919,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "02:01.518",
+          "totalTime": "",
           "topSpeed": 268.6,
           "gapFirst": "0.708",
           "gapPrevious": "0.049"
@@ -796,6 +932,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "02:01.708",
+          "totalTime": "",
           "topSpeed": 272,
           "gapFirst": "0.898",
           "gapPrevious": "0.190"
@@ -807,6 +945,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:01.834",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "1.024",
           "gapPrevious": "0.126"
@@ -818,6 +958,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 13,
+          "time": "02:01.854",
+          "totalTime": "",
           "topSpeed": 270.6,
           "gapFirst": "1.044",
           "gapPrevious": "0.020"
@@ -829,6 +971,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:01.875",
+          "totalTime": "",
           "topSpeed": 270.6,
           "gapFirst": "1.065",
           "gapPrevious": "0.021"
@@ -840,6 +984,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:02.009",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "1.199",
           "gapPrevious": "0.134"
@@ -851,6 +997,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 14,
+          "time": "02:02.030",
+          "totalTime": "",
           "topSpeed": 270,
           "gapFirst": "1.220",
           "gapPrevious": "0.021"
@@ -862,6 +1010,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 12,
+          "time": "02:02.042",
+          "totalTime": "",
           "topSpeed": 276.2,
           "gapFirst": "1.232",
           "gapPrevious": "0.012"
@@ -873,6 +1023,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "02:02.052",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "1.242",
           "gapPrevious": "0.010"
@@ -884,6 +1036,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:02.159",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "1.349",
           "gapPrevious": "0.107"
@@ -895,6 +1049,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "02:02.178",
+          "totalTime": "",
           "topSpeed": 270,
           "gapFirst": "1.368",
           "gapPrevious": "0.019"
@@ -906,6 +1062,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 15,
+          "time": "02:02.747",
+          "totalTime": "",
           "topSpeed": 273.4,
           "gapFirst": "1.937",
           "gapPrevious": "0.569"
@@ -917,6 +1075,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 12,
+          "time": "02:03.048",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "2.238",
           "gapPrevious": "0.301"
@@ -928,6 +1088,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "02:03.051",
+          "totalTime": "",
           "topSpeed": 274.8,
           "gapFirst": "2.241",
           "gapPrevious": "0.003"
@@ -939,6 +1101,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:03.058",
+          "totalTime": "",
           "topSpeed": 273.4,
           "gapFirst": "2.248",
           "gapPrevious": "0.007"
@@ -950,6 +1114,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 14,
+          "time": "02:03.382",
+          "totalTime": "",
           "topSpeed": 274.1,
           "gapFirst": "2.572",
           "gapPrevious": "0.324"
@@ -961,6 +1127,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 9,
+          "time": "02:03.448",
+          "totalTime": "",
           "topSpeed": 276.9,
           "gapFirst": "2.638",
           "gapPrevious": "0.066"
@@ -972,6 +1140,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 12,
+          "time": "02:03.981",
+          "totalTime": "",
           "topSpeed": 268.6,
           "gapFirst": "3.171",
           "gapPrevious": "0.533"
@@ -983,6 +1153,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:04.126",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "3.316",
           "gapPrevious": "0.145"
@@ -994,6 +1166,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 13,
+          "time": "02:04.531",
+          "totalTime": "",
           "topSpeed": 267.9,
           "gapFirst": "3.721",
           "gapPrevious": "0.405"
@@ -1005,6 +1179,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "02:04.677",
+          "totalTime": "",
           "topSpeed": 272.7,
           "gapFirst": "3.867",
           "gapPrevious": "0.146"
@@ -1016,6 +1192,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 10,
+          "time": "02:07.060",
+          "totalTime": "",
           "topSpeed": 270,
           "gapFirst": "6.250",
           "gapPrevious": "2.383"
@@ -1027,6 +1205,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1047,6 +1227,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 8,
+          "time": "01:45.533",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1058,6 +1240,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:45.566",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "0.033",
           "gapPrevious": "0.033"
@@ -1069,6 +1253,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.076",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.543",
           "gapPrevious": "0.510"
@@ -1080,6 +1266,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.086",
+          "totalTime": "",
           "topSpeed": 277.6,
           "gapFirst": "0.553",
           "gapPrevious": "0.010"
@@ -1091,6 +1279,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.086",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.553",
           "gapPrevious": "0.000"
@@ -1102,6 +1292,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.160",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "0.627",
           "gapPrevious": "0.074"
@@ -1113,6 +1305,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.600",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "1.067",
           "gapPrevious": "0.440"
@@ -1124,6 +1318,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.712",
+          "totalTime": "",
           "topSpeed": 276.9,
           "gapFirst": "1.179",
           "gapPrevious": "0.112"
@@ -1135,6 +1331,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.787",
+          "totalTime": "",
           "topSpeed": 274.8,
           "gapFirst": "1.254",
           "gapPrevious": "0.075"
@@ -1146,6 +1344,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 8,
+          "time": "01:46.787",
+          "totalTime": "",
           "topSpeed": 279.7,
           "gapFirst": "1.254",
           "gapPrevious": "0.000"
@@ -1157,6 +1357,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:47.213",
+          "totalTime": "",
           "topSpeed": 276.9,
           "gapFirst": "1.680",
           "gapPrevious": "0.426"
@@ -1168,6 +1370,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:47.274",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "1.741",
           "gapPrevious": "0.061"
@@ -1179,6 +1383,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 8,
+          "time": "01:47.676",
+          "totalTime": "",
           "topSpeed": 276.2,
           "gapFirst": "2.143",
           "gapPrevious": "0.402"
@@ -1190,6 +1396,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:47.762",
+          "totalTime": "",
           "topSpeed": 279.7,
           "gapFirst": "2.229",
           "gapPrevious": "0.086"
@@ -1201,6 +1409,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:48.021",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "2.488",
           "gapPrevious": "0.259"
@@ -1212,6 +1422,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:48.305",
+          "totalTime": "",
           "topSpeed": 277.6,
           "gapFirst": "2.772",
           "gapPrevious": "0.284"
@@ -1232,6 +1444,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.151",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1243,6 +1457,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.479",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "0.328",
           "gapPrevious": "0.328"
@@ -1254,6 +1470,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "01:44.501",
+          "totalTime": "",
           "topSpeed": 279,
           "gapFirst": "0.350",
           "gapPrevious": "0.022"
@@ -1265,6 +1483,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.560",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "0.409",
           "gapPrevious": "0.059"
@@ -1276,6 +1496,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.788",
+          "totalTime": "",
           "topSpeed": 277.6,
           "gapFirst": "0.637",
           "gapPrevious": "0.228"
@@ -1287,6 +1509,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "01:44.827",
+          "totalTime": "",
           "topSpeed": 279,
           "gapFirst": "0.676",
           "gapPrevious": "0.039"
@@ -1298,6 +1522,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.898",
+          "totalTime": "",
           "topSpeed": 279.7,
           "gapFirst": "0.747",
           "gapPrevious": "0.071"
@@ -1309,6 +1535,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "01:44.911",
+          "totalTime": "",
           "topSpeed": 274.8,
           "gapFirst": "0.760",
           "gapPrevious": "0.013"
@@ -1320,6 +1548,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.915",
+          "totalTime": "",
           "topSpeed": 278.3,
           "gapFirst": "0.764",
           "gapPrevious": "0.004"
@@ -1331,6 +1561,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:44.999",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "0.848",
           "gapPrevious": "0.084"
@@ -1342,6 +1574,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:45.016",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "0.865",
           "gapPrevious": "0.017"
@@ -1353,6 +1587,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "01:45.018",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "0.867",
           "gapPrevious": "0.002"
@@ -1364,6 +1600,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:45.076",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "0.925",
           "gapPrevious": "0.058"
@@ -1375,6 +1613,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 8,
+          "time": "01:45.251",
+          "totalTime": "",
           "topSpeed": 281.2,
           "gapFirst": "1.100",
           "gapPrevious": "0.175"
@@ -1386,6 +1626,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 8,
+          "time": "01:45.304",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "1.153",
           "gapPrevious": "0.053"
@@ -1397,6 +1639,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 9,
+          "time": "01:45.354",
+          "totalTime": "",
           "topSpeed": 275.5,
           "gapFirst": "1.203",
           "gapPrevious": "0.050"
@@ -1408,6 +1652,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "01:46.859",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "2.708",
           "gapPrevious": "1.505"
@@ -1419,6 +1665,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1439,6 +1687,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:43.353",
+          "totalTime": "",
           "topSpeed": 289.5,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1450,6 +1700,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:43.817",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "0.464",
           "gapPrevious": "0.464"
@@ -1461,6 +1713,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:43.918",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "0.565",
           "gapPrevious": "0.101"
@@ -1472,6 +1726,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "01:43.931",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "0.578",
           "gapPrevious": "0.013"
@@ -1483,6 +1739,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:44.376",
+          "totalTime": "",
           "topSpeed": 285.7,
           "gapFirst": "1.023",
           "gapPrevious": "0.445"
@@ -1494,6 +1752,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:44.398",
+          "totalTime": "",
           "topSpeed": 288.7,
           "gapFirst": "1.045",
           "gapPrevious": "0.022"
@@ -1505,6 +1765,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:44.412",
+          "totalTime": "",
           "topSpeed": 288,
           "gapFirst": "1.059",
           "gapPrevious": "0.014"
@@ -1516,6 +1778,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:44.451",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "1.098",
           "gapPrevious": "0.039"
@@ -1527,6 +1791,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "01:44.703",
+          "totalTime": "",
           "topSpeed": 288.7,
           "gapFirst": "1.350",
           "gapPrevious": "0.252"
@@ -1538,6 +1804,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:44.798",
+          "totalTime": "",
           "topSpeed": 291.1,
           "gapFirst": "1.445",
           "gapPrevious": "0.095"
@@ -1549,6 +1817,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:44.815",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "1.462",
           "gapPrevious": "0.017"
@@ -1560,6 +1830,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 6,
+          "time": "01:45.083",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "1.730",
           "gapPrevious": "0.268"
@@ -1571,6 +1843,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.154",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "1.801",
           "gapPrevious": "0.071"
@@ -1582,6 +1856,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.173",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "1.820",
           "gapPrevious": "0.019"
@@ -1593,6 +1869,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.212",
+          "totalTime": "",
           "topSpeed": 281.9,
           "gapFirst": "1.859",
           "gapPrevious": "0.039"
@@ -1604,6 +1882,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.217",
+          "totalTime": "",
           "topSpeed": 288,
           "gapFirst": "1.864",
           "gapPrevious": "0.005"
@@ -1615,6 +1895,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.285",
+          "totalTime": "",
           "topSpeed": 282.7,
           "gapFirst": "1.932",
           "gapPrevious": "0.068"
@@ -1626,6 +1908,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.300",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "1.947",
           "gapPrevious": "0.015"
@@ -1637,6 +1921,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.457",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "2.104",
           "gapPrevious": "0.157"
@@ -1648,6 +1934,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "01:45.566",
+          "totalTime": "",
           "topSpeed": 285.7,
           "gapFirst": "2.213",
           "gapPrevious": "0.109"
@@ -1659,6 +1947,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.709",
+          "totalTime": "",
           "topSpeed": 287.2,
           "gapFirst": "2.356",
           "gapPrevious": "0.143"
@@ -1670,6 +1960,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 5,
+          "time": "01:45.731",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "2.378",
           "gapPrevious": "0.022"
@@ -1681,6 +1973,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.789",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "2.436",
           "gapPrevious": "0.058"
@@ -1692,6 +1986,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:45.941",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "2.588",
           "gapPrevious": "0.152"
@@ -1703,6 +1999,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 6,
+          "time": "01:46.076",
+          "totalTime": "",
           "topSpeed": 283.4,
           "gapFirst": "2.723",
           "gapPrevious": "0.135"
@@ -1714,6 +2012,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:46.169",
+          "totalTime": "",
           "topSpeed": 285.7,
           "gapFirst": "2.816",
           "gapPrevious": "0.093"
@@ -1725,6 +2025,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 4,
+          "time": "01:46.284",
+          "totalTime": "",
           "topSpeed": 284.9,
           "gapFirst": "2.931",
           "gapPrevious": "0.115"
@@ -1736,6 +2038,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 5,
+          "time": "01:46.302",
+          "totalTime": "",
           "topSpeed": 284.2,
           "gapFirst": "2.949",
           "gapPrevious": "0.018"
@@ -1747,6 +2051,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:46.601",
+          "totalTime": "",
           "topSpeed": 286.4,
           "gapFirst": "3.248",
           "gapPrevious": "0.299"
@@ -1758,6 +2064,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "01:47.264",
+          "totalTime": "",
           "topSpeed": 280.5,
           "gapFirst": "3.911",
           "gapPrevious": "0.663"
@@ -1778,6 +2086,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:55.726",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1789,6 +2099,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:57.685",
           "topSpeed": null,
           "gapFirst": "1.959",
           "gapPrevious": ""
@@ -1800,6 +2112,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:59.450",
           "topSpeed": null,
           "gapFirst": "3.724",
           "gapPrevious": ""
@@ -1811,6 +2125,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:59.585",
           "topSpeed": null,
           "gapFirst": "3.859",
           "gapPrevious": ""
@@ -1822,6 +2138,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:04.931",
           "topSpeed": null,
           "gapFirst": "9.205",
           "gapPrevious": ""
@@ -1833,6 +2151,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:05.344",
           "topSpeed": null,
           "gapFirst": "9.618",
           "gapPrevious": ""
@@ -1844,6 +2164,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:05.648",
           "topSpeed": null,
           "gapFirst": "9.922",
           "gapPrevious": ""
@@ -1855,6 +2177,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:06.509",
           "topSpeed": null,
           "gapFirst": "10.783",
           "gapPrevious": ""
@@ -1866,6 +2190,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:06.836",
           "topSpeed": null,
           "gapFirst": "11.110",
           "gapPrevious": ""
@@ -1877,6 +2203,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:12.384",
           "topSpeed": null,
           "gapFirst": "16.658",
           "gapPrevious": ""
@@ -1888,6 +2216,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:12.701",
           "topSpeed": null,
           "gapFirst": "16.975",
           "gapPrevious": ""
@@ -1899,6 +2229,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:12.785",
           "topSpeed": null,
           "gapFirst": "17.059",
           "gapPrevious": ""
@@ -1910,6 +2242,8 @@
           "teamName": "Lightech Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:13.248",
           "topSpeed": null,
           "gapFirst": "17.522",
           "gapPrevious": ""
@@ -1921,6 +2255,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:13.501",
           "topSpeed": null,
           "gapFirst": "17.775",
           "gapPrevious": ""
@@ -1932,6 +2268,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:16.943",
           "topSpeed": null,
           "gapFirst": "21.217",
           "gapPrevious": ""
@@ -1943,6 +2281,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:36.774",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1954,6 +2294,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:36.809",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1965,6 +2307,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:49.222",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1976,6 +2320,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:11.271",
           "topSpeed": null,
           "gapFirst": "15.545",
           "gapPrevious": ""
@@ -1987,6 +2333,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:06.613",
           "topSpeed": null,
           "gapFirst": "10.887",
           "gapPrevious": ""
@@ -1998,6 +2346,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "14:03.823",
           "topSpeed": null,
           "gapFirst": "8.097",
           "gapPrevious": ""
@@ -2009,6 +2359,8 @@
           "teamName": "Autosolar GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:58.297",
           "topSpeed": null,
           "gapFirst": "2.571",
           "gapPrevious": ""
@@ -2020,6 +2372,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:58.208",
           "topSpeed": null,
           "gapFirst": "2.482",
           "gapPrevious": ""
@@ -2031,6 +2385,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:55.444",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2042,6 +2398,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:55.070",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2053,6 +2411,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:54.853",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2064,6 +2424,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:53.822",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2075,6 +2437,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:53.706",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2086,6 +2450,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 8,
+          "time": "",
+          "totalTime": "13:53.491",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2097,6 +2463,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 3,
+          "time": "",
+          "totalTime": "06:32.439",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2117,6 +2485,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:09.757",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2128,6 +2498,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:12.575",
           "topSpeed": null,
           "gapFirst": "2.818",
           "gapPrevious": ""
@@ -2139,6 +2511,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:12.748",
           "topSpeed": null,
           "gapFirst": "2.991",
           "gapPrevious": ""
@@ -2150,6 +2524,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:12.861",
           "topSpeed": null,
           "gapFirst": "3.104",
           "gapPrevious": ""
@@ -2161,6 +2537,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:12.956",
           "topSpeed": null,
           "gapFirst": "3.199",
           "gapPrevious": ""
@@ -2172,6 +2550,8 @@
           "teamName": "Liqui Moly Intact GP",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:13.578",
           "topSpeed": null,
           "gapFirst": "3.821",
           "gapPrevious": ""
@@ -2183,6 +2563,8 @@
           "teamName": "MB Conveyors Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:13.541",
           "topSpeed": null,
           "gapFirst": "3.784",
           "gapPrevious": ""
@@ -2194,6 +2576,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:14.405",
           "topSpeed": null,
           "gapFirst": "4.648",
           "gapPrevious": ""
@@ -2205,6 +2589,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:17.860",
           "topSpeed": null,
           "gapFirst": "8.103",
           "gapPrevious": ""
@@ -2216,6 +2602,8 @@
           "teamName": "Pertamina Mandalika SAG Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:18.637",
           "topSpeed": null,
           "gapFirst": "8.880",
           "gapPrevious": ""
@@ -2227,6 +2615,8 @@
           "teamName": "MB Conveyors Speed Up",
           "constructorName": "Boscoscuro",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:19.268",
           "topSpeed": null,
           "gapFirst": "9.511",
           "gapPrevious": ""
@@ -2238,6 +2628,8 @@
           "teamName": "Yamaha VR46 Master Camp Team",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:32.298",
           "topSpeed": null,
           "gapFirst": "22.541",
           "gapPrevious": ""
@@ -2249,6 +2641,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:34.426",
           "topSpeed": null,
           "gapFirst": "24.669",
           "gapPrevious": ""
@@ -2260,6 +2654,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "14:02.802",
           "topSpeed": null,
           "gapFirst": "113.045",
           "gapPrevious": ""
@@ -2271,6 +2667,8 @@
           "teamName": "Gresini Racing Moto2",
           "constructorName": "Kalex",
           "totalLaps": 6,
+          "time": "",
+          "totalTime": "12:30.366",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2282,6 +2680,8 @@
           "teamName": "Mooney VR46 Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 3,
+          "time": "",
+          "totalTime": "05:23.442",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2293,6 +2693,8 @@
           "teamName": "RW Racing GP",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2304,6 +2706,8 @@
           "teamName": "Italtrans Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2315,6 +2719,8 @@
           "teamName": "American Racing",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2326,6 +2732,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2337,6 +2745,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2348,6 +2758,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2359,6 +2771,8 @@
           "teamName": "Inde GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2370,6 +2784,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2381,6 +2797,8 @@
           "teamName": "IDEMITSU Honda Team Asia",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2392,6 +2810,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2403,6 +2823,8 @@
           "teamName": "Inde GASGAS Aspar Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2414,6 +2836,8 @@
           "teamName": "Flexbox HP40",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2425,6 +2849,8 @@
           "teamName": "MV Agusta Forward Racing",
           "constructorName": "MV Agusta",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2436,6 +2862,8 @@
           "teamName": "Elf Marc VDS Racing Team",
           "constructorName": "Kalex",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""

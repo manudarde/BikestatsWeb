@@ -15,5 +15,22 @@
     "name": "Moto3™",
     "legacyId": 1
   },
-  "sessions": []
+  "sessions": [
+    {
+      "id": "ce869480-00a8-41e2-a08f-e3d9e041bfa3",
+      "type": "TS",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2020-07-15T07:10:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "12df25d1-e796-4541-a6d7-f9446ed4eb77",
+      "type": "TS",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2020-07-15T11:10:00+00:00",
+      "classification": []
+    }
+  ]
 }

@@ -36,7 +36,7 @@ async function pool<T, R>(items: T[], worker: (item: T) => Promise<R>, limit = 4
 }
 
 function normalizeResult(raw: any) {
-  return { position: raw?.position ?? null, riderName: raw?.rider?.full_name ?? '', riderNumber: raw?.rider?.number ?? null, teamName: raw?.team?.name ?? '', constructorName: raw?.constructor?.name ?? '', totalLaps: raw?.total_laps ?? null, topSpeed: raw?.top_speed ?? null, gapFirst: raw?.gap?.first ?? '', gapPrevious: raw?.gap?.prev ?? '' }
+  return { position: raw?.position ?? null, riderName: raw?.rider?.full_name ?? '', riderNumber: raw?.rider?.number ?? null, teamName: raw?.team?.name ?? '', constructorName: raw?.constructor?.name ?? '', totalLaps: raw?.total_laps ?? null, time: raw?.best_lap?.time ?? '', totalTime: raw?.time ?? '', topSpeed: raw?.top_speed ?? null, gapFirst: raw?.gap?.first ?? '', gapPrevious: raw?.gap?.prev ?? '' }
 }
 
 async function previousClassification(year: number, eventId: string, category: number, sessionId: string) {

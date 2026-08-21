@@ -15,5 +15,22 @@
     "name": "Moto2™",
     "legacyId": 2
   },
-  "sessions": []
+  "sessions": [
+    {
+      "id": "8eeffb1e-bbb0-46da-a79f-b02f4af7b2ba",
+      "type": "TS",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2020-07-15T09:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "baca94c2-7302-40a6-a53a-2598c509037f",
+      "type": "TS",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2020-07-15T14:30:00+00:00",
+      "classification": []
+    }
+  ]
 }

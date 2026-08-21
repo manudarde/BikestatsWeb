@@ -15,8 +15,8 @@ export function Select({ label, value, onChange, children, disabled }: { label: 
 }
 
 type Column<T> = { key: string; label: string; value: (row: T) => ReactNode; sort?: (row: T) => string | number; align?: 'right' | 'center' }
-export function DataTable<T>({ rows, columns, rowKey }: { rows: T[]; columns: Column<T>[]; rowKey: (row: T) => string }) {
-  const [sorting, setSorting] = useState<{ key: string; desc: boolean } | null>(null)
+export function DataTable<T>({ rows, columns, rowKey, initialSort, className = '' }: { rows: T[]; columns: Column<T>[]; rowKey: (row: T) => string; initialSort?: { key: string; desc?: boolean }; className?: string }) {
+  const [sorting, setSorting] = useState<{ key: string; desc: boolean } | null>(() => initialSort ? { key: initialSort.key, desc: initialSort.desc ?? false } : null)
   const sorted = useMemo(() => {
     if (!sorting) return rows
     const column = columns.find((item) => item.key === sorting.key)
@@ -27,7 +27,7 @@ export function DataTable<T>({ rows, columns, rowKey }: { rows: T[]; columns: Co
       return sorting.desc ? -result : result
     })
   }, [columns, rows, sorting])
-  return <div className="table-wrap"><table><thead><tr>{columns.map((column) => <th key={column.key} className={column.align ?? ''}>{column.sort ? <button onClick={() => setSorting((old) => ({ key: column.key, desc: old?.key === column.key ? !old.desc : false }))}>{column.label}{sorting?.key === column.key ? sorting.desc ? ' ↓' : ' ↑' : ''}</button> : column.label}</th>)}</tr></thead><tbody>{sorted.map((row) => <tr key={rowKey(row)}>{columns.map((column) => <td key={column.key} className={column.align ?? ''}>{column.value(row)}</td>)}</tr>)}</tbody></table></div>
+  return <div className={`table-wrap ${className}`}><table><thead><tr>{columns.map((column) => <th key={column.key} className={column.align ?? ''}>{column.sort ? <button onClick={() => setSorting((old) => ({ key: column.key, desc: old?.key === column.key ? !old.desc : false }))}>{column.label}{sorting?.key === column.key ? sorting.desc ? ' ↓' : ' ↑' : ''}</button> : column.label}</th>)}</tr></thead><tbody>{sorted.map((row) => <tr key={rowKey(row)}>{columns.map((column) => <td key={column.key} className={column.align ?? ''}>{column.value(row)}</td>)}</tr>)}</tbody></table></div>
 }
 
 export const formatPoints = (value: number) => Number.isInteger(value) ? String(value) : value.toFixed(1)

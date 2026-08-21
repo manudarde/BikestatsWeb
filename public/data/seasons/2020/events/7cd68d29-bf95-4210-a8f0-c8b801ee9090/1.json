@@ -15,5 +15,78 @@
     "name": "Moto3™",
     "legacyId": 1
   },
-  "sessions": []
+  "sessions": [
+    {
+      "id": "104ed873-db61-44b3-baa6-9b310d8bd0aa",
+      "type": "FP",
+      "number": 1,
+      "status": "FINISHED",
+      "date": "2020-02-19T10:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "3e7aacfc-9b58-48e2-b3dc-a502d32456c3",
+      "type": "FP",
+      "number": 2,
+      "status": "FINISHED",
+      "date": "2020-02-19T13:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "dee0a384-99eb-4a83-b7ef-986821120027",
+      "type": "FP",
+      "number": 3,
+      "status": "FINISHED",
+      "date": "2020-02-19T15:45:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c19187c7-761f-4630-bcb9-5b5deca833b0",
+      "type": "FP",
+      "number": 4,
+      "status": "FINISHED",
+      "date": "2020-02-20T09:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "c1b02f9b-8ed1-4c8c-af19-2c6db2bfff65",
+      "type": "FP",
+      "number": 5,
+      "status": "FINISHED",
+      "date": "2020-02-20T11:40:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "0f1de5bb-a430-4f05-a96b-1d0576f46e99",
+      "type": "FP",
+      "number": 6,
+      "status": "FINISHED",
+      "date": "2020-02-20T14:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "5abfbb76-1d23-4482-a884-470180947b34",
+      "type": "FP",
+      "number": 7,
+      "status": "FINISHED",
+      "date": "2020-02-21T10:20:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "d88044f0-2bed-49c1-a1af-d4e20b82250c",
+      "type": "FP",
+      "number": 8,
+      "status": "FINISHED",
+      "date": "2020-02-21T13:00:00+00:00",
+      "classification": []
+    },
+    {
+      "id": "2f54e473-008e-4816-93f2-3a338cfef964",
+      "type": "FP",
+      "number": 9,
+      "status": "FINISHED",
+      "date": "2020-02-21T15:45:00+00:00",
+      "classification": []
+    }
+  ]
 }

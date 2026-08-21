@@ -30,6 +30,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 15,
+          "time": "02:02.658",
+          "totalTime": "",
           "topSpeed": 231.7,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -41,6 +43,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 10,
+          "time": "02:03.268",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "0.610",
           "gapPrevious": "0.610"
@@ -52,6 +56,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 16,
+          "time": "02:03.397",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "0.739",
           "gapPrevious": "0.129"
@@ -63,6 +69,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 16,
+          "time": "02:03.488",
+          "totalTime": "",
           "topSpeed": 232.2,
           "gapFirst": "0.830",
           "gapPrevious": "0.091"
@@ -74,6 +82,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 17,
+          "time": "02:03.551",
+          "totalTime": "",
           "topSpeed": 228.8,
           "gapFirst": "0.893",
           "gapPrevious": "0.063"
@@ -85,6 +95,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 14,
+          "time": "02:03.729",
+          "totalTime": "",
           "topSpeed": 226.4,
           "gapFirst": "1.071",
           "gapPrevious": "0.178"
@@ -96,6 +108,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 18,
+          "time": "02:03.921",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "1.263",
           "gapPrevious": "0.192"
@@ -107,6 +121,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:03.972",
+          "totalTime": "",
           "topSpeed": 231.7,
           "gapFirst": "1.314",
           "gapPrevious": "0.051"
@@ -118,6 +134,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 16,
+          "time": "02:03.996",
+          "totalTime": "",
           "topSpeed": 234.2,
           "gapFirst": "1.338",
           "gapPrevious": "0.024"
@@ -129,6 +147,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 14,
+          "time": "02:04.034",
+          "totalTime": "",
           "topSpeed": 225,
           "gapFirst": "1.376",
           "gapPrevious": "0.038"
@@ -140,6 +160,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 15,
+          "time": "02:04.062",
+          "totalTime": "",
           "topSpeed": 228.8,
           "gapFirst": "1.404",
           "gapPrevious": "0.028"
@@ -151,6 +173,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 13,
+          "time": "02:04.076",
+          "totalTime": "",
           "topSpeed": 226.4,
           "gapFirst": "1.418",
           "gapPrevious": "0.014"
@@ -162,6 +186,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 16,
+          "time": "02:04.156",
+          "totalTime": "",
           "topSpeed": 233.2,
           "gapFirst": "1.498",
           "gapPrevious": "0.080"
@@ -173,6 +199,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:04.191",
+          "totalTime": "",
           "topSpeed": 223.6,
           "gapFirst": "1.533",
           "gapPrevious": "0.035"
@@ -184,6 +212,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 15,
+          "time": "02:04.218",
+          "totalTime": "",
           "topSpeed": 225.9,
           "gapFirst": "1.560",
           "gapPrevious": "0.027"
@@ -195,6 +225,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:04.238",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "1.580",
           "gapPrevious": "0.020"
@@ -206,6 +238,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 16,
+          "time": "02:04.379",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "1.721",
           "gapPrevious": "0.141"
@@ -217,6 +251,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 7,
+          "time": "02:04.724",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "2.066",
           "gapPrevious": "0.345"
@@ -228,6 +264,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 16,
+          "time": "02:04.843",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "2.185",
           "gapPrevious": "0.119"
@@ -239,6 +277,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 11,
+          "time": "02:04.964",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "2.306",
           "gapPrevious": "0.121"
@@ -250,6 +290,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 16,
+          "time": "02:05.090",
+          "totalTime": "",
           "topSpeed": 229.2,
           "gapFirst": "2.432",
           "gapPrevious": "0.126"
@@ -261,6 +303,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:05.463",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "2.805",
           "gapPrevious": "0.373"
@@ -272,6 +316,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:06.011",
+          "totalTime": "",
           "topSpeed": 225.4,
           "gapFirst": "3.353",
           "gapPrevious": "0.548"
@@ -283,6 +329,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 15,
+          "time": "02:06.128",
+          "totalTime": "",
           "topSpeed": 224.5,
           "gapFirst": "3.470",
           "gapPrevious": "0.117"
@@ -294,6 +342,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:06.686",
+          "totalTime": "",
           "topSpeed": 232.7,
           "gapFirst": "4.028",
           "gapPrevious": "0.558"
@@ -305,6 +355,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:06.892",
+          "totalTime": "",
           "topSpeed": 225.9,
           "gapFirst": "4.234",
           "gapPrevious": "0.206"
@@ -316,6 +368,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 11,
+          "time": "02:07.133",
+          "totalTime": "",
           "topSpeed": 231.7,
           "gapFirst": "4.475",
           "gapPrevious": "0.241"
@@ -327,6 +381,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 3,
+          "time": "02:11.797",
+          "totalTime": "",
           "topSpeed": 223.1,
           "gapFirst": "9.139",
           "gapPrevious": "1.936"
@@ -338,6 +394,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:09.861",
+          "totalTime": "",
           "topSpeed": 227.3,
           "gapFirst": "7.203",
           "gapPrevious": "0.773"
@@ -349,6 +407,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 4,
+          "time": "02:09.088",
+          "totalTime": "",
           "topSpeed": 221.3,
           "gapFirst": "6.430",
           "gapPrevious": "1.955"
@@ -360,6 +420,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -380,6 +442,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 12,
+          "time": "02:02.491",
+          "totalTime": "",
           "topSpeed": 223.1,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -391,6 +455,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 11,
+          "time": "02:02.544",
+          "totalTime": "",
           "topSpeed": 232.7,
           "gapFirst": "0.053",
           "gapPrevious": "0.053"
@@ -402,6 +468,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:02.566",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "0.075",
           "gapPrevious": "0.022"
@@ -413,6 +481,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 10,
+          "time": "02:02.589",
+          "totalTime": "",
           "topSpeed": 228.8,
           "gapFirst": "0.098",
           "gapPrevious": "0.023"
@@ -424,6 +494,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 11,
+          "time": "02:02.901",
+          "totalTime": "",
           "topSpeed": 233.7,
           "gapFirst": "0.410",
           "gapPrevious": "0.312"
@@ -435,6 +507,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 11,
+          "time": "02:03.156",
+          "totalTime": "",
           "topSpeed": 232.2,
           "gapFirst": "0.665",
           "gapPrevious": "0.255"
@@ -446,6 +520,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 13,
+          "time": "02:03.340",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "0.849",
           "gapPrevious": "0.184"
@@ -457,6 +533,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 13,
+          "time": "02:03.394",
+          "totalTime": "",
           "topSpeed": 233.2,
           "gapFirst": "0.903",
           "gapPrevious": "0.054"
@@ -468,6 +546,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 13,
+          "time": "02:03.456",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "0.965",
           "gapPrevious": "0.062"
@@ -479,6 +559,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 11,
+          "time": "02:03.489",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "0.998",
           "gapPrevious": "0.033"
@@ -490,6 +572,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 15,
+          "time": "02:03.642",
+          "totalTime": "",
           "topSpeed": 229.7,
           "gapFirst": "1.151",
           "gapPrevious": "0.153"
@@ -501,6 +585,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 16,
+          "time": "02:04.294",
+          "totalTime": "",
           "topSpeed": 229.2,
           "gapFirst": "1.803",
           "gapPrevious": "0.652"
@@ -512,6 +598,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:04.447",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "1.956",
           "gapPrevious": "0.153"
@@ -523,6 +611,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "02:04.550",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "2.059",
           "gapPrevious": "0.103"
@@ -534,6 +624,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:04.604",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "2.113",
           "gapPrevious": "0.054"
@@ -545,6 +637,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 12,
+          "time": "02:04.656",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "2.165",
           "gapPrevious": "0.052"
@@ -556,6 +650,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 12,
+          "time": "02:04.700",
+          "totalTime": "",
           "topSpeed": 232.2,
           "gapFirst": "2.209",
           "gapPrevious": "0.044"
@@ -567,6 +663,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 4,
+          "time": "02:04.801",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "2.310",
           "gapPrevious": "0.101"
@@ -578,6 +676,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 11,
+          "time": "02:05.192",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "2.701",
           "gapPrevious": "0.391"
@@ -589,6 +689,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 10,
+          "time": "02:05.288",
+          "totalTime": "",
           "topSpeed": 234.2,
           "gapFirst": "2.797",
           "gapPrevious": "0.096"
@@ -600,6 +702,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 5,
+          "time": "02:05.598",
+          "totalTime": "",
           "topSpeed": 225.4,
           "gapFirst": "3.107",
           "gapPrevious": "0.310"
@@ -611,6 +715,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "02:05.669",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "3.178",
           "gapPrevious": "0.071"
@@ -622,6 +728,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 12,
+          "time": "02:05.722",
+          "totalTime": "",
           "topSpeed": 229.2,
           "gapFirst": "3.231",
           "gapPrevious": "0.053"
@@ -633,6 +741,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 14,
+          "time": "02:06.234",
+          "totalTime": "",
           "topSpeed": 234.7,
           "gapFirst": "3.743",
           "gapPrevious": "0.512"
@@ -644,6 +754,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 9,
+          "time": "02:06.302",
+          "totalTime": "",
           "topSpeed": 226.8,
           "gapFirst": "3.811",
           "gapPrevious": "0.068"
@@ -655,6 +767,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 7,
+          "time": "02:06.733",
+          "totalTime": "",
           "topSpeed": 233.2,
           "gapFirst": "4.242",
           "gapPrevious": "0.431"
@@ -666,6 +780,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:07.205",
+          "totalTime": "",
           "topSpeed": 225,
           "gapFirst": "4.714",
           "gapPrevious": "0.472"
@@ -677,6 +793,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 13,
+          "time": "02:07.521",
+          "totalTime": "",
           "topSpeed": 226.8,
           "gapFirst": "5.030",
           "gapPrevious": "0.316"
@@ -688,6 +806,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "02:13.921",
+          "totalTime": "",
           "topSpeed": 224,
           "gapFirst": "11.430",
           "gapPrevious": "6.400"
@@ -699,6 +819,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -719,6 +841,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 16,
+          "time": "02:03.866",
+          "totalTime": "",
           "topSpeed": 226.8,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -730,6 +854,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 14,
+          "time": "02:03.896",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "0.030",
           "gapPrevious": "0.030"
@@ -741,6 +867,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 16,
+          "time": "02:03.905",
+          "totalTime": "",
           "topSpeed": 231.7,
           "gapFirst": "0.039",
           "gapPrevious": "0.009"
@@ -752,6 +880,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 13,
+          "time": "02:03.999",
+          "totalTime": "",
           "topSpeed": 225.4,
           "gapFirst": "0.133",
           "gapPrevious": "0.094"
@@ -763,6 +893,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:04.126",
+          "totalTime": "",
           "topSpeed": 232.2,
           "gapFirst": "0.260",
           "gapPrevious": "0.127"
@@ -774,6 +906,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 16,
+          "time": "02:04.318",
+          "totalTime": "",
           "topSpeed": 229.7,
           "gapFirst": "0.452",
           "gapPrevious": "0.192"
@@ -785,6 +919,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 14,
+          "time": "02:04.340",
+          "totalTime": "",
           "topSpeed": 226.8,
           "gapFirst": "0.474",
           "gapPrevious": "0.022"
@@ -796,6 +932,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 11,
+          "time": "02:04.598",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "0.732",
           "gapPrevious": "0.258"
@@ -807,6 +945,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 13,
+          "time": "02:04.881",
+          "totalTime": "",
           "topSpeed": 233.2,
           "gapFirst": "1.015",
           "gapPrevious": "0.283"
@@ -818,6 +958,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 15,
+          "time": "02:04.882",
+          "totalTime": "",
           "topSpeed": 228.3,
           "gapFirst": "1.016",
           "gapPrevious": "0.001"
@@ -829,6 +971,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 15,
+          "time": "02:05.061",
+          "totalTime": "",
           "topSpeed": 226.4,
           "gapFirst": "1.195",
           "gapPrevious": "0.179"
@@ -840,6 +984,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 14,
+          "time": "02:05.148",
+          "totalTime": "",
           "topSpeed": 225,
           "gapFirst": "1.282",
           "gapPrevious": "0.087"
@@ -851,6 +997,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 16,
+          "time": "02:05.209",
+          "totalTime": "",
           "topSpeed": 232.2,
           "gapFirst": "1.343",
           "gapPrevious": "0.061"
@@ -862,6 +1010,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 6,
+          "time": "02:05.333",
+          "totalTime": "",
           "topSpeed": 219,
           "gapFirst": "1.467",
           "gapPrevious": "0.124"
@@ -873,6 +1023,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 17,
+          "time": "02:05.650",
+          "totalTime": "",
           "topSpeed": 227.3,
           "gapFirst": "1.784",
           "gapPrevious": "0.317"
@@ -884,6 +1036,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 8,
+          "time": "02:05.819",
+          "totalTime": "",
           "topSpeed": 229.7,
           "gapFirst": "1.953",
           "gapPrevious": "0.169"
@@ -895,6 +1049,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 9,
+          "time": "02:05.830",
+          "totalTime": "",
           "topSpeed": 230.7,
           "gapFirst": "1.964",
           "gapPrevious": "0.011"
@@ -906,6 +1062,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:06.136",
+          "totalTime": "",
           "topSpeed": 225.9,
           "gapFirst": "2.270",
           "gapPrevious": "0.306"
@@ -917,6 +1075,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 16,
+          "time": "02:06.143",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "2.277",
           "gapPrevious": "0.007"
@@ -928,6 +1088,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 16,
+          "time": "02:06.176",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "2.310",
           "gapPrevious": "0.033"
@@ -939,6 +1101,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 14,
+          "time": "02:06.233",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "2.367",
           "gapPrevious": "0.057"
@@ -950,6 +1114,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 17,
+          "time": "02:06.276",
+          "totalTime": "",
           "topSpeed": 227.3,
           "gapFirst": "2.410",
           "gapPrevious": "0.043"
@@ -961,6 +1127,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 13,
+          "time": "02:06.476",
+          "totalTime": "",
           "topSpeed": 225.9,
           "gapFirst": "2.610",
           "gapPrevious": "0.200"
@@ -972,6 +1140,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 14,
+          "time": "02:06.481",
+          "totalTime": "",
           "topSpeed": 231.2,
           "gapFirst": "2.615",
           "gapPrevious": "0.005"
@@ -983,6 +1153,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 16,
+          "time": "02:06.605",
+          "totalTime": "",
           "topSpeed": 227.3,
           "gapFirst": "2.739",
           "gapPrevious": "0.124"
@@ -994,6 +1166,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 8,
+          "time": "02:06.856",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "2.990",
           "gapPrevious": "0.251"
@@ -1005,6 +1179,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:06.914",
+          "totalTime": "",
           "topSpeed": 226.4,
           "gapFirst": "3.048",
           "gapPrevious": "0.058"
@@ -1016,6 +1192,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 12,
+          "time": "02:07.211",
+          "totalTime": "",
           "topSpeed": 220.4,
           "gapFirst": "3.345",
           "gapPrevious": "0.297"
@@ -1027,6 +1205,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 14,
+          "time": "02:07.347",
+          "totalTime": "",
           "topSpeed": 225,
           "gapFirst": "3.481",
           "gapPrevious": "0.136"
@@ -1038,6 +1218,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 15,
+          "time": "02:12.083",
+          "totalTime": "",
           "topSpeed": 222.2,
           "gapFirst": "8.217",
           "gapPrevious": "4.736"
@@ -1058,6 +1240,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:07.198",
+          "totalTime": "",
           "topSpeed": 221.3,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1069,6 +1253,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:07.713",
+          "totalTime": "",
           "topSpeed": 225,
           "gapFirst": "0.515",
           "gapPrevious": "0.515"
@@ -1080,6 +1266,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:08.076",
+          "totalTime": "",
           "topSpeed": 222.2,
           "gapFirst": "0.878",
           "gapPrevious": "0.363"
@@ -1091,6 +1279,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:08.366",
+          "totalTime": "",
           "topSpeed": 216.4,
           "gapFirst": "1.168",
           "gapPrevious": "0.290"
@@ -1102,6 +1292,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 7,
+          "time": "02:08.477",
+          "totalTime": "",
           "topSpeed": 222.2,
           "gapFirst": "1.279",
           "gapPrevious": "0.111"
@@ -1113,6 +1305,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:08.977",
+          "totalTime": "",
           "topSpeed": 221.7,
           "gapFirst": "1.779",
           "gapPrevious": "0.500"
@@ -1124,6 +1318,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 6,
+          "time": "02:09.228",
+          "totalTime": "",
           "topSpeed": 224.5,
           "gapFirst": "2.030",
           "gapPrevious": "0.251"
@@ -1135,6 +1331,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:09.502",
+          "totalTime": "",
           "topSpeed": 219.9,
           "gapFirst": "2.304",
           "gapPrevious": "0.274"
@@ -1146,6 +1344,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "02:09.654",
+          "totalTime": "",
           "topSpeed": 224,
           "gapFirst": "2.456",
           "gapPrevious": "0.152"
@@ -1157,6 +1357,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "02:10.039",
+          "totalTime": "",
           "topSpeed": 219.5,
           "gapFirst": "2.841",
           "gapPrevious": "0.385"
@@ -1168,6 +1370,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:10.365",
+          "totalTime": "",
           "topSpeed": 219,
           "gapFirst": "3.167",
           "gapPrevious": "0.326"
@@ -1179,6 +1383,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:10.514",
+          "totalTime": "",
           "topSpeed": 223.6,
           "gapFirst": "3.316",
           "gapPrevious": "0.149"
@@ -1190,6 +1396,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:11.241",
+          "totalTime": "",
           "topSpeed": 221.7,
           "gapFirst": "4.043",
           "gapPrevious": "0.727"
@@ -1201,6 +1409,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:12.481",
+          "totalTime": "",
           "topSpeed": 220.4,
           "gapFirst": "5.283",
           "gapPrevious": "1.240"
@@ -1212,6 +1422,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 7,
+          "time": "02:13.508",
+          "totalTime": "",
           "topSpeed": 214.7,
           "gapFirst": "6.310",
           "gapPrevious": "1.027"
@@ -1223,6 +1435,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 0,
+          "time": "",
+          "totalTime": "",
           "topSpeed": 0,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1243,6 +1457,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 8,
+          "time": "02:03.955",
+          "totalTime": "",
           "topSpeed": 226.4,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1254,6 +1470,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:03.972",
+          "totalTime": "",
           "topSpeed": 219.5,
           "gapFirst": "0.017",
           "gapPrevious": "0.017"
@@ -1265,6 +1483,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:04.447",
+          "totalTime": "",
           "topSpeed": 226.4,
           "gapFirst": "0.492",
           "gapPrevious": "0.475"
@@ -1276,6 +1496,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 7,
+          "time": "02:04.501",
+          "totalTime": "",
           "topSpeed": 222.6,
           "gapFirst": "0.546",
           "gapPrevious": "0.054"
@@ -1287,6 +1509,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:04.563",
+          "totalTime": "",
           "topSpeed": 230.2,
           "gapFirst": "0.608",
           "gapPrevious": "0.062"
@@ -1298,6 +1522,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 6,
+          "time": "02:05.005",
+          "totalTime": "",
           "topSpeed": 228.3,
           "gapFirst": "1.050",
           "gapPrevious": "0.442"
@@ -1309,6 +1535,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:05.137",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "1.182",
           "gapPrevious": "0.132"
@@ -1320,6 +1548,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:05.202",
+          "totalTime": "",
           "topSpeed": 224.5,
           "gapFirst": "1.247",
           "gapPrevious": "0.065"
@@ -1331,6 +1561,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 7,
+          "time": "02:05.311",
+          "totalTime": "",
           "topSpeed": 227.8,
           "gapFirst": "1.356",
           "gapPrevious": "0.109"
@@ -1342,6 +1574,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 7,
+          "time": "02:05.395",
+          "totalTime": "",
           "topSpeed": 228.8,
           "gapFirst": "1.440",
           "gapPrevious": "0.084"
@@ -1353,6 +1587,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:05.608",
+          "totalTime": "",
           "topSpeed": 229.2,
           "gapFirst": "1.653",
           "gapPrevious": "0.213"
@@ -1364,6 +1600,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 7,
+          "time": "02:05.772",
+          "totalTime": "",
           "topSpeed": 227.3,
           "gapFirst": "1.817",
           "gapPrevious": "0.164"
@@ -1375,6 +1613,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "02:05.967",
+          "totalTime": "",
           "topSpeed": 227.3,
           "gapFirst": "2.012",
           "gapPrevious": "0.195"
@@ -1386,6 +1626,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:06.270",
+          "totalTime": "",
           "topSpeed": 228.3,
           "gapFirst": "2.315",
           "gapPrevious": "0.303"
@@ -1397,6 +1639,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:06.532",
+          "totalTime": "",
           "topSpeed": 225.9,
           "gapFirst": "2.577",
           "gapPrevious": "0.262"
@@ -1408,6 +1652,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:07.020",
+          "totalTime": "",
           "topSpeed": 226.8,
           "gapFirst": "3.065",
           "gapPrevious": "0.488"
@@ -1419,6 +1665,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "02:07.238",
+          "totalTime": "",
           "topSpeed": 231.7,
           "gapFirst": "3.283",
           "gapPrevious": "0.218"
@@ -1430,6 +1678,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 2,
+          "time": "02:08.626",
+          "totalTime": "",
           "topSpeed": 216.8,
           "gapFirst": "4.671",
           "gapPrevious": "1.388"
@@ -1450,6 +1700,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "01:50.089",
+          "totalTime": "",
           "topSpeed": 235.8,
           "gapFirst": "0.000",
           "gapPrevious": "0.000"
@@ -1461,6 +1713,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 6,
+          "time": "01:50.228",
+          "totalTime": "",
           "topSpeed": 236.3,
           "gapFirst": "0.139",
           "gapPrevious": "0.139"
@@ -1472,6 +1726,8 @@
           "teamName": "Valresa GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 6,
+          "time": "01:50.263",
+          "totalTime": "",
           "topSpeed": 232.7,
           "gapFirst": "0.174",
           "gapPrevious": "0.035"
@@ -1483,6 +1739,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 3,
+          "time": "01:50.418",
+          "totalTime": "",
           "topSpeed": 236.3,
           "gapFirst": "0.329",
           "gapPrevious": "0.155"
@@ -1494,6 +1752,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:50.603",
+          "totalTime": "",
           "topSpeed": 242.6,
           "gapFirst": "0.514",
           "gapPrevious": "0.185"
@@ -1505,6 +1765,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "01:50.791",
+          "totalTime": "",
           "topSpeed": 235.8,
           "gapFirst": "0.702",
           "gapPrevious": "0.188"
@@ -1516,6 +1778,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 5,
+          "time": "01:50.873",
+          "totalTime": "",
           "topSpeed": 242.1,
           "gapFirst": "0.784",
           "gapPrevious": "0.082"
@@ -1527,6 +1791,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "01:50.955",
+          "totalTime": "",
           "topSpeed": 243.7,
           "gapFirst": "0.866",
           "gapPrevious": "0.082"
@@ -1538,6 +1804,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 6,
+          "time": "01:51.019",
+          "totalTime": "",
           "topSpeed": 239.4,
           "gapFirst": "0.930",
           "gapPrevious": "0.064"
@@ -1549,6 +1817,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 6,
+          "time": "01:51.087",
+          "totalTime": "",
           "topSpeed": 237.3,
           "gapFirst": "0.998",
           "gapPrevious": "0.068"
@@ -1560,6 +1830,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "01:51.115",
+          "totalTime": "",
           "topSpeed": 240,
           "gapFirst": "1.026",
           "gapPrevious": "0.028"
@@ -1571,6 +1843,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 4,
+          "time": "01:51.433",
+          "totalTime": "",
           "topSpeed": 238.4,
           "gapFirst": "1.344",
           "gapPrevious": "0.318"
@@ -1582,6 +1856,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:51.513",
+          "totalTime": "",
           "topSpeed": 240,
           "gapFirst": "1.424",
           "gapPrevious": "0.080"
@@ -1593,6 +1869,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:51.612",
+          "totalTime": "",
           "topSpeed": 232.7,
           "gapFirst": "1.523",
           "gapPrevious": "0.099"
@@ -1604,6 +1882,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 6,
+          "time": "01:51.789",
+          "totalTime": "",
           "topSpeed": 238.9,
           "gapFirst": "1.700",
           "gapPrevious": "0.177"
@@ -1615,6 +1895,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 6,
+          "time": "01:51.871",
+          "totalTime": "",
           "topSpeed": 231.7,
           "gapFirst": "1.782",
           "gapPrevious": "0.082"
@@ -1626,6 +1908,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 4,
+          "time": "01:51.910",
+          "totalTime": "",
           "topSpeed": 237.8,
           "gapFirst": "1.821",
           "gapPrevious": "0.039"
@@ -1637,6 +1921,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:52.059",
+          "totalTime": "",
           "topSpeed": 238.4,
           "gapFirst": "1.970",
           "gapPrevious": "0.149"
@@ -1648,6 +1934,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:52.075",
+          "totalTime": "",
           "topSpeed": 242.6,
           "gapFirst": "1.986",
           "gapPrevious": "0.016"
@@ -1659,6 +1947,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:52.149",
+          "totalTime": "",
           "topSpeed": 236.3,
           "gapFirst": "2.060",
           "gapPrevious": "0.074"
@@ -1670,6 +1960,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:52.231",
+          "totalTime": "",
           "topSpeed": 238.9,
           "gapFirst": "2.142",
           "gapPrevious": "0.082"
@@ -1681,6 +1973,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:52.782",
+          "totalTime": "",
           "topSpeed": 237.8,
           "gapFirst": "2.693",
           "gapPrevious": "0.551"
@@ -1692,6 +1986,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:52.792",
+          "totalTime": "",
           "topSpeed": 237.8,
           "gapFirst": "2.703",
           "gapPrevious": "0.010"
@@ -1703,6 +1999,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:53.402",
+          "totalTime": "",
           "topSpeed": 233.7,
           "gapFirst": "3.313",
           "gapPrevious": "0.610"
@@ -1714,6 +2012,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:53.477",
+          "totalTime": "",
           "topSpeed": 233.2,
           "gapFirst": "3.388",
           "gapPrevious": "0.075"
@@ -1725,6 +2025,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 6,
+          "time": "01:53.725",
+          "totalTime": "",
           "topSpeed": 235.8,
           "gapFirst": "3.636",
           "gapPrevious": "0.248"
@@ -1736,6 +2038,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 5,
+          "time": "01:53.761",
+          "totalTime": "",
           "topSpeed": 240.5,
           "gapFirst": "3.672",
           "gapPrevious": "0.036"
@@ -1747,6 +2051,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:53.875",
+          "totalTime": "",
           "topSpeed": 242.1,
           "gapFirst": "3.786",
           "gapPrevious": "0.114"
@@ -1758,6 +2064,8 @@
           "teamName": "BOE SKX",
           "constructorName": "KTM",
           "totalLaps": 5,
+          "time": "01:54.177",
+          "totalTime": "",
           "topSpeed": 235.8,
           "gapFirst": "4.088",
           "gapPrevious": "0.302"
@@ -1769,6 +2077,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 5,
+          "time": "01:55.142",
+          "totalTime": "",
           "topSpeed": 234.7,
           "gapFirst": "5.053",
           "gapPrevious": "0.965"
@@ -1789,6 +2099,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:17.725",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -1800,6 +2112,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:17.794",
           "topSpeed": null,
           "gapFirst": "0.069",
           "gapPrevious": ""
@@ -1811,6 +2125,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:17.835",
           "topSpeed": null,
           "gapFirst": "0.110",
           "gapPrevious": ""
@@ -1822,6 +2138,8 @@
           "teamName": "Red Bull KTM Tech3",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:17.935",
           "topSpeed": null,
           "gapFirst": "0.210",
           "gapPrevious": ""
@@ -1833,6 +2151,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:18.098",
           "topSpeed": null,
           "gapFirst": "0.373",
           "gapPrevious": ""
@@ -1844,6 +2164,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:21.819",
           "topSpeed": null,
           "gapFirst": "4.094",
           "gapPrevious": ""
@@ -1855,6 +2177,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:22.454",
           "topSpeed": null,
           "gapFirst": "4.729",
           "gapPrevious": ""
@@ -1866,6 +2190,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:24.895",
           "topSpeed": null,
           "gapFirst": "7.170",
           "gapPrevious": ""
@@ -1877,6 +2203,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:24.966",
           "topSpeed": null,
           "gapFirst": "7.241",
           "gapPrevious": ""
@@ -1888,6 +2216,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:24.890",
           "topSpeed": null,
           "gapFirst": "7.165",
           "gapPrevious": ""
@@ -1899,6 +2229,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:25.001",
           "topSpeed": null,
           "gapFirst": "7.276",
           "gapPrevious": ""
@@ -1910,6 +2242,8 @@
           "teamName": "Leopard Racing",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:25.059",
           "topSpeed": null,
           "gapFirst": "7.334",
           "gapPrevious": ""
@@ -1921,6 +2255,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:25.167",
           "topSpeed": null,
           "gapFirst": "7.442",
           "gapPrevious": ""
@@ -1932,6 +2268,8 @@
           "teamName": "SIC58 Squadra Corse",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:36.714",
           "topSpeed": null,
           "gapFirst": "18.989",
           "gapPrevious": ""
@@ -1943,6 +2281,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:40.162",
           "topSpeed": null,
           "gapFirst": "22.437",
           "gapPrevious": ""
@@ -1954,6 +2294,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:40.352",
           "topSpeed": null,
           "gapFirst": "22.627",
           "gapPrevious": ""
@@ -1965,6 +2307,8 @@
           "teamName": "CIP Green Power",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:43.136",
           "topSpeed": null,
           "gapFirst": "25.411",
           "gapPrevious": ""
@@ -1976,6 +2320,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:43.920",
           "topSpeed": null,
           "gapFirst": "26.195",
           "gapPrevious": ""
@@ -1987,6 +2333,8 @@
           "teamName": "QJMotor Avintia Racing Team",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:43.938",
           "topSpeed": null,
           "gapFirst": "26.213",
           "gapPrevious": ""
@@ -1998,6 +2346,8 @@
           "teamName": "CFMOTO Racing PruestelGP",
           "constructorName": "CFMOTO",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:44.305",
           "topSpeed": null,
           "gapFirst": "26.580",
           "gapPrevious": ""
@@ -2009,6 +2359,8 @@
           "teamName": "MT Helmets - MSI",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:44.942",
           "topSpeed": null,
           "gapFirst": "27.217",
           "gapPrevious": ""
@@ -2020,6 +2372,8 @@
           "teamName": "Sterilgarda Husqvarna Max",
           "constructorName": "Husqvarna",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "38:48.127",
           "topSpeed": null,
           "gapFirst": "30.402",
           "gapPrevious": ""
@@ -2031,6 +2385,8 @@
           "teamName": "BOE Motorsports",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "39:00.651",
           "topSpeed": null,
           "gapFirst": "42.926",
           "gapPrevious": ""
@@ -2042,6 +2398,8 @@
           "teamName": "Rivacold Snipers Team",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "39:00.714",
           "topSpeed": null,
           "gapFirst": "42.989",
           "gapPrevious": ""
@@ -2053,6 +2411,8 @@
           "teamName": "Honda Team Asia",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "39:08.257",
           "topSpeed": null,
           "gapFirst": "50.532",
           "gapPrevious": ""
@@ -2064,6 +2424,8 @@
           "teamName": "VisionTrack Racing Team",
           "constructorName": "Honda",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "39:08.627",
           "topSpeed": null,
           "gapFirst": "50.902",
           "gapPrevious": ""
@@ -2075,6 +2437,8 @@
           "teamName": "GASGAS Aspar Team",
           "constructorName": "GASGAS",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "39:08.924",
           "topSpeed": null,
           "gapFirst": "51.199",
           "gapPrevious": ""
@@ -2086,6 +2450,8 @@
           "teamName": "BOE Motorsports",
           "constructorName": "KTM",
           "totalLaps": 21,
+          "time": "",
+          "totalTime": "39:11.730",
           "topSpeed": null,
           "gapFirst": "54.005",
           "gapPrevious": ""
@@ -2097,6 +2463,8 @@
           "teamName": "Red Bull KTM Ajo",
           "constructorName": "KTM",
           "totalLaps": 17,
+          "time": "",
+          "totalTime": "31:06.209",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
@@ -2108,6 +2476,8 @@
           "teamName": "Angeluss MTA Team",
           "constructorName": "KTM",
           "totalLaps": 7,
+          "time": "",
+          "totalTime": "12:55.159",
           "topSpeed": null,
           "gapFirst": "0.000",
           "gapPrevious": ""
